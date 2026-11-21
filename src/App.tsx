@@ -1,11 +1,13 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, lazy, Suspense } from 'react';
 import { supabase, type Team, type TeamSeason, type TransferMovement } from './lib/supabase';
 import { TopTeamsList } from './components/TopTeamsList';
 import { TransfersTab } from './components/TransfersTab';
 import { DeparturesTab } from './components/DeparturesTab';
 import { RosterTab } from './components/RosterTab';
-import { PlayerModal } from './components/PlayerModal';
 import { Shield, TrendingUp, Users, Sparkles, LogOut, RefreshCw, DollarSign, Calendar } from 'lucide-react';
+
+// Lazy loaded to keep initial bundle ultra-lightweight and fast
+const PlayerModal = lazy(() => import('./components/PlayerModal').then((m) => ({ default: m.PlayerModal })));
 
 export function App() {
   const [currentYear, setCurrentYear] = useState<number>(2026);
@@ -295,16 +297,27 @@ export function App() {
         )}
       </main>
 
-      {/* Player Detail Modal with 3D Avatar */}
+      {/* Player Detail Modal with 3D Avatar (Lazy-loaded for maximum performance) */}
       {selectedPlayerModal && (
-        <PlayerModal
-          playerId={selectedPlayerModal.playerId}
-          team={selectedPlayerModal.team}
-          seasonYear={currentYear}
-          contractStart={selectedPlayerModal.contractStart}
-          contractEnd={selectedPlayerModal.contractEnd}
-          onClose={() => setSelectedPlayerModal(null)}
-        />
+        <Suspense
+          fallback={
+            <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-sm">
+              <div className="flex flex-col items-center gap-3">
+                <div className="h-10 w-10 animate-spin rounded-full border-4 border-amber-400 border-t-transparent" />
+                <p className="text-sm font-semibold text-slate-300">Cargando visualización 3D...</p>
+              </div>
+            </div>
+          }
+        >
+          <PlayerModal
+            playerId={selectedPlayerModal.playerId}
+            team={selectedPlayerModal.team}
+            seasonYear={currentYear}
+            contractStart={selectedPlayerModal.contractStart}
+            contractEnd={selectedPlayerModal.contractEnd}
+            onClose={() => setSelectedPlayerModal(null)}
+          />
+        </Suspense>
       )}
 
       {/* Footer */}

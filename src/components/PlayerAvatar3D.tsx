@@ -1040,6 +1040,23 @@ export const PlayerAvatar3D: React.FC<PlayerAvatar3DProps> = ({
         } catch {}
       }
 
+      // Deep dispose GPU geometries, materials and textures to prevent WebGL memory leaks
+      scene.traverse((object: any) => {
+        if (object.geometry) {
+          object.geometry.dispose?.();
+        }
+        if (object.material) {
+          if (Array.isArray(object.material)) {
+            object.material.forEach((mat: any) => {
+              mat.map?.dispose?.();
+              mat.dispose?.();
+            });
+          } else {
+            object.material.map?.dispose?.();
+            object.material.dispose?.();
+          }
+        }
+      });
       scene.clear();
     };
   }, [

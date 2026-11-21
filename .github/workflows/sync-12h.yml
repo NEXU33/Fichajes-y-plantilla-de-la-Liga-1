@@ -1,0 +1,29 @@
+name: Sincronización Automática Liga 1 (Cada 12 Horas)
+
+on:
+  schedule:
+    # Se ejecuta a las 00:00 y a las 12:00 UTC todos los días
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub cuando se desee
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Ejecutar script de sincronización Liga 1
+        env:
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
+        run: npm run sync

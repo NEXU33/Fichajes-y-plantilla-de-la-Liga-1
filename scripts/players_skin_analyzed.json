@@ -1,0 +1,7812 @@
+{
+  "ad68eae0-c739-442b-9ef0-00a38c34ea98": {
+    "luminance": 124.2,
+    "rgb": [
+      170,
+      109,
+      83
+    ],
+    "hex": "#AA6D53",
+    "category": "mestizo"
+  },
+  "275194d4-2861-49be-9aae-4e1f7e25cb9c": {
+    "luminance": 98.9,
+    "rgb": [
+      141,
+      85,
+      63
+    ],
+    "hex": "#8D553F",
+    "category": "moreno"
+  },
+  "8d667543-72f6-4363-8f74-d29a8f1bddea": {
+    "luminance": 105.7,
+    "rgb": [
+      158,
+      88,
+      63
+    ],
+    "hex": "#9E583F",
+    "category": "moreno"
+  },
+  "c216173f-e603-4ece-b7a5-06451e75498e": {
+    "luminance": 127.4,
+    "rgb": [
+      172,
+      111,
+      93
+    ],
+    "hex": "#AC6F5D",
+    "category": "mestizo"
+  },
+  "783933ea-7149-4d46-a5b6-01368569658a": {
+    "luminance": 155.9,
+    "rgb": [
+      196,
+      141,
+      128
+    ],
+    "hex": "#C48D80",
+    "category": "white"
+  },
+  "2e99af37-65a4-4f22-86cc-b4f8e00f97e5": {
+    "luminance": 163.0,
+    "rgb": [
+      211,
+      145,
+      132
+    ],
+    "hex": "#D39184",
+    "category": "white"
+  },
+  "f93e6ada-8cb9-4a44-b217-ac90d32fb19f": {
+    "luminance": 183.7,
+    "rgb": [
+      236,
+      163,
+      150
+    ],
+    "hex": "#ECA396",
+    "category": "white"
+  },
+  "570ce165-50ab-47d1-8d93-5d2af73216b0": {
+    "luminance": 174.0,
+    "rgb": [
+      209,
+      164,
+      135
+    ],
+    "hex": "#D1A487",
+    "category": "white"
+  },
+  "36c4d810-cf92-4505-b50b-c912680f7e03": {
+    "luminance": 194.6,
+    "rgb": [
+      236,
+      179,
+      161
+    ],
+    "hex": "#ECB3A1",
+    "category": "white"
+  },
+  "435aabad-73e2-4dd7-a641-76debd687a09": {
+    "luminance": 124.5,
+    "rgb": [
+      179,
+      102,
+      81
+    ],
+    "hex": "#B36651",
+    "category": "mestizo"
+  },
+  "14164b93-6910-46b1-bdee-354f3c5c6d9c": {
+    "luminance": 170.2,
+    "rgb": [
+      212,
+      154,
+      140
+    ],
+    "hex": "#D49A8C",
+    "category": "white"
+  },
+  "96aa9695-ad6b-42e2-a6d3-382c96226984": {
+    "luminance": 129.8,
+    "rgb": [
+      178,
+      112,
+      92
+    ],
+    "hex": "#B2705C",
+    "category": "mestizo"
+  },
+  "91c57123-7503-424a-9072-3da37db1e791": {
+    "luminance": 145.7,
+    "rgb": [
+      200,
+      126,
+      108
+    ],
+    "hex": "#C87E6C",
+    "category": "mestizo"
+  },
+  "60da8f22-54d0-4196-8f86-db80da2bb216": {
+    "luminance": 158.2,
+    "rgb": [
+      208,
+      143,
+      107
+    ],
+    "hex": "#D08F6B",
+    "category": "white"
+  },
+  "9c16f97d-f143-47a6-9829-41d63450b183": {
+    "luminance": 164.7,
+    "rgb": [
+      219,
+      146,
+      120
+    ],
+    "hex": "#DB9278",
+    "category": "white"
+  },
+  "9a3971ee-2a5e-4e40-9cd1-ce4787358b88": {
+    "luminance": 121.1,
+    "rgb": [
+      165,
+      105,
+      94
+    ],
+    "hex": "#A5695E",
+    "category": "mestizo"
+  },
+  "5e18f9aa-5507-450b-977e-93b10aab49a6": {
+    "luminance": 179.0,
+    "rgb": [
+      230,
+      160,
+      148
+    ],
+    "hex": "#E6A094",
+    "category": "white"
+  },
+  "3ad097eb-08e4-46d9-9078-0c4518529299": {
+    "luminance": 112.9,
+    "rgb": [
+      163,
+      94,
+      80
+    ],
+    "hex": "#A35E50",
+    "category": "mestizo"
+  },
+  "e35abc9a-78c1-475b-83ae-5d276b577c6e": {
+    "luminance": 163.7,
+    "rgb": [
+      210,
+      148,
+      125
+    ],
+    "hex": "#D2947D",
+    "category": "white"
+  },
+  "475e750a-9330-4c69-9236-16c2ac29dcea": {
+    "luminance": 161.8,
+    "rgb": [
+      219,
+      142,
+      115
+    ],
+    "hex": "#DB8E73",
+    "category": "white"
+  },
+  "4cf12a5e-f3e3-481d-812e-2fc8d3ef6fb6": {
+    "luminance": 144.9,
+    "rgb": [
+      193,
+      127,
+      107
+    ],
+    "hex": "#C17F6B",
+    "category": "mestizo"
+  },
+  "83f33639-2bf1-4b82-ac7a-74eadca53585": {
+    "luminance": 170.4,
+    "rgb": [
+      222,
+      153,
+      126
+    ],
+    "hex": "#DE997E",
+    "category": "white"
+  },
+  "22222222-2222-2222-2222-222222222222": {
+    "luminance": 124.9,
+    "rgb": [
+      168,
+      108,
+      95
+    ],
+    "hex": "#A86C5F",
+    "category": "mestizo"
+  },
+  "43621e5d-3f9f-4590-93b8-5ad3b0f3c0bd": {
+    "luminance": 170.6,
+    "rgb": [
+      227,
+      150,
+      127
+    ],
+    "hex": "#E3967F",
+    "category": "white"
+  },
+  "2f427843-7654-4ba3-ba30-bf93f5ad2518": {
+    "luminance": 168.1,
+    "rgb": [
+      225,
+      148,
+      123
+    ],
+    "hex": "#E1947B",
+    "category": "white"
+  },
+  "fef82715-cc99-4e8f-ba0c-48a4c4689091": {
+    "luminance": 186.7,
+    "rgb": [
+      239,
+      168,
+      145
+    ],
+    "hex": "#EFA891",
+    "category": "white"
+  },
+  "b3149041-27a4-4c0a-8edc-ac10e8e9391d": {
+    "luminance": 167.8,
+    "rgb": [
+      223,
+      148,
+      123
+    ],
+    "hex": "#DF947B",
+    "category": "white"
+  },
+  "33333333-3333-3333-3333-333333333333": {
+    "luminance": 138.4,
+    "rgb": [
+      204,
+      115,
+      88
+    ],
+    "hex": "#CC7358",
+    "category": "mestizo"
+  },
+  "5f01a987-cc18-4dfd-ab48-2159dcd1e85e": {
+    "luminance": 159.2,
+    "rgb": [
+      216,
+      140,
+      113
+    ],
+    "hex": "#D88C71",
+    "category": "white"
+  },
+  "7724f426-5f21-4cc0-bb65-2b2c2e856a42": {
+    "luminance": 156.3,
+    "rgb": [
+      200,
+      140,
+      125
+    ],
+    "hex": "#C88C7D",
+    "category": "white"
+  },
+  "2b0c8650-23dc-4890-8433-a1c594134689": {
+    "luminance": 150.1,
+    "rgb": [
+      174,
+      142,
+      129
+    ],
+    "hex": "#AE8E81",
+    "category": "white"
+  },
+  "a73683cf-b677-4929-ad77-7e95e1838580": {
+    "luminance": 132.7,
+    "rgb": [
+      167,
+      121,
+      100
+    ],
+    "hex": "#A77964",
+    "category": "mestizo"
+  },
+  "e507bd99-f5b7-4188-b691-96ae65bb0667": {
+    "luminance": 151.0,
+    "rgb": [
+      203,
+      132,
+      113
+    ],
+    "hex": "#CB8471",
+    "category": "white"
+  },
+  "55555555-5555-5555-5555-555555555555": {
+    "luminance": 166.8,
+    "rgb": [
+      216,
+      150,
+      125
+    ],
+    "hex": "#D8967D",
+    "category": "white"
+  },
+  "1591aea4-ad6f-4524-9421-7f86feeaba67": {
+    "luminance": 132.8,
+    "rgb": [
+      175,
+      118,
+      98
+    ],
+    "hex": "#AF7662",
+    "category": "mestizo"
+  },
+  "a981865a-1492-4db5-ab12-05e7fc4d02c9": {
+    "luminance": 125.7,
+    "rgb": [
+      174,
+      109,
+      86
+    ],
+    "hex": "#AE6D56",
+    "category": "mestizo"
+  },
+  "d0582dfc-0976-4d8b-9438-e7b805bfaab1": {
+    "luminance": 130.8,
+    "rgb": [
+      168,
+      118,
+      101
+    ],
+    "hex": "#A87665",
+    "category": "mestizo"
+  },
+  "3d36673b-1757-40e5-875b-96db6a8b959a": {
+    "luminance": 141.3,
+    "rgb": [
+      198,
+      121,
+      98
+    ],
+    "hex": "#C67962",
+    "category": "mestizo"
+  },
+  "63d02d7c-dc52-483a-8ec3-fe7a08ee8221": {
+    "luminance": 157.4,
+    "rgb": [
+      207,
+      139,
+      117
+    ],
+    "hex": "#CF8B75",
+    "category": "white"
+  },
+  "11111111-1111-1111-1111-111111111111": {
+    "luminance": 129.1,
+    "rgb": [
+      184,
+      108,
+      92
+    ],
+    "hex": "#B86C5C",
+    "category": "mestizo"
+  },
+  "52ed0cba-66ab-43ba-aa8a-1d8c4640bced": {
+    "luminance": 149.8,
+    "rgb": [
+      201,
+      132,
+      105
+    ],
+    "hex": "#C98469",
+    "category": "mestizo"
+  },
+  "ff1976fd-5f27-42ba-95c8-6947397313eb": {
+    "luminance": 152.7,
+    "rgb": [
+      195,
+      138,
+      120
+    ],
+    "hex": "#C38A78",
+    "category": "white"
+  },
+  "e27102b3-3775-4f23-85a4-dcd10094c941": {
+    "luminance": 159.0,
+    "rgb": [
+      194,
+      147,
+      128
+    ],
+    "hex": "#C29380",
+    "category": "white"
+  },
+  "bb9799c0-c972-4c7f-b82f-af0d691b5b5f": {
+    "luminance": 147.9,
+    "rgb": [
+      201,
+      128,
+      113
+    ],
+    "hex": "#C98071",
+    "category": "mestizo"
+  },
+  "96a7d009-099a-4304-9f72-d41aad32e951": {
+    "luminance": 137.2,
+    "rgb": [
+      163,
+      129,
+      112
+    ],
+    "hex": "#A38170",
+    "category": "mestizo"
+  },
+  "2a609c76-c18e-49e8-85d5-397e6ede85e3": {
+    "luminance": 147.7,
+    "rgb": [
+      189,
+      133,
+      107
+    ],
+    "hex": "#BD856B",
+    "category": "mestizo"
+  },
+  "0ae99b06-9c27-49d0-9080-055723317db3": {
+    "luminance": 149.3,
+    "rgb": [
+      203,
+      131,
+      107
+    ],
+    "hex": "#CB836B",
+    "category": "mestizo"
+  },
+  "5cb9e7c8-44cc-4109-82c4-157a7083fa63": {
+    "luminance": 161.4,
+    "rgb": [
+      205,
+      144,
+      136
+    ],
+    "hex": "#CD9088",
+    "category": "white"
+  },
+  "67a02f4c-a054-4bf6-a311-ff875afedfa2": {
+    "luminance": 118.0,
+    "rgb": [
+      170,
+      98,
+      85
+    ],
+    "hex": "#AA6255",
+    "category": "mestizo"
+  },
+  "cd5f096b-6b18-4eb5-b5a2-79c950e0dee3": {
+    "luminance": 139.8,
+    "rgb": [
+      184,
+      123,
+      111
+    ],
+    "hex": "#B87B6F",
+    "category": "mestizo"
+  },
+  "2d03cbd9-4b49-4185-bec1-27a2db7f2544": {
+    "luminance": 148.2,
+    "rgb": [
+      192,
+      132,
+      118
+    ],
+    "hex": "#C08476",
+    "category": "mestizo"
+  },
+  "9057a13f-5ebc-44c2-bd74-23b69c906c49": {
+    "luminance": 148.0,
+    "rgb": [
+      188,
+      134,
+      119
+    ],
+    "hex": "#BC8677",
+    "category": "mestizo"
+  },
+  "993ac943-86b6-445d-8998-0340a2455cf9": {
+    "luminance": 125.8,
+    "rgb": [
+      178,
+      107,
+      81
+    ],
+    "hex": "#B26B51",
+    "category": "mestizo"
+  },
+  "8f28f6b8-5ed4-41cf-a453-3a701bf512f9": {
+    "luminance": 148.1,
+    "rgb": [
+      171,
+      140,
+      135
+    ],
+    "hex": "#AB8C87",
+    "category": "mestizo"
+  },
+  "2cfa4677-3388-4231-8fce-15d75496f8c2": {
+    "luminance": 157.2,
+    "rgb": [
+      186,
+      147,
+      133
+    ],
+    "hex": "#BA9385",
+    "category": "white"
+  },
+  "def5e6fa-75d8-49a0-9eed-7367224a1aa4": {
+    "luminance": 93.1,
+    "rgb": [
+      121,
+      84,
+      68
+    ],
+    "hex": "#795444",
+    "category": "moreno"
+  },
+  "ea9dce1d-4449-47d3-9b61-d3f70ef906bd": {
+    "luminance": 127.3,
+    "rgb": [
+      155,
+      116,
+      108
+    ],
+    "hex": "#9B746C",
+    "category": "mestizo"
+  },
+  "b88ea9c8-7fa8-440a-ad00-1ab0fd7a4397": {
+    "luminance": 127.1,
+    "rgb": [
+      177,
+      108,
+      97
+    ],
+    "hex": "#B16C61",
+    "category": "mestizo"
+  },
+  "1deca2b9-0695-4f0b-a94e-be6f8412b42a": {
+    "luminance": 130.2,
+    "rgb": [
+      165,
+      119,
+      99
+    ],
+    "hex": "#A57763",
+    "category": "mestizo"
+  },
+  "794b48a9-cdc0-4a76-b2b7-2eddf213c89a": {
+    "luminance": 194.1,
+    "rgb": [
+      243,
+      177,
+      155
+    ],
+    "hex": "#F3B19B",
+    "category": "white"
+  },
+  "bec0d765-ea8c-4ce6-9633-c7592e9265e3": {
+    "luminance": 129.9,
+    "rgb": [
+      160,
+      120,
+      97
+    ],
+    "hex": "#A07861",
+    "category": "mestizo"
+  },
+  "7a9a4503-455e-4fc0-afb7-8d2513c6419f": {
+    "luminance": 117.3,
+    "rgb": [
+      158,
+      104,
+      83
+    ],
+    "hex": "#9E6853",
+    "category": "mestizo"
+  },
+  "a37d4a77-b64b-49d2-8166-f96bfa373de7": {
+    "luminance": 141.4,
+    "rgb": [
+      194,
+      123,
+      99
+    ],
+    "hex": "#C27B63",
+    "category": "mestizo"
+  },
+  "ceeb89c2-6dd2-4fae-8a46-c627e8e783f4": {
+    "luminance": 130.4,
+    "rgb": [
+      187,
+      110,
+      90
+    ],
+    "hex": "#BB6E5A",
+    "category": "mestizo"
+  },
+  "c9c65b4b-22f2-4ff6-a519-40356a83878b": {
+    "luminance": 168.7,
+    "rgb": [
+      210,
+      153,
+      136
+    ],
+    "hex": "#D29988",
+    "category": "white"
+  },
+  "73916374-c3bb-4d41-a4cd-f0ff669d7c8a": {
+    "luminance": 154.1,
+    "rgb": [
+      203,
+      136,
+      119
+    ],
+    "hex": "#CB8877",
+    "category": "white"
+  },
+  "84e19240-80a9-40dc-9e83-17f7c643bede": {
+    "luminance": 104.7,
+    "rgb": [
+      149,
+      90,
+      63
+    ],
+    "hex": "#955A3F",
+    "category": "moreno"
+  },
+  "aeba5851-56a6-4cb6-9fc0-272dad97f8fc": {
+    "luminance": 149.1,
+    "rgb": [
+      195,
+      132,
+      115
+    ],
+    "hex": "#C38473",
+    "category": "mestizo"
+  },
+  "a3b49d58-5335-42d0-adf9-d9b254594b7a": {
+    "luminance": 103.8,
+    "rgb": [
+      146,
+      90,
+      64
+    ],
+    "hex": "#925A40",
+    "category": "moreno"
+  },
+  "5dbfd3f6-7c57-4145-bd90-1c913c8c06f8": {
+    "luminance": 98.9,
+    "rgb": [
+      147,
+      84,
+      56
+    ],
+    "hex": "#935438",
+    "category": "moreno"
+  },
+  "e6786054-4841-4578-b745-e5c6cc044d79": {
+    "luminance": 97.2,
+    "rgb": [
+      121,
+      89,
+      75
+    ],
+    "hex": "#79594B",
+    "category": "moreno"
+  },
+  "3aa42254-ef14-470c-8ed5-a8f645d0dfc4": {
+    "luminance": 89.0,
+    "rgb": [
+      119,
+      79,
+      79
+    ],
+    "hex": "#774F4F",
+    "category": "moreno"
+  },
+  "59db4441-8bac-4a59-a451-6cf311cbc416": {
+    "luminance": 119.6,
+    "rgb": [
+      181,
+      98,
+      74
+    ],
+    "hex": "#B5624A",
+    "category": "mestizo"
+  },
+  "e71364c6-6be3-436d-b1af-0d004646c767": {
+    "luminance": 175.3,
+    "rgb": [
+      222,
+      158,
+      139
+    ],
+    "hex": "#DE9E8B",
+    "category": "white"
+  },
+  "dbe2effe-b0dc-475c-b885-8238d7fa76bc": {
+    "luminance": 141.2,
+    "rgb": [
+      203,
+      120,
+      90
+    ],
+    "hex": "#CB785A",
+    "category": "mestizo"
+  },
+  "878cbd71-8c44-4f1b-a5fe-d81cb867c793": {
+    "luminance": 175.3,
+    "rgb": [
+      221,
+      159,
+      139
+    ],
+    "hex": "#DD9F8B",
+    "category": "white"
+  },
+  "a6b57564-e0e6-4f2a-aabc-5bd1692bcece": {
+    "luminance": 128.4,
+    "rgb": [
+      185,
+      109,
+      83
+    ],
+    "hex": "#B96D53",
+    "category": "mestizo"
+  },
+  "6bad314b-1c58-4a94-a4c3-fa2f644448d4": {
+    "luminance": 147.3,
+    "rgb": [
+      183,
+      134,
+      121
+    ],
+    "hex": "#B78679",
+    "category": "mestizo"
+  },
+  "c13790d7-b136-4da7-951d-64a597bd927a": {
+    "luminance": 189.2,
+    "rgb": [
+      234,
+      173,
+      157
+    ],
+    "hex": "#EAAD9D",
+    "category": "white"
+  },
+  "42ff018a-bd9f-46b8-a943-2e39dff09cc9": {
+    "luminance": 144.0,
+    "rgb": [
+      196,
+      126,
+      103
+    ],
+    "hex": "#C47E67",
+    "category": "mestizo"
+  },
+  "8c3cf0f3-1bd1-4691-a23e-7570617614c0": {
+    "luminance": 125.5,
+    "rgb": [
+      183,
+      106,
+      77
+    ],
+    "hex": "#B76A4D",
+    "category": "mestizo"
+  },
+  "4cdb3871-d9d9-4278-b1f8-8f7fe88a7f82": {
+    "luminance": 131.9,
+    "rgb": [
+      185,
+      113,
+      81
+    ],
+    "hex": "#B97151",
+    "category": "mestizo"
+  },
+  "ac889475-96de-44d9-8fcf-a622bfc7a6ba": {
+    "luminance": 132.8,
+    "rgb": [
+      176,
+      119,
+      94
+    ],
+    "hex": "#B0775E",
+    "category": "mestizo"
+  },
+  "ebfd6a5d-7a3b-4976-92a2-f6628ea90d06": {
+    "luminance": 119.7,
+    "rgb": [
+      160,
+      106,
+      82
+    ],
+    "hex": "#A06A52",
+    "category": "mestizo"
+  },
+  "8eca929e-6494-478e-a9d7-dc1f9f78741c": {
+    "luminance": 160.1,
+    "rgb": [
+      215,
+      140,
+      116
+    ],
+    "hex": "#D78C74",
+    "category": "white"
+  },
+  "11b665c3-13b8-4094-b79d-8abf36c59b4f": {
+    "luminance": 106.0,
+    "rgb": [
+      142,
+      94,
+      75
+    ],
+    "hex": "#8E5E4B",
+    "category": "moreno"
+  },
+  "e4153889-65d1-4d3d-911c-bd7857f31fd7": {
+    "luminance": 157.2,
+    "rgb": [
+      185,
+      148,
+      133
+    ],
+    "hex": "#B99485",
+    "category": "white"
+  },
+  "10a0c91c-10f8-44e7-94b5-6b99fd5ad16a": {
+    "luminance": 169.1,
+    "rgb": [
+      224,
+      149,
+      126
+    ],
+    "hex": "#E0957E",
+    "category": "white"
+  },
+  "0499dbd3-8eb7-4526-ad6a-3365995fb010": {
+    "luminance": 155.1,
+    "rgb": [
+      210,
+      136,
+      111
+    ],
+    "hex": "#D2886F",
+    "category": "white"
+  },
+  "ae9e0992-21c6-4b50-b60f-1360711a867c": {
+    "luminance": 113.0,
+    "rgb": [
+      154,
+      98,
+      79
+    ],
+    "hex": "#9A624F",
+    "category": "mestizo"
+  },
+  "5d699dd1-a293-4a59-a520-d9ba66b11dc4": {
+    "luminance": 141.3,
+    "rgb": [
+      187,
+      127,
+      98
+    ],
+    "hex": "#BB7F62",
+    "category": "mestizo"
+  },
+  "b3dc8dfb-15de-4041-8dfe-06d274a0c4fd": {
+    "luminance": 136.1,
+    "rgb": [
+      183,
+      120,
+      98
+    ],
+    "hex": "#B77862",
+    "category": "mestizo"
+  },
+  "1b815d45-0f21-4b8c-a3f1-2e03b1e619ea": {
+    "luminance": 169.3,
+    "rgb": [
+      210,
+      154,
+      141
+    ],
+    "hex": "#D29A8D",
+    "category": "white"
+  },
+  "a43d4fb9-e826-49b5-b622-8abe9ac1632a": {
+    "luminance": 95.0,
+    "rgb": [
+      149,
+      75,
+      60
+    ],
+    "hex": "#954B3C",
+    "category": "moreno"
+  },
+  "5d1f3c21-77b1-49ee-80ea-61da16ab5f7f": {
+    "luminance": 97.7,
+    "rgb": [
+      129,
+      87,
+      67
+    ],
+    "hex": "#815743",
+    "category": "moreno"
+  },
+  "5583a4d7-c245-46aa-a487-6302efcaabd7": {
+    "luminance": 144.4,
+    "rgb": [
+      182,
+      133,
+      109
+    ],
+    "hex": "#B6856D",
+    "category": "mestizo"
+  },
+  "67a03ee0-f24c-47a1-8dc3-3705aeb9fcfb": {
+    "luminance": 181.0,
+    "rgb": [
+      217,
+      169,
+      148
+    ],
+    "hex": "#D9A994",
+    "category": "white"
+  },
+  "9003873b-9e4e-47db-be79-3ad60ff016f1": {
+    "luminance": 157.2,
+    "rgb": [
+      170,
+      155,
+      139
+    ],
+    "hex": "#AA9B8B",
+    "category": "white"
+  },
+  "f5c45401-7a53-4dc2-9f0d-9687a7f334e3": {
+    "luminance": 127.9,
+    "rgb": [
+      147,
+      122,
+      111
+    ],
+    "hex": "#937A6F",
+    "category": "mestizo"
+  },
+  "b65468f6-7093-4c2b-bae1-7b42d5d996a4": {
+    "luminance": 154.8,
+    "rgb": [
+      214,
+      134,
+      102
+    ],
+    "hex": "#D68666",
+    "category": "white"
+  },
+  "af3da0cb-eeb5-4672-a630-5edfc8c5be6b": {
+    "luminance": 120.0,
+    "rgb": [
+      160,
+      105,
+      91
+    ],
+    "hex": "#A0695B",
+    "category": "mestizo"
+  },
+  "3d858224-ea78-4082-af95-bbd8fed78df6": {
+    "luminance": 152.0,
+    "rgb": [
+      185,
+      142,
+      119
+    ],
+    "hex": "#B98E77",
+    "category": "white"
+  },
+  "3861502f-1722-4094-9a64-a5b3577b5e21": {
+    "luminance": 170.1,
+    "rgb": [
+      199,
+      160,
+      143
+    ],
+    "hex": "#C7A08F",
+    "category": "white"
+  },
+  "ea7f89c4-b2e7-48d2-b7ed-0c222c1484bf": {
+    "luminance": 169.2,
+    "rgb": [
+      218,
+      152,
+      129
+    ],
+    "hex": "#DA9881",
+    "category": "white"
+  },
+  "50c16012-6d4a-49a7-9551-095cdb8a9240": {
+    "luminance": 187.1,
+    "rgb": [
+      233,
+      171,
+      151
+    ],
+    "hex": "#E9AB97",
+    "category": "white"
+  },
+  "37b58e2b-ab34-4ba5-b38a-ba0a0daa2bc4": {
+    "luminance": 126.3,
+    "rgb": [
+      159,
+      114,
+      105
+    ],
+    "hex": "#9F7269",
+    "category": "mestizo"
+  },
+  "940663c9-fc41-430c-8a8d-8f2a0a43e763": {
+    "luminance": 128.2,
+    "rgb": [
+      159,
+      118,
+      99
+    ],
+    "hex": "#9F7663",
+    "category": "mestizo"
+  },
+  "bee4e71a-2665-4e3a-b0cc-93a7c84e6352": {
+    "luminance": 144.9,
+    "rgb": [
+      168,
+      136,
+      125
+    ],
+    "hex": "#A8887D",
+    "category": "mestizo"
+  },
+  "e2181007-3c38-4923-a51e-b2a84c69124e": {
+    "luminance": 133.0,
+    "rgb": [
+      179,
+      116,
+      101
+    ],
+    "hex": "#B37465",
+    "category": "mestizo"
+  },
+  "c0ba2ee0-b5b6-48dc-a1b4-c1265d2acfa1": {
+    "luminance": 82.2,
+    "rgb": [
+      117,
+      69,
+      60
+    ],
+    "hex": "#75453C",
+    "category": "moreno"
+  },
+  "d3232100-32f4-40d1-9947-c3d2e7536067": {
+    "luminance": 143.0,
+    "rgb": [
+      177,
+      131,
+      115
+    ],
+    "hex": "#B18373",
+    "category": "mestizo"
+  },
+  "cd18d2f2-abf0-4313-a63f-e04a7a938f36": {
+    "luminance": 156.2,
+    "rgb": [
+      205,
+      143,
+      101
+    ],
+    "hex": "#CD8F65",
+    "category": "white"
+  },
+  "9acc74ba-286a-4ff4-8419-04eb8fd265bf": {
+    "luminance": 154.0,
+    "rgb": [
+      198,
+      139,
+      115
+    ],
+    "hex": "#C68B73",
+    "category": "white"
+  },
+  "9475d0f7-3a79-4135-afd1-fff8b05a4ce5": {
+    "luminance": 103.1,
+    "rgb": [
+      131,
+      94,
+      78
+    ],
+    "hex": "#835E4E",
+    "category": "moreno"
+  },
+  "800f6799-0f0b-42d6-a9ad-bd636121434b": {
+    "luminance": 91.1,
+    "rgb": [
+      118,
+      81,
+      73
+    ],
+    "hex": "#765149",
+    "category": "moreno"
+  },
+  "6659afe0-b0f6-49b7-8910-9d5aaf295e29": {
+    "luminance": 105.8,
+    "rgb": [
+      147,
+      89,
+      76
+    ],
+    "hex": "#93594C",
+    "category": "moreno"
+  },
+  "ad4acdc0-2cf8-42a0-b6c7-2072a5deb940": {
+    "luminance": 110.9,
+    "rgb": [
+      159,
+      93,
+      77
+    ],
+    "hex": "#9F5D4D",
+    "category": "mestizo"
+  },
+  "3d981c99-ce93-4352-88fb-9e2649f7b10a": {
+    "luminance": 96.2,
+    "rgb": [
+      137,
+      81,
+      70
+    ],
+    "hex": "#895146",
+    "category": "moreno"
+  },
+  "d39822ac-7af6-4b6e-863a-e775b0be8f20": {
+    "luminance": 134.3,
+    "rgb": [
+      178,
+      117,
+      103
+    ],
+    "hex": "#B27567",
+    "category": "mestizo"
+  },
+  "f14563c9-1e0d-4d98-a88c-2116de37ac28": {
+    "luminance": 195.7,
+    "rgb": [
+      240,
+      179,
+      161
+    ],
+    "hex": "#F0B3A1",
+    "category": "white"
+  },
+  "ac039857-75d6-4777-a51e-3707e42b5c86": {
+    "luminance": 139.2,
+    "rgb": [
+      194,
+      121,
+      100
+    ],
+    "hex": "#C27964",
+    "category": "mestizo"
+  },
+  "2ea97a95-4191-4146-ac0a-969cd94c3555": {
+    "luminance": 79.7,
+    "rgb": [
+      107,
+      71,
+      52
+    ],
+    "hex": "#6B4734",
+    "category": "moreno"
+  },
+  "f666636b-7ade-4a78-a657-e9ce9db0a7d1": {
+    "luminance": 164.3,
+    "rgb": [
+      204,
+      154,
+      119
+    ],
+    "hex": "#CC9A77",
+    "category": "white"
+  },
+  "798305b4-d065-47ad-9cae-faac2d56a9d0": {
+    "luminance": 201.9,
+    "rgb": [
+      248,
+      187,
+      157
+    ],
+    "hex": "#F8BB9D",
+    "category": "white"
+  },
+  "6400e224-0f3e-487d-a167-4fe508900cb4": {
+    "luminance": 120.1,
+    "rgb": [
+      168,
+      104,
+      74
+    ],
+    "hex": "#A8684A",
+    "category": "mestizo"
+  },
+  "0734828e-03e6-4359-800a-6ec6144a9526": {
+    "luminance": 164.2,
+    "rgb": [
+      194,
+      154,
+      136
+    ],
+    "hex": "#C29A88",
+    "category": "white"
+  },
+  "b63e8b67-f796-48d4-8cba-9ea2c3126364": {
+    "luminance": 192.0,
+    "rgb": [
+      242,
+      175,
+      147
+    ],
+    "hex": "#F2AF93",
+    "category": "white"
+  },
+  "d2370db0-d5a0-4d9d-90fb-aa002f7ba04f": {
+    "luminance": 145.0,
+    "rgb": [
+      184,
+      131,
+      115
+    ],
+    "hex": "#B88373",
+    "category": "mestizo"
+  },
+  "c9a846a4-5766-474b-964c-0f835560860f": {
+    "luminance": 134.0,
+    "rgb": [
+      175,
+      120,
+      94
+    ],
+    "hex": "#AF785E",
+    "category": "mestizo"
+  },
+  "455bbb6b-7c8f-4038-a319-55385f9766a0": {
+    "luminance": 176.8,
+    "rgb": [
+      233,
+      158,
+      127
+    ],
+    "hex": "#E99E7F",
+    "category": "white"
+  },
+  "61ab6c13-e4ee-40df-8bdc-6351e847084b": {
+    "luminance": 166.9,
+    "rgb": [
+      191,
+      158,
+      148
+    ],
+    "hex": "#BF9E94",
+    "category": "white"
+  },
+  "3096bc3a-9057-4cc4-a8d8-c9e6372c10ad": {
+    "luminance": 192.6,
+    "rgb": [
+      240,
+      177,
+      147
+    ],
+    "hex": "#F0B193",
+    "category": "white"
+  },
+  "d79a222c-f689-4f00-9730-85401c12305a": {
+    "luminance": 106.9,
+    "rgb": [
+      144,
+      94,
+      75
+    ],
+    "hex": "#905E4B",
+    "category": "moreno"
+  },
+  "19d0f43b-7134-499d-8ac6-1836860d68b9": {
+    "luminance": 169.8,
+    "rgb": [
+      219,
+      151,
+      136
+    ],
+    "hex": "#DB9788",
+    "category": "white"
+  },
+  "43a785e9-13ff-4f3c-b038-c864bafbefee": {
+    "luminance": 142.0,
+    "rgb": [
+      192,
+      124,
+      106
+    ],
+    "hex": "#C07C6A",
+    "category": "mestizo"
+  },
+  "4ac4b650-af0a-4db1-a0a5-3740a13c6415": {
+    "luminance": 141.7,
+    "rgb": [
+      195,
+      123,
+      101
+    ],
+    "hex": "#C37B65",
+    "category": "mestizo"
+  },
+  "3f31fe0d-7dd0-402b-881f-fd97c2df9778": {
+    "luminance": 115.0,
+    "rgb": [
+      153,
+      102,
+      87
+    ],
+    "hex": "#996657",
+    "category": "mestizo"
+  },
+  "ebb1f59e-b0d2-4b60-9fcf-ef3897ea2655": {
+    "luminance": 126.9,
+    "rgb": [
+      171,
+      112,
+      88
+    ],
+    "hex": "#AB7058",
+    "category": "mestizo"
+  },
+  "6963aa36-6ec3-499d-9403-13364f4805ef": {
+    "luminance": 179.3,
+    "rgb": [
+      226,
+      161,
+      150
+    ],
+    "hex": "#E2A196",
+    "category": "white"
+  },
+  "42c54fa4-4cd3-4872-9dd4-4f1ba26b4af2": {
+    "luminance": 99.8,
+    "rgb": [
+      133,
+      89,
+      75
+    ],
+    "hex": "#85594B",
+    "category": "moreno"
+  },
+  "338f98c5-5306-4c8c-909d-7c3b11e3b771": {
+    "luminance": 166.9,
+    "rgb": [
+      229,
+      147,
+      113
+    ],
+    "hex": "#E59371",
+    "category": "white"
+  },
+  "b2ac3881-45ec-4d89-a42e-4b8b6ff0cb30": {
+    "luminance": 143.6,
+    "rgb": [
+      176,
+      134,
+      104
+    ],
+    "hex": "#B08668",
+    "category": "mestizo"
+  },
+  "d55995f1-b1ab-4c0f-bb1e-fa162803b843": {
+    "luminance": 195.3,
+    "rgb": [
+      230,
+      185,
+      161
+    ],
+    "hex": "#E6B9A1",
+    "category": "white"
+  },
+  "6c0656f2-5d57-4f50-a498-a07f9451f47e": {
+    "luminance": 101.9,
+    "rgb": [
+      148,
+      85,
+      70
+    ],
+    "hex": "#945546",
+    "category": "moreno"
+  },
+  "f44066b9-109c-457f-a77c-206ea8d1732d": {
+    "luminance": 93.9,
+    "rgb": [
+      139,
+      78,
+      55
+    ],
+    "hex": "#8B4E37",
+    "category": "moreno"
+  },
+  "9be1c5ae-c19d-4940-9ed8-a6dd16c1c833": {
+    "luminance": 104.0,
+    "rgb": [
+      148,
+      88,
+      70
+    ],
+    "hex": "#945846",
+    "category": "moreno"
+  },
+  "dbbe628d-d8c3-4281-9b7e-f8efc6bc4180": {
+    "luminance": 143.7,
+    "rgb": [
+      186,
+      130,
+      100
+    ],
+    "hex": "#BA8264",
+    "category": "mestizo"
+  },
+  "5ac8f37c-ea0f-4826-b921-16dd324362e6": {
+    "luminance": 83.2,
+    "rgb": [
+      114,
+      70,
+      68
+    ],
+    "hex": "#724644",
+    "category": "moreno"
+  },
+  "800ef2c5-256c-4479-9ac0-22521329aba1": {
+    "luminance": 142.1,
+    "rgb": [
+      227,
+      108,
+      87
+    ],
+    "hex": "#E36C57",
+    "category": "mestizo"
+  },
+  "1bd64c68-c51d-4649-986c-c5c4c2b4b5ef": {
+    "luminance": 153.8,
+    "rgb": [
+      205,
+      138,
+      98
+    ],
+    "hex": "#CD8A62",
+    "category": "white"
+  },
+  "14883b6c-f66c-4afb-8b36-51b5b7a429d8": {
+    "luminance": 121.0,
+    "rgb": [
+      161,
+      106,
+      90
+    ],
+    "hex": "#A16A5A",
+    "category": "mestizo"
+  },
+  "5aeee328-42cf-4d5b-8f94-1c716c89a8a7": {
+    "luminance": 190.9,
+    "rgb": [
+      232,
+      176,
+      158
+    ],
+    "hex": "#E8B09E",
+    "category": "white"
+  },
+  "b9e9f708-359f-4341-a6fa-445d5a8cbd11": {
+    "luminance": 141.2,
+    "rgb": [
+      187,
+      128,
+      88
+    ],
+    "hex": "#BB8058",
+    "category": "mestizo"
+  },
+  "765811d5-6b2c-41a8-af2d-b93e06cfea0b": {
+    "luminance": 164.5,
+    "rgb": [
+      219,
+      145,
+      125
+    ],
+    "hex": "#DB917D",
+    "category": "white"
+  },
+  "4629be01-0adc-4053-a3bd-d990ec363e22": {
+    "luminance": 139.0,
+    "rgb": [
+      194,
+      120,
+      93
+    ],
+    "hex": "#C2785D",
+    "category": "mestizo"
+  },
+  "3a4da9f3-dda9-4a0d-ad0e-f412bfac1a02": {
+    "luminance": 154.1,
+    "rgb": [
+      208,
+      136,
+      103
+    ],
+    "hex": "#D08867",
+    "category": "white"
+  },
+  "01a16268-ee8c-42cf-9160-837aa953b2a3": {
+    "luminance": 146.1,
+    "rgb": [
+      177,
+      139,
+      101
+    ],
+    "hex": "#B18B65",
+    "category": "mestizo"
+  },
+  "9f08ca40-dfeb-4925-a697-f3915e9522c7": {
+    "luminance": 151.9,
+    "rgb": [
+      194,
+      138,
+      113
+    ],
+    "hex": "#C28A71",
+    "category": "white"
+  },
+  "4ca24e8e-735d-4a27-b15c-7e3a6179a5bd": {
+    "luminance": 130.0,
+    "rgb": [
+      167,
+      117,
+      100
+    ],
+    "hex": "#A77564",
+    "category": "mestizo"
+  },
+  "31ceb60c-a95f-40ae-94d2-d70c50374684": {
+    "luminance": 108.1,
+    "rgb": [
+      123,
+      105,
+      87
+    ],
+    "hex": "#7B6957",
+    "category": "moreno"
+  },
+  "3c627097-2c1e-4f82-add3-e0908ecef38c": {
+    "luminance": 177.7,
+    "rgb": [
+      213,
+      167,
+      140
+    ],
+    "hex": "#D5A78C",
+    "category": "white"
+  },
+  "7a66435c-9056-4ce5-9f3a-5f5830d2de3a": {
+    "luminance": 171.9,
+    "rgb": [
+      227,
+      152,
+      128
+    ],
+    "hex": "#E39880",
+    "category": "white"
+  },
+  "713e3e52-ba2e-4201-b2af-6c760dafc73c": {
+    "luminance": 134.3,
+    "rgb": [
+      165,
+      124,
+      107
+    ],
+    "hex": "#A57C6B",
+    "category": "mestizo"
+  },
+  "dd363ba7-3103-494d-8789-3f011a8d1fd5": {
+    "luminance": 129.6,
+    "rgb": [
+      182,
+      111,
+      85
+    ],
+    "hex": "#B66F55",
+    "category": "mestizo"
+  },
+  "3f26d2b0-cd1d-40da-9738-84491305deb7": {
+    "luminance": 150.7,
+    "rgb": [
+      178,
+      144,
+      107
+    ],
+    "hex": "#B2906B",
+    "category": "white"
+  },
+  "5611f61c-2092-4845-a888-8df85d44dd17": {
+    "luminance": 112.6,
+    "rgb": [
+      163,
+      96,
+      68
+    ],
+    "hex": "#A36044",
+    "category": "mestizo"
+  },
+  "3fbe73e8-d788-4fcf-917c-917133f27142": {
+    "luminance": 143.4,
+    "rgb": [
+      177,
+      133,
+      112
+    ],
+    "hex": "#B18570",
+    "category": "mestizo"
+  },
+  "20a914bb-4628-441b-bc81-12c8f19d2983": {
+    "luminance": 162.1,
+    "rgb": [
+      202,
+      150,
+      130
+    ],
+    "hex": "#CA9682",
+    "category": "white"
+  },
+  "6040b2ee-ba82-48a6-89e0-89bb8d7e5026": {
+    "luminance": 184.0,
+    "rgb": [
+      222,
+      170,
+      155
+    ],
+    "hex": "#DEAA9B",
+    "category": "white"
+  },
+  "a952599e-3bda-4b72-acd8-dea359f3d6f8": {
+    "luminance": 152.9,
+    "rgb": [
+      198,
+      138,
+      112
+    ],
+    "hex": "#C68A70",
+    "category": "white"
+  },
+  "f76f76eb-f687-43b1-b353-e576d7351926": {
+    "luminance": 87.3,
+    "rgb": [
+      108,
+      81,
+      70
+    ],
+    "hex": "#6C5146",
+    "category": "moreno"
+  },
+  "0782e4e0-d9cb-4405-8588-2054502ab7b6": {
+    "luminance": 135.0,
+    "rgb": [
+      194,
+      114,
+      89
+    ],
+    "hex": "#C27259",
+    "category": "mestizo"
+  },
+  "c70a0d53-b55a-4143-a338-945e9f867607": {
+    "luminance": 196.2,
+    "rgb": [
+      235,
+      183,
+      163
+    ],
+    "hex": "#EBB7A3",
+    "category": "white"
+  },
+  "6dc0a8a0-167f-4989-90c0-5be36a3bec41": {
+    "luminance": 148.2,
+    "rgb": [
+      198,
+      129,
+      117
+    ],
+    "hex": "#C68175",
+    "category": "mestizo"
+  },
+  "e58467e6-1eef-459e-aa1c-41deae727776": {
+    "luminance": 96.2,
+    "rgb": [
+      134,
+      84,
+      63
+    ],
+    "hex": "#86543F",
+    "category": "moreno"
+  },
+  "f4d5c62e-7796-4746-8a05-551fcdbead82": {
+    "luminance": 110.4,
+    "rgb": [
+      143,
+      100,
+      77
+    ],
+    "hex": "#8F644D",
+    "category": "mestizo"
+  },
+  "931854b4-e348-4147-848a-fd91ac13b023": {
+    "luminance": 132.3,
+    "rgb": [
+      176,
+      115,
+      109
+    ],
+    "hex": "#B0736D",
+    "category": "mestizo"
+  },
+  "ca4544a6-38d1-421a-b177-a2ecc434d9cb": {
+    "luminance": 133.9,
+    "rgb": [
+      176,
+      118,
+      104
+    ],
+    "hex": "#B07668",
+    "category": "mestizo"
+  },
+  "0e6fe26e-289d-4e4b-a3a9-bf9adbee849f": {
+    "luminance": 114.2,
+    "rgb": [
+      158,
+      99,
+      83
+    ],
+    "hex": "#9E6353",
+    "category": "mestizo"
+  },
+  "f22a111d-9630-4466-a6b5-e83e5bbc1223": {
+    "luminance": 101.1,
+    "rgb": [
+      144,
+      87,
+      59
+    ],
+    "hex": "#90573B",
+    "category": "moreno"
+  },
+  "69c2342c-54a5-4cb8-ad0b-b53dbea9a433": {
+    "luminance": 143.2,
+    "rgb": [
+      177,
+      132,
+      114
+    ],
+    "hex": "#B18472",
+    "category": "mestizo"
+  },
+  "97fb4b9e-4d1e-4426-acb1-f50650feaf55": {
+    "luminance": 129.1,
+    "rgb": [
+      165,
+      116,
+      100
+    ],
+    "hex": "#A57464",
+    "category": "mestizo"
+  },
+  "27418a8f-b7f0-495f-b0c8-93037aef61f0": {
+    "luminance": 140.8,
+    "rgb": [
+      191,
+      124,
+      98
+    ],
+    "hex": "#BF7C62",
+    "category": "mestizo"
+  },
+  "ac0b30ec-ae2e-44af-a7bd-937e86c8650c": {
+    "luminance": 71.1,
+    "rgb": [
+      92,
+      65,
+      50
+    ],
+    "hex": "#5C4132",
+    "category": "moreno"
+  },
+  "11a20cbc-adb8-452c-bfb2-f2637ef6e32b": {
+    "luminance": 190.9,
+    "rgb": [
+      231,
+      179,
+      149
+    ],
+    "hex": "#E7B395",
+    "category": "white"
+  },
+  "e545f180-9f8e-4ce9-ae8c-ac7db345f5d3": {
+    "luminance": 143.2,
+    "rgb": [
+      181,
+      130,
+      113
+    ],
+    "hex": "#B58271",
+    "category": "mestizo"
+  },
+  "22dea232-ceef-4e9c-8652-c3c261a7909e": {
+    "luminance": 174.2,
+    "rgb": [
+      227,
+      155,
+      132
+    ],
+    "hex": "#E39B84",
+    "category": "white"
+  },
+  "a6dbed9c-f0a7-4ae4-93c4-6ff5ddebc47f": {
+    "luminance": 126.0,
+    "rgb": [
+      176,
+      110,
+      81
+    ],
+    "hex": "#B06E51",
+    "category": "mestizo"
+  },
+  "29bea75d-f101-4d0f-93b7-03031209e025": {
+    "luminance": 126.0,
+    "rgb": [
+      146,
+      121,
+      95
+    ],
+    "hex": "#92795F",
+    "category": "mestizo"
+  },
+  "747463ed-fdd2-4828-930b-0221a04b5653": {
+    "luminance": 148.8,
+    "rgb": [
+      195,
+      131,
+      120
+    ],
+    "hex": "#C38378",
+    "category": "mestizo"
+  },
+  "68f047b9-2a91-4dfd-a981-d63de6e723f0": {
+    "luminance": 146.1,
+    "rgb": [
+      194,
+      131,
+      108
+    ],
+    "hex": "#C2836C",
+    "category": "mestizo"
+  },
+  "9c27636e-af3f-4f03-a260-e3527a43564b": {
+    "luminance": 148.1,
+    "rgb": [
+      193,
+      132,
+      115
+    ],
+    "hex": "#C18473",
+    "category": "mestizo"
+  },
+  "213ab107-c82f-4cda-9231-ec04224b2687": {
+    "luminance": 160.3,
+    "rgb": [
+      201,
+      145,
+      135
+    ],
+    "hex": "#C99187",
+    "category": "white"
+  },
+  "080f845d-012a-41b1-8fd8-c1f76c2facfe": {
+    "luminance": 132.7,
+    "rgb": [
+      174,
+      115,
+      110
+    ],
+    "hex": "#AE736E",
+    "category": "mestizo"
+  },
+  "fec5aa6b-e689-4cb0-93e6-1d23abb77e09": {
+    "luminance": 155.3,
+    "rgb": [
+      204,
+      138,
+      121
+    ],
+    "hex": "#CC8A79",
+    "category": "white"
+  },
+  "12222579-e8af-42d6-8a46-0e4dc9b61169": {
+    "luminance": 115.7,
+    "rgb": [
+      162,
+      100,
+      78
+    ],
+    "hex": "#A2644E",
+    "category": "mestizo"
+  },
+  "02a48981-ba2e-4568-8579-f0145d6f2429": {
+    "luminance": 137.2,
+    "rgb": [
+      187,
+      119,
+      108
+    ],
+    "hex": "#BB776C",
+    "category": "mestizo"
+  },
+  "03738a70-a17f-435e-89e4-67b436c45fcc": {
+    "luminance": 214.0,
+    "rgb": [
+      214,
+      214,
+      214
+    ],
+    "hex": "#D6D6D6",
+    "category": "white"
+  },
+  "b41d32e2-1e2c-4c2d-b422-665a1018f6d1": {
+    "luminance": 134.1,
+    "rgb": [
+      180,
+      116,
+      106
+    ],
+    "hex": "#B4746A",
+    "category": "mestizo"
+  },
+  "40368331-75dd-4543-97fa-73ba11863166": {
+    "luminance": 155.8,
+    "rgb": [
+      198,
+      140,
+      128
+    ],
+    "hex": "#C68C80",
+    "category": "white"
+  },
+  "d53bc6f8-7f1b-4e05-b0c3-fa3b28b3bdd5": {
+    "luminance": 69.9,
+    "rgb": [
+      99,
+      60,
+      44
+    ],
+    "hex": "#633C2C",
+    "category": "moreno"
+  },
+  "2a6a84ef-6e8c-4166-93ef-f92368353341": {
+    "luminance": 159.2,
+    "rgb": [
+      201,
+      148,
+      111
+    ],
+    "hex": "#C9946F",
+    "category": "white"
+  },
+  "c5ca7292-9725-4593-b542-094d19daf98e": {
+    "luminance": 177.3,
+    "rgb": [
+      198,
+      172,
+      149
+    ],
+    "hex": "#C6AC95",
+    "category": "white"
+  },
+  "3e321c7c-c0f0-4313-ba91-ff18f38988b9": {
+    "luminance": 129.2,
+    "rgb": [
+      176,
+      112,
+      98
+    ],
+    "hex": "#B07062",
+    "category": "mestizo"
+  },
+  "92c440c4-3a71-49d0-aab1-108892cb4445": {
+    "luminance": 181.0,
+    "rgb": [
+      236,
+      162,
+      136
+    ],
+    "hex": "#ECA288",
+    "category": "white"
+  },
+  "c1638edc-4574-4b07-adf8-11e67e0748b9": {
+    "luminance": 161.0,
+    "rgb": [
+      207,
+      143,
+      132
+    ],
+    "hex": "#CF8F84",
+    "category": "white"
+  },
+  "e2d7b72d-e570-4d67-ac1b-c325a9a1da1e": {
+    "luminance": 164.5,
+    "rgb": [
+      221,
+      144,
+      122
+    ],
+    "hex": "#DD907A",
+    "category": "white"
+  },
+  "4da5b047-5fdc-49ee-9de8-5adda019bf92": {
+    "luminance": 137.9,
+    "rgb": [
+      185,
+      120,
+      106
+    ],
+    "hex": "#B9786A",
+    "category": "mestizo"
+  },
+  "009277cb-5543-4805-974c-066dc67f4f77": {
+    "luminance": 120.9,
+    "rgb": [
+      171,
+      104,
+      77
+    ],
+    "hex": "#AB684D",
+    "category": "mestizo"
+  },
+  "657cb7da-f64e-4945-abac-d0678e4af8b7": {
+    "luminance": 147.1,
+    "rgb": [
+      182,
+      136,
+      114
+    ],
+    "hex": "#B68872",
+    "category": "mestizo"
+  },
+  "c9526004-8be5-4fbd-96da-2ccf05b1491c": {
+    "luminance": 119.7,
+    "rgb": [
+      162,
+      103,
+      96
+    ],
+    "hex": "#A26760",
+    "category": "mestizo"
+  },
+  "0604dab0-3f67-4377-b198-6e94d4ce475a": {
+    "luminance": 153.8,
+    "rgb": [
+      197,
+      137,
+      128
+    ],
+    "hex": "#C58980",
+    "category": "white"
+  },
+  "beeeb5a3-8264-44f1-904c-bebe99da63ac": {
+    "luminance": 143.2,
+    "rgb": [
+      184,
+      131,
+      99
+    ],
+    "hex": "#B88363",
+    "category": "mestizo"
+  },
+  "b8ffdaa3-bfaa-43c0-8097-898e5de0ef53": {
+    "luminance": 125.0,
+    "rgb": [
+      194,
+      99,
+      79
+    ],
+    "hex": "#C2634F",
+    "category": "mestizo"
+  },
+  "8a6c90c3-d0df-4a00-add8-7a4ea0b12982": {
+    "luminance": 126.7,
+    "rgb": [
+      159,
+      117,
+      91
+    ],
+    "hex": "#9F755B",
+    "category": "mestizo"
+  },
+  "ecfa5462-c1e8-4622-86a1-7dbc9a6c4350": {
+    "luminance": 140.1,
+    "rgb": [
+      184,
+      128,
+      93
+    ],
+    "hex": "#B8805D",
+    "category": "mestizo"
+  },
+  "951d8787-4ae4-4337-ba39-606233863f68": {
+    "luminance": 166.1,
+    "rgb": [
+      204,
+      151,
+      145
+    ],
+    "hex": "#CC9791",
+    "category": "white"
+  },
+  "c44c14cd-20df-4353-a3cf-297117954a3f": {
+    "luminance": 162.4,
+    "rgb": [
+      217,
+      143,
+      116
+    ],
+    "hex": "#D98F74",
+    "category": "white"
+  },
+  "aef5ceb0-e6ee-40b1-b809-9bdb73ed2848": {
+    "luminance": 173.0,
+    "rgb": [
+      220,
+      155,
+      131
+    ],
+    "hex": "#DC9B83",
+    "category": "white"
+  },
+  "2c99caea-1b03-4ec2-8476-34a8583c4e61": {
+    "luminance": 93.4,
+    "rgb": [
+      124,
+      81,
+      80
+    ],
+    "hex": "#7C5150",
+    "category": "moreno"
+  },
+  "3ad1d7e7-bdff-44e4-83f1-c657d992b24b": {
+    "luminance": 176.9,
+    "rgb": [
+      230,
+      159,
+      130
+    ],
+    "hex": "#E69F82",
+    "category": "white"
+  },
+  "251c7ea3-1896-41c0-a37a-29a270a488fe": {
+    "luminance": 172.0,
+    "rgb": [
+      230,
+      152,
+      124
+    ],
+    "hex": "#E6987C",
+    "category": "white"
+  },
+  "6d374661-53bd-483b-8f4b-ce97b198e3a7": {
+    "luminance": 137.9,
+    "rgb": [
+      168,
+      132,
+      91
+    ],
+    "hex": "#A8845B",
+    "category": "mestizo"
+  },
+  "6efaa6ad-e774-4a88-b935-2794355395c8": {
+    "luminance": 175.3,
+    "rgb": [
+      215,
+      162,
+      136
+    ],
+    "hex": "#D7A288",
+    "category": "white"
+  },
+  "0b26fbc0-37b5-472a-aae5-7ebd056a74af": {
+    "luminance": 169.9,
+    "rgb": [
+      224,
+      152,
+      122
+    ],
+    "hex": "#E0987A",
+    "category": "white"
+  },
+  "9fcbe823-6259-4fbb-9fa3-bdae5169f5b1": {
+    "luminance": 120.0,
+    "rgb": [
+      167,
+      103,
+      83
+    ],
+    "hex": "#A76753",
+    "category": "mestizo"
+  },
+  "92e886f1-0781-4203-88d5-c6055389a095": {
+    "luminance": 134.3,
+    "rgb": [
+      182,
+      117,
+      94
+    ],
+    "hex": "#B6755E",
+    "category": "mestizo"
+  },
+  "afe4c908-a283-4d5a-987a-afcf837c8962": {
+    "luminance": 171.0,
+    "rgb": [
+      202,
+      161,
+      139
+    ],
+    "hex": "#CAA18B",
+    "category": "white"
+  },
+  "a0261cfa-f1f7-4535-91cc-b35427ccf491": {
+    "luminance": 161.2,
+    "rgb": [
+      211,
+      144,
+      117
+    ],
+    "hex": "#D39075",
+    "category": "white"
+  },
+  "5141c42a-57b2-4db6-a5d1-b8ee77bddc5a": {
+    "luminance": 138.1,
+    "rgb": [
+      176,
+      133,
+      65
+    ],
+    "hex": "#B08541",
+    "category": "mestizo"
+  },
+  "5d07eaae-e8e7-4c46-998e-2e956e04b638": {
+    "luminance": 170.8,
+    "rgb": [
+      225,
+      151,
+      128
+    ],
+    "hex": "#E19780",
+    "category": "white"
+  },
+  "66344cc4-7b02-4f7d-b79d-605df96c45c4": {
+    "luminance": 85.2,
+    "rgb": [
+      120,
+      74,
+      54
+    ],
+    "hex": "#784A36",
+    "category": "moreno"
+  },
+  "fc6e2356-c0ad-4ec9-b0a2-9b5642ddcb2b": {
+    "luminance": 118.1,
+    "rgb": [
+      156,
+      104,
+      90
+    ],
+    "hex": "#9C685A",
+    "category": "mestizo"
+  },
+  "c602a411-2bd3-4daf-a3f3-deac4ba37882": {
+    "luminance": 160.3,
+    "rgb": [
+      217,
+      138,
+      127
+    ],
+    "hex": "#D98A7F",
+    "category": "white"
+  },
+  "d12403dc-e883-4ec0-bb6f-b7c5069200f5": {
+    "luminance": 138.5,
+    "rgb": [
+      180,
+      124,
+      104
+    ],
+    "hex": "#B47C68",
+    "category": "mestizo"
+  },
+  "d92645ba-d429-4c6b-8084-cf4dd6235330": {
+    "luminance": 119.2,
+    "rgb": [
+      178,
+      99,
+      68
+    ],
+    "hex": "#B26344",
+    "category": "mestizo"
+  },
+  "df6f5a73-b7f8-4653-b94d-90fba6ee02d2": {
+    "luminance": 126.1,
+    "rgb": [
+      174,
+      108,
+      91
+    ],
+    "hex": "#AE6C5B",
+    "category": "mestizo"
+  },
+  "1645f38c-4c3e-480e-a53e-fc4452e5cb6b": {
+    "luminance": 110.9,
+    "rgb": [
+      143,
+      99,
+      87
+    ],
+    "hex": "#8F6357",
+    "category": "mestizo"
+  },
+  "e5ef3289-b80b-4b85-bec8-c3f3a2412e03": {
+    "luminance": 173.8,
+    "rgb": [
+      230,
+      154,
+      128
+    ],
+    "hex": "#E69A80",
+    "category": "white"
+  },
+  "5ecd8fe6-def2-46fa-bbcf-79f638999241": {
+    "luminance": 174.7,
+    "rgb": [
+      226,
+      157,
+      127
+    ],
+    "hex": "#E29D7F",
+    "category": "white"
+  },
+  "d055488d-f685-435f-9c21-57e0064ec817": {
+    "luminance": 158.0,
+    "rgb": [
+      207,
+      143,
+      114
+    ],
+    "hex": "#CF8F72",
+    "category": "white"
+  },
+  "9a256c6b-c963-42e9-ab61-742b5437a3c1": {
+    "luminance": 163.3,
+    "rgb": [
+      199,
+      150,
+      143
+    ],
+    "hex": "#C7968F",
+    "category": "white"
+  },
+  "5104b55c-4bd5-4e18-aa0f-ca3c65eb3224": {
+    "luminance": 116.0,
+    "rgb": [
+      169,
+      98,
+      75
+    ],
+    "hex": "#A9624B",
+    "category": "mestizo"
+  },
+  "46d188b8-4fd7-413d-b24d-986dde0595c4": {
+    "luminance": 116.2,
+    "rgb": [
+      169,
+      98,
+      77
+    ],
+    "hex": "#A9624D",
+    "category": "mestizo"
+  },
+  "883c5e4a-2ec0-45d9-853e-7c3cdde4f277": {
+    "luminance": 133.0,
+    "rgb": [
+      185,
+      116,
+      91
+    ],
+    "hex": "#B9745B",
+    "category": "mestizo"
+  },
+  "0d583430-5fb1-499a-a505-fe8d9546ce48": {
+    "luminance": 69.8,
+    "rgb": [
+      106,
+      57,
+      43
+    ],
+    "hex": "#6A392B",
+    "category": "moreno"
+  },
+  "f1af060c-9fa6-498e-bd29-66e92f2e473f": {
+    "luminance": 75.9,
+    "rgb": [
+      97,
+      68,
+      61
+    ],
+    "hex": "#61443D",
+    "category": "moreno"
+  },
+  "5981d3ae-be02-48ce-bd43-ca459819cbf5": {
+    "luminance": 108.0,
+    "rgb": [
+      140,
+      97,
+      82
+    ],
+    "hex": "#8C6152",
+    "category": "moreno"
+  },
+  "6149eb51-c28d-4a11-a365-926369bd9e4e": {
+    "luminance": 186.0,
+    "rgb": [
+      242,
+      165,
+      148
+    ],
+    "hex": "#F2A594",
+    "category": "white"
+  },
+  "6207a8f0-74ae-49ca-82b2-164b0dbd14ee": {
+    "luminance": 142.6,
+    "rgb": [
+      170,
+      133,
+      118
+    ],
+    "hex": "#AA8576",
+    "category": "mestizo"
+  },
+  "91ba3cdf-d825-4352-9e82-bac5320125a5": {
+    "luminance": 130.2,
+    "rgb": [
+      169,
+      116,
+      104
+    ],
+    "hex": "#A97468",
+    "category": "mestizo"
+  },
+  "80bfae3a-e798-447c-b770-61caa70f999c": {
+    "luminance": 139.0,
+    "rgb": [
+      178,
+      127,
+      98
+    ],
+    "hex": "#B27F62",
+    "category": "mestizo"
+  },
+  "41eb96a5-4b5d-4602-b065-46a211d5a402": {
+    "luminance": 106.3,
+    "rgb": [
+      142,
+      94,
+      81
+    ],
+    "hex": "#8E5E51",
+    "category": "moreno"
+  },
+  "886122a3-0cbe-4026-879e-ffbb65554e3e": {
+    "luminance": 176.7,
+    "rgb": [
+      225,
+      163,
+      120
+    ],
+    "hex": "#E1A378",
+    "category": "white"
+  },
+  "1bc40370-5810-4641-a454-89c9bf2989ab": {
+    "luminance": 162.0,
+    "rgb": [
+      213,
+      145,
+      117
+    ],
+    "hex": "#D59175",
+    "category": "white"
+  },
+  "031420e9-f1ef-4f10-b9d5-9d502a2704a1": {
+    "luminance": 149.8,
+    "rgb": [
+      212,
+      128,
+      99
+    ],
+    "hex": "#D48063",
+    "category": "mestizo"
+  },
+  "e429afdd-7479-46ae-94a4-e7ce42f8c504": {
+    "luminance": 156.9,
+    "rgb": [
+      202,
+      140,
+      124
+    ],
+    "hex": "#CA8C7C",
+    "category": "white"
+  },
+  "dee78b04-ba99-491b-a846-4f1b6015c7aa": {
+    "luminance": 170.0,
+    "rgb": [
+      218,
+      153,
+      130
+    ],
+    "hex": "#DA9982",
+    "category": "white"
+  },
+  "055bc587-e460-4b62-817a-5c38731c9862": {
+    "luminance": 115.3,
+    "rgb": [
+      168,
+      97,
+      72
+    ],
+    "hex": "#A86148",
+    "category": "mestizo"
+  },
+  "56b4e7d2-6a93-49d9-9d6e-c95b9e10bba6": {
+    "luminance": 99.5,
+    "rgb": [
+      138,
+      86,
+      65
+    ],
+    "hex": "#8A5641",
+    "category": "moreno"
+  },
+  "1db999e9-c0fd-45ef-b1c1-506ba8e82d29": {
+    "luminance": 125.1,
+    "rgb": [
+      164,
+      109,
+      102
+    ],
+    "hex": "#A46D66",
+    "category": "mestizo"
+  },
+  "b0a7944d-9d30-4388-bb66-dfe462a3d7bc": {
+    "luminance": 191.6,
+    "rgb": [
+      246,
+      174,
+      132
+    ],
+    "hex": "#F6AE84",
+    "category": "white"
+  },
+  "4407c112-413f-4da6-bbbc-953535bc8e7a": {
+    "luminance": 164.1,
+    "rgb": [
+      210,
+      149,
+      123
+    ],
+    "hex": "#D2957B",
+    "category": "white"
+  },
+  "40576f16-9a1e-4d21-a430-9a99a75d2979": {
+    "luminance": 96.7,
+    "rgb": [
+      136,
+      83,
+      63
+    ],
+    "hex": "#88533F",
+    "category": "moreno"
+  },
+  "88cd9d4d-455e-4618-899c-d80a3022afd5": {
+    "luminance": 157.9,
+    "rgb": [
+      203,
+      141,
+      124
+    ],
+    "hex": "#CB8D7C",
+    "category": "white"
+  },
+  "69b85fdb-0a7b-4749-81e8-95a106645f3a": {
+    "luminance": 147.2,
+    "rgb": [
+      197,
+      129,
+      109
+    ],
+    "hex": "#C5816D",
+    "category": "mestizo"
+  },
+  "48d2ad68-a9a1-40b8-8831-9a4526aea7d2": {
+    "luminance": 135.4,
+    "rgb": [
+      189,
+      117,
+      90
+    ],
+    "hex": "#BD755A",
+    "category": "mestizo"
+  },
+  "6e0ff919-e984-4083-baa6-312499a674b7": {
+    "luminance": 142.0,
+    "rgb": [
+      193,
+      127,
+      101
+    ],
+    "hex": "#C17F65",
+    "category": "mestizo"
+  },
+  "bc8dfd5f-87ff-4766-8e9e-1b0f78cb7e73": {
+    "luminance": 145.6,
+    "rgb": [
+      200,
+      127,
+      96
+    ],
+    "hex": "#C87F60",
+    "category": "mestizo"
+  },
+  "d290efe0-1fec-43f6-a82d-5b933c73cf13": {
+    "luminance": 145.9,
+    "rgb": [
+      200,
+      129,
+      90
+    ],
+    "hex": "#C8815A",
+    "category": "mestizo"
+  },
+  "3e9ab839-b071-4e7d-a0c5-628f70545af4": {
+    "luminance": 175.4,
+    "rgb": [
+      211,
+      162,
+      152
+    ],
+    "hex": "#D3A298",
+    "category": "white"
+  },
+  "d16d1d1d-a47e-4292-8c8d-e5ccd7f429fa": {
+    "luminance": 111.7,
+    "rgb": [
+      150,
+      99,
+      76
+    ],
+    "hex": "#96634C",
+    "category": "mestizo"
+  },
+  "34b53a42-fd12-4a93-9cc1-411cd57ee6c1": {
+    "luminance": 117.9,
+    "rgb": [
+      156,
+      106,
+      81
+    ],
+    "hex": "#9C6A51",
+    "category": "mestizo"
+  },
+  "fc2b1927-c21e-4d9e-baf9-0647506e33e4": {
+    "luminance": 181.7,
+    "rgb": [
+      224,
+      166,
+      150
+    ],
+    "hex": "#E0A696",
+    "category": "white"
+  },
+  "47622722-f870-4dd0-8ece-702b36e4c4d6": {
+    "luminance": 178.2,
+    "rgb": [
+      224,
+      162,
+      144
+    ],
+    "hex": "#E0A290",
+    "category": "white"
+  },
+  "0671ed96-9c4e-4ed9-8d99-8413f53c534b": {
+    "luminance": 127.5,
+    "rgb": [
+      166,
+      115,
+      97
+    ],
+    "hex": "#A67361",
+    "category": "mestizo"
+  },
+  "edbf654b-0a43-4c4b-a3e7-1e1003119de9": {
+    "luminance": 130.0,
+    "rgb": [
+      164,
+      117,
+      104
+    ],
+    "hex": "#A47568",
+    "category": "mestizo"
+  },
+  "75ee5126-768f-4cad-873c-c801164165ee": {
+    "luminance": 123.0,
+    "rgb": [
+      155,
+      112,
+      99
+    ],
+    "hex": "#9B7063",
+    "category": "mestizo"
+  },
+  "90bd287d-59f2-40a0-ab30-a5cd692439c6": {
+    "luminance": 169.5,
+    "rgb": [
+      221,
+      152,
+      127
+    ],
+    "hex": "#DD987F",
+    "category": "white"
+  },
+  "7fc57dcb-f0bd-44ff-bd40-8570303db7d9": {
+    "luminance": 167.4,
+    "rgb": [
+      210,
+      151,
+      135
+    ],
+    "hex": "#D29787",
+    "category": "white"
+  },
+  "184aaee7-7041-4a25-9b81-be57bb3b259a": {
+    "luminance": 127.3,
+    "rgb": [
+      179,
+      107,
+      100
+    ],
+    "hex": "#B36B64",
+    "category": "mestizo"
+  },
+  "91a07337-75a1-49ec-98fa-9ee7bde4d7ac": {
+    "luminance": 119.9,
+    "rgb": [
+      175,
+      100,
+      78
+    ],
+    "hex": "#AF644E",
+    "category": "mestizo"
+  },
+  "df9e8e23-5b28-4b3a-9a69-99c69a65a9d4": {
+    "luminance": 89.2,
+    "rgb": [
+      119,
+      79,
+      68
+    ],
+    "hex": "#774F44",
+    "category": "moreno"
+  },
+  "2db5cc87-8773-489c-b32d-2cd4cdf4ce28": {
+    "luminance": 156.2,
+    "rgb": [
+      217,
+      140,
+      85
+    ],
+    "hex": "#D98C55",
+    "category": "white"
+  },
+  "eb4cbf7e-7498-4156-8b2f-e8b60c49380d": {
+    "luminance": 138.1,
+    "rgb": [
+      177,
+      126,
+      104
+    ],
+    "hex": "#B17E68",
+    "category": "mestizo"
+  },
+  "06b2b3ce-b5f6-4fba-9b02-5ad0916fb589": {
+    "luminance": 133.7,
+    "rgb": [
+      193,
+      112,
+      93
+    ],
+    "hex": "#C1705D",
+    "category": "mestizo"
+  },
+  "9f5a6ff5-3d66-4475-9f4c-5ab634f3ac78": {
+    "luminance": 172.8,
+    "rgb": [
+      215,
+      158,
+      135
+    ],
+    "hex": "#D79E87",
+    "category": "white"
+  },
+  "5a4063cd-f5a7-4336-b7ee-2a1215001432": {
+    "luminance": 144.1,
+    "rgb": [
+      202,
+      124,
+      99
+    ],
+    "hex": "#CA7C63",
+    "category": "mestizo"
+  },
+  "0f4cb564-b818-49ee-be14-70f42dfb94be": {
+    "luminance": 114.3,
+    "rgb": [
+      149,
+      103,
+      84
+    ],
+    "hex": "#956754",
+    "category": "mestizo"
+  },
+  "c158c2a6-49ac-4012-aa2e-b0043aad3440": {
+    "luminance": 168.1,
+    "rgb": [
+      207,
+      155,
+      134
+    ],
+    "hex": "#CF9B86",
+    "category": "white"
+  },
+  "f47b4087-0179-4611-808a-4454d17e8e84": {
+    "luminance": 104.7,
+    "rgb": [
+      137,
+      94,
+      83
+    ],
+    "hex": "#895E53",
+    "category": "moreno"
+  },
+  "c4509266-caf1-4a5b-945e-a7cdf330ecaf": {
+    "luminance": 84.3,
+    "rgb": [
+      112,
+      75,
+      64
+    ],
+    "hex": "#704B40",
+    "category": "moreno"
+  },
+  "02b27fd2-68bd-4b87-b5ca-b470ef26a34f": {
+    "luminance": 151.1,
+    "rgb": [
+      190,
+      138,
+      115
+    ],
+    "hex": "#BE8A73",
+    "category": "white"
+  },
+  "757c8784-99b7-4a80-9ffa-99bca2715597": {
+    "luminance": 82.2,
+    "rgb": [
+      109,
+      72,
+      65
+    ],
+    "hex": "#6D4841",
+    "category": "moreno"
+  },
+  "7fa8debc-cbf4-48b6-a171-06136fec2ace": {
+    "luminance": 92.8,
+    "rgb": [
+      143,
+      75,
+      53
+    ],
+    "hex": "#8F4B35",
+    "category": "moreno"
+  },
+  "7088a66d-0d9e-4bd2-9903-dbbe7f3d93d8": {
+    "luminance": 187.9,
+    "rgb": [
+      228,
+      173,
+      160
+    ],
+    "hex": "#E4ADA0",
+    "category": "white"
+  },
+  "a746b26d-1cb2-4c95-8627-7b0d60866e4a": {
+    "luminance": 141.7,
+    "rgb": [
+      195,
+      124,
+      90
+    ],
+    "hex": "#C37C5A",
+    "category": "mestizo"
+  },
+  "eb34bbf5-04a4-4fb6-b5c4-cf09f0f1f988": {
+    "luminance": 134.2,
+    "rgb": [
+      171,
+      121,
+      108
+    ],
+    "hex": "#AB796C",
+    "category": "mestizo"
+  },
+  "e55427b4-088a-4a5f-bdd5-396ac3920aeb": {
+    "luminance": 126.9,
+    "rgb": [
+      167,
+      114,
+      92
+    ],
+    "hex": "#A7725C",
+    "category": "mestizo"
+  },
+  "94fe60cb-e3e2-435b-80b6-7b2d03c79589": {
+    "luminance": 131.6,
+    "rgb": [
+      174,
+      117,
+      91
+    ],
+    "hex": "#AE755B",
+    "category": "mestizo"
+  },
+  "31a91f90-df74-427a-b064-61bd25250093": {
+    "luminance": 147.8,
+    "rgb": [
+      185,
+      131,
+      127
+    ],
+    "hex": "#B9837F",
+    "category": "mestizo"
+  },
+  "0e59b0ce-c5c3-4a76-872a-7c257c7300c2": {
+    "luminance": 106.0,
+    "rgb": [
+      152,
+      89,
+      74
+    ],
+    "hex": "#98594A",
+    "category": "moreno"
+  },
+  "31988232-77d7-4969-a60b-9ddd0a0cbca7": {
+    "luminance": 121.9,
+    "rgb": [
+      168,
+      106,
+      79
+    ],
+    "hex": "#A86A4F",
+    "category": "mestizo"
+  },
+  "c59cc18a-9c8e-4667-8271-df4f0960235e": {
+    "luminance": 116.8,
+    "rgb": [
+      157,
+      104,
+      75
+    ],
+    "hex": "#9D684B",
+    "category": "mestizo"
+  },
+  "3617c5b3-2ce1-4c45-bb59-3e58fb9306ca": {
+    "luminance": 120.9,
+    "rgb": [
+      160,
+      109,
+      86
+    ],
+    "hex": "#A06D56",
+    "category": "mestizo"
+  },
+  "964022f0-e425-4543-84b5-e95faa0b57bf": {
+    "luminance": 121.9,
+    "rgb": [
+      152,
+      110,
+      99
+    ],
+    "hex": "#986E63",
+    "category": "mestizo"
+  },
+  "379936a0-cd47-4b9f-815c-54588e906205": {
+    "luminance": 144.0,
+    "rgb": [
+      184,
+      130,
+      111
+    ],
+    "hex": "#B8826F",
+    "category": "mestizo"
+  },
+  "94ee8855-32b7-41c4-9159-aeec1b4ff9f5": {
+    "luminance": 152.2,
+    "rgb": [
+      193,
+      136,
+      127
+    ],
+    "hex": "#C1887F",
+    "category": "white"
+  },
+  "1ccb8091-27a5-4c39-ba98-4e190b63a5a4": {
+    "luminance": 176.2,
+    "rgb": [
+      214,
+      162,
+      151
+    ],
+    "hex": "#D6A297",
+    "category": "white"
+  },
+  "7d3d20f0-7713-4b55-9e74-714705c78938": {
+    "luminance": 200.6,
+    "rgb": [
+      238,
+      190,
+      165
+    ],
+    "hex": "#EEBEA5",
+    "category": "white"
+  },
+  "320ee533-d9db-45d9-8340-d80bea21a229": {
+    "luminance": 132.0,
+    "rgb": [
+      170,
+      120,
+      98
+    ],
+    "hex": "#AA7862",
+    "category": "mestizo"
+  },
+  "428962a3-2e1e-4c22-a2c8-82793f15e5ab": {
+    "luminance": 175.8,
+    "rgb": [
+      208,
+      166,
+      145
+    ],
+    "hex": "#D0A691",
+    "category": "white"
+  },
+  "40ad37bd-a88c-44cc-af4b-ccb02e8b735c": {
+    "luminance": 122.0,
+    "rgb": [
+      166,
+      109,
+      84
+    ],
+    "hex": "#A66D54",
+    "category": "mestizo"
+  },
+  "ee707d76-af84-45c1-a3fb-f2402f0a3b7e": {
+    "luminance": 153.8,
+    "rgb": [
+      197,
+      142,
+      100
+    ],
+    "hex": "#C58E64",
+    "category": "white"
+  },
+  "2ff01b50-5029-4bfe-a708-e840fcfbda87": {
+    "luminance": 147.3,
+    "rgb": [
+      188,
+      135,
+      106
+    ],
+    "hex": "#BC876A",
+    "category": "mestizo"
+  },
+  "8d3fb5ed-2579-4e95-be66-47f5ed5a8e42": {
+    "luminance": 154.4,
+    "rgb": [
+      215,
+      133,
+      105
+    ],
+    "hex": "#D78569",
+    "category": "white"
+  },
+  "7f649b59-f82e-443d-9a78-810f9937da18": {
+    "luminance": 109.9,
+    "rgb": [
+      161,
+      92,
+      68
+    ],
+    "hex": "#A15C44",
+    "category": "moreno"
+  },
+  "00b107e8-6421-4e5d-adb7-bd267861ca17": {
+    "luminance": 138.8,
+    "rgb": [
+      187,
+      122,
+      95
+    ],
+    "hex": "#BB7A5F",
+    "category": "mestizo"
+  },
+  "456c77d9-681a-460e-b3a3-2e79fd7a7c5f": {
+    "luminance": 148.5,
+    "rgb": [
+      208,
+      127,
+      102
+    ],
+    "hex": "#D07F66",
+    "category": "mestizo"
+  },
+  "d39343db-ff7b-47ba-be12-938f4b1a168f": {
+    "luminance": 146.0,
+    "rgb": [
+      183,
+      134,
+      112
+    ],
+    "hex": "#B78670",
+    "category": "mestizo"
+  },
+  "b10d40dd-100d-4f7d-a8ca-48d6ba9d3faa": {
+    "luminance": 157.2,
+    "rgb": [
+      196,
+      144,
+      123
+    ],
+    "hex": "#C4907B",
+    "category": "white"
+  },
+  "2a79f5cd-e315-463a-814d-3151b24f4f6c": {
+    "luminance": 140.8,
+    "rgb": [
+      179,
+      127,
+      105
+    ],
+    "hex": "#B37F69",
+    "category": "mestizo"
+  },
+  "bdbe5b48-d263-4147-8529-59a5d7573c9b": {
+    "luminance": 155.9,
+    "rgb": [
+      189,
+      146,
+      128
+    ],
+    "hex": "#BD9280",
+    "category": "white"
+  },
+  "a22ff1fc-f350-4104-9354-25f0a4e3b618": {
+    "luminance": 91.8,
+    "rgb": [
+      119,
+      80,
+      80
+    ],
+    "hex": "#775050",
+    "category": "moreno"
+  },
+  "34d46cb2-ba9c-4ece-a905-a14740bbd9fc": {
+    "luminance": 171.2,
+    "rgb": [
+      203,
+      158,
+      151
+    ],
+    "hex": "#CB9E97",
+    "category": "white"
+  },
+  "73c94917-4c6a-4321-8905-ed2be08ba676": {
+    "luminance": 141.3,
+    "rgb": [
+      198,
+      121,
+      98
+    ],
+    "hex": "#C67962",
+    "category": "mestizo"
+  },
+  "d9e95666-8d9d-4e51-8ca4-fb52463bde8c": {
+    "luminance": 112.9,
+    "rgb": [
+      164,
+      95,
+      72
+    ],
+    "hex": "#A45F48",
+    "category": "mestizo"
+  },
+  "9c4e1637-d1ab-4e99-988b-f19018883598": {
+    "luminance": 145.3,
+    "rgb": [
+      199,
+      125,
+      108
+    ],
+    "hex": "#C77D6C",
+    "category": "mestizo"
+  },
+  "ff5b6e73-cab1-4c89-ae87-2afbc9d127e5": {
+    "luminance": 148.1,
+    "rgb": [
+      202,
+      129,
+      107
+    ],
+    "hex": "#CA816B",
+    "category": "mestizo"
+  },
+  "59fbbd93-98f1-4305-a1ae-9898f213b29a": {
+    "luminance": 108.2,
+    "rgb": [
+      159,
+      91,
+      66
+    ],
+    "hex": "#9F5B42",
+    "category": "moreno"
+  },
+  "6aa5821d-9794-4b1c-a2fd-012c7f6e4f4e": {
+    "luminance": 171.2,
+    "rgb": [
+      233,
+      148,
+      132
+    ],
+    "hex": "#E99484",
+    "category": "white"
+  },
+  "6f1b64aa-f525-4cf7-a960-f1b2b35f1a7c": {
+    "luminance": 89.3,
+    "rgb": [
+      132,
+      74,
+      56
+    ],
+    "hex": "#844A38",
+    "category": "moreno"
+  },
+  "dd6a4c54-d6f7-4ee0-a7fe-834a75480c16": {
+    "luminance": 125.5,
+    "rgb": [
+      183,
+      106,
+      77
+    ],
+    "hex": "#B76A4D",
+    "category": "mestizo"
+  },
+  "572dafd0-4e57-4ac3-bf89-17aeb6ecc202": {
+    "luminance": 177.9,
+    "rgb": [
+      229,
+      161,
+      131
+    ],
+    "hex": "#E5A183",
+    "category": "white"
+  },
+  "b6ad1b45-9962-4f7c-92c9-0ab672fea016": {
+    "luminance": 121.3,
+    "rgb": [
+      154,
+      109,
+      95
+    ],
+    "hex": "#9A6D5F",
+    "category": "mestizo"
+  },
+  "b309e1fe-048b-4d0e-80e3-2657680817a3": {
+    "luminance": 114.7,
+    "rgb": [
+      168,
+      96,
+      71
+    ],
+    "hex": "#A86047",
+    "category": "mestizo"
+  },
+  "0902a749-4549-4e7c-919b-9eafcc588ada": {
+    "luminance": 149.4,
+    "rgb": [
+      200,
+      132,
+      103
+    ],
+    "hex": "#C88467",
+    "category": "mestizo"
+  },
+  "3c8f4b5b-a20e-4b53-ac8e-316c213c3a81": {
+    "luminance": 149.1,
+    "rgb": [
+      196,
+      132,
+      108
+    ],
+    "hex": "#C4846C",
+    "category": "mestizo"
+  },
+  "b99d4381-d169-4768-9813-93b1dab89985": {
+    "luminance": 117.0,
+    "rgb": [
+      172,
+      97,
+      78
+    ],
+    "hex": "#AC614E",
+    "category": "mestizo"
+  },
+  "3b402829-09d5-4d2f-a89d-83955e78fdd1": {
+    "luminance": 144.1,
+    "rgb": [
+      202,
+      122,
+      104
+    ],
+    "hex": "#CA7A68",
+    "category": "mestizo"
+  },
+  "861092c1-d4f6-461f-8888-99675d10069c": {
+    "luminance": 168.5,
+    "rgb": [
+      216,
+      154,
+      125
+    ],
+    "hex": "#D89A7D",
+    "category": "white"
+  },
+  "3416afac-3b61-4945-9f3b-a04dfc0c13b8": {
+    "luminance": 159.6,
+    "rgb": [
+      198,
+      143,
+      143
+    ],
+    "hex": "#C68F8F",
+    "category": "white"
+  },
+  "f3136ebf-525b-4627-ba4f-da5f46c5e981": {
+    "luminance": 168.2,
+    "rgb": [
+      219,
+      151,
+      118
+    ],
+    "hex": "#DB9776",
+    "category": "white"
+  },
+  "bdea3abd-ee53-4425-a5f6-442ba39ad7e3": {
+    "luminance": 136.0,
+    "rgb": [
+      188,
+      118,
+      93
+    ],
+    "hex": "#BC765D",
+    "category": "mestizo"
+  },
+  "a6bd0424-817e-402c-903f-efb387ea7ca3": {
+    "luminance": 139.9,
+    "rgb": [
+      188,
+      124,
+      92
+    ],
+    "hex": "#BC7C5C",
+    "category": "mestizo"
+  },
+  "5c1aa7b3-aef4-4919-9c36-9932c31e6be4": {
+    "luminance": 190.3,
+    "rgb": [
+      230,
+      183,
+      118
+    ],
+    "hex": "#E6B776",
+    "category": "white"
+  },
+  "d666c2f3-c239-466a-859a-f0bfc798ac54": {
+    "luminance": 120.7,
+    "rgb": [
+      169,
+      104,
+      77
+    ],
+    "hex": "#A9684D",
+    "category": "mestizo"
+  },
+  "249ed5ad-6368-4498-a763-6fc293b85de5": {
+    "luminance": 115.5,
+    "rgb": [
+      172,
+      96,
+      72
+    ],
+    "hex": "#AC6048",
+    "category": "mestizo"
+  },
+  "2294844f-3407-48a0-b991-4cbfb723ed59": {
+    "luminance": 83.8,
+    "rgb": [
+      114,
+      71,
+      65
+    ],
+    "hex": "#724741",
+    "category": "moreno"
+  },
+  "401cc817-bc6b-45ee-96e7-6072b6624dbc": {
+    "luminance": 158.8,
+    "rgb": [
+      210,
+      140,
+      120
+    ],
+    "hex": "#D28C78",
+    "category": "white"
+  },
+  "691bbdb0-9fd1-4be4-9fbe-a9aa6d30dc72": {
+    "luminance": 116.9,
+    "rgb": [
+      160,
+      102,
+      81
+    ],
+    "hex": "#A06651",
+    "category": "mestizo"
+  },
+  "ce902608-d996-4496-a733-ef7dee02253b": {
+    "luminance": 154.9,
+    "rgb": [
+      208,
+      136,
+      109
+    ],
+    "hex": "#D0886D",
+    "category": "white"
+  },
+  "8dcc225c-94fb-469d-8c3d-647d7c560a0d": {
+    "luminance": 148.9,
+    "rgb": [
+      203,
+      132,
+      97
+    ],
+    "hex": "#CB8461",
+    "category": "mestizo"
+  },
+  "7fee8ea0-a7d7-4eba-9a98-110b2accfe91": {
+    "luminance": 174.0,
+    "rgb": [
+      223,
+      159,
+      120
+    ],
+    "hex": "#DF9F78",
+    "category": "white"
+  },
+  "608e7409-ed38-4ed4-8db8-e22c124aaba6": {
+    "luminance": 160.8,
+    "rgb": [
+      207,
+      147,
+      106
+    ],
+    "hex": "#CF936A",
+    "category": "white"
+  },
+  "880df9c1-dd6b-4ba9-9bb9-9273fcfcc236": {
+    "luminance": 162.5,
+    "rgb": [
+      193,
+      156,
+      119
+    ],
+    "hex": "#C19C77",
+    "category": "white"
+  },
+  "a170570a-76b2-4f7f-a2f2-0e3b3a42e7eb": {
+    "luminance": 153.1,
+    "rgb": [
+      238,
+      126,
+      69
+    ],
+    "hex": "#EE7E45",
+    "category": "white"
+  },
+  "c3dfae1c-9b2b-43e1-8f68-3b7a33cfcce9": {
+    "luminance": 149.4,
+    "rgb": [
+      219,
+      124,
+      96
+    ],
+    "hex": "#DB7C60",
+    "category": "mestizo"
+  },
+  "8b64cf2e-8347-471a-a285-d4286dbe3606": {
+    "luminance": 159.7,
+    "rgb": [
+      226,
+      137,
+      104
+    ],
+    "hex": "#E28968",
+    "category": "white"
+  },
+  "e662f17a-2dba-4bc3-9e85-d277b715aec2": {
+    "luminance": 158.9,
+    "rgb": [
+      206,
+      141,
+      126
+    ],
+    "hex": "#CE8D7E",
+    "category": "white"
+  },
+  "d4bf3233-b5a1-4044-ad34-d3add354e6cf": {
+    "luminance": 146.3,
+    "rgb": [
+      202,
+      128,
+      101
+    ],
+    "hex": "#CA8065",
+    "category": "mestizo"
+  },
+  "99c05414-bb2d-4270-93b1-80c197c67b3d": {
+    "luminance": 150.8,
+    "rgb": [
+      203,
+      130,
+      113
+    ],
+    "hex": "#CB8271",
+    "category": "white"
+  },
+  "66a317ed-7749-4d61-a51e-e15a6264495d": {
+    "luminance": 131.8,
+    "rgb": [
+      210,
+      103,
+      76
+    ],
+    "hex": "#D2674C",
+    "category": "mestizo"
+  },
+  "c269cc87-3e3b-4623-bec5-608700eaeade": {
+    "luminance": 133.0,
+    "rgb": [
+      186,
+      114,
+      92
+    ],
+    "hex": "#BA725C",
+    "category": "mestizo"
+  },
+  "4325bcf5-fc46-4637-b1ea-0e2439429cee": {
+    "luminance": 157.8,
+    "rgb": [
+      201,
+      145,
+      109
+    ],
+    "hex": "#C9916D",
+    "category": "white"
+  },
+  "44741d60-c97b-47ff-83f6-0ea817ef2127": {
+    "luminance": 149.6,
+    "rgb": [
+      201,
+      131,
+      110
+    ],
+    "hex": "#C9836E",
+    "category": "mestizo"
+  },
+  "972fc957-35a5-4645-9599-c580d987cb1d": {
+    "luminance": 135.9,
+    "rgb": [
+      186,
+      119,
+      96
+    ],
+    "hex": "#BA7760",
+    "category": "mestizo"
+  },
+  "8389cef1-86b4-4d34-9711-5aecfccbd174": {
+    "luminance": 69.9,
+    "rgb": [
+      99,
+      60,
+      44
+    ],
+    "hex": "#633C2C",
+    "category": "moreno"
+  },
+  "1560a99e-163e-450f-a73e-20f7b63a7d7a": {
+    "luminance": 127.0,
+    "rgb": [
+      197,
+      100,
+      79
+    ],
+    "hex": "#C5644F",
+    "category": "mestizo"
+  },
+  "a2d70a5c-5ae5-474c-be04-728fb87cc9a0": {
+    "luminance": 167.6,
+    "rgb": [
+      210,
+      152,
+      139
+    ],
+    "hex": "#D2988B",
+    "category": "white"
+  },
+  "b39936f7-b793-4782-a5d5-d7f3f3855f27": {
+    "luminance": 161.9,
+    "rgb": [
+      226,
+      144,
+      78
+    ],
+    "hex": "#E2904E",
+    "category": "white"
+  },
+  "8bf7e47f-b7bc-4dc8-9028-add44fcd93d2": {
+    "luminance": 149.1,
+    "rgb": [
+      207,
+      130,
+      97
+    ],
+    "hex": "#CF8261",
+    "category": "mestizo"
+  },
+  "8a808e12-6aa9-4c69-9b93-ab05d6b60c66": {
+    "luminance": 125.4,
+    "rgb": [
+      163,
+      112,
+      98
+    ],
+    "hex": "#A37062",
+    "category": "mestizo"
+  },
+  "9ecb3ae0-0300-4c06-8825-3362eb53a537": {
+    "luminance": 111.2,
+    "rgb": [
+      140,
+      102,
+      84
+    ],
+    "hex": "#8C6654",
+    "category": "mestizo"
+  },
+  "c7ea871b-d898-4f78-93c1-bac063089b27": {
+    "luminance": 150.2,
+    "rgb": [
+      204,
+      130,
+      115
+    ],
+    "hex": "#CC8273",
+    "category": "white"
+  },
+  "e6a5f53d-b242-4e1b-a4a3-5087495b59a4": {
+    "luminance": 163.8,
+    "rgb": [
+      201,
+      152,
+      127
+    ],
+    "hex": "#C9987F",
+    "category": "white"
+  },
+  "5ce8e139-17cc-40b4-a4fb-b31691080429": {
+    "luminance": 116.6,
+    "rgb": [
+      163,
+      101,
+      76
+    ],
+    "hex": "#A3654C",
+    "category": "mestizo"
+  },
+  "dc916005-d06b-48a8-aac8-a655ff3f8f24": {
+    "luminance": 146.3,
+    "rgb": [
+      206,
+      126,
+      95
+    ],
+    "hex": "#CE7E5F",
+    "category": "mestizo"
+  },
+  "c1c3ad6b-df3d-40ba-abad-209020dafe15": {
+    "luminance": 65.1,
+    "rgb": [
+      88,
+      56,
+      56
+    ],
+    "hex": "#583838",
+    "category": "moreno"
+  },
+  "4d97b121-a324-4a61-a7c4-7a750c73ca6c": {
+    "luminance": 166.0,
+    "rgb": [
+      223,
+      145,
+      124
+    ],
+    "hex": "#DF917C",
+    "category": "white"
+  },
+  "43116cb7-6e14-4656-af3c-3b47ecdaec29": {
+    "luminance": 153.4,
+    "rgb": [
+      207,
+      135,
+      104
+    ],
+    "hex": "#CF8768",
+    "category": "white"
+  },
+  "d6ec4335-7df0-4011-be40-8de23488497c": {
+    "luminance": 152.8,
+    "rgb": [
+      219,
+      134,
+      73
+    ],
+    "hex": "#DB8649",
+    "category": "white"
+  },
+  "c8dd3e41-b752-4b78-8d20-8848f2a822f9": {
+    "luminance": 113.8,
+    "rgb": [
+      142,
+      103,
+      95
+    ],
+    "hex": "#8E675F",
+    "category": "mestizo"
+  },
+  "e516ea29-d128-4683-b864-bf24bc0e4d5d": {
+    "luminance": 101.0,
+    "rgb": [
+      142,
+      86,
+      75
+    ],
+    "hex": "#8E564B",
+    "category": "moreno"
+  },
+  "bd63e320-a950-4de5-b904-1b8c11b607ae": {
+    "luminance": 145.7,
+    "rgb": [
+      191,
+      130,
+      106
+    ],
+    "hex": "#BF826A",
+    "category": "mestizo"
+  },
+  "6d156512-8f8c-4828-ace4-18096e5611d2": {
+    "luminance": 95.8,
+    "rgb": [
+      116,
+      89,
+      76
+    ],
+    "hex": "#74594C",
+    "category": "moreno"
+  },
+  "93676632-515e-40de-ab30-af7a3a938c56": {
+    "luminance": 170.8,
+    "rgb": [
+      222,
+      153,
+      123
+    ],
+    "hex": "#DE997B",
+    "category": "white"
+  },
+  "ff381e94-b8a0-498f-8d14-7b76e3f0fa8b": {
+    "luminance": 160.9,
+    "rgb": [
+      202,
+      148,
+      121
+    ],
+    "hex": "#CA9479",
+    "category": "white"
+  },
+  "7a527eb9-1c5c-454a-b817-4cf0963446dd": {
+    "luminance": 145.9,
+    "rgb": [
+      207,
+      121,
+      107
+    ],
+    "hex": "#CF796B",
+    "category": "mestizo"
+  },
+  "280dfb07-f9b2-4c34-b34d-8e995648cb2b": {
+    "luminance": 159.0,
+    "rgb": [
+      207,
+      143,
+      114
+    ],
+    "hex": "#CF8F72",
+    "category": "white"
+  },
+  "d0ba73e1-b90a-494d-92ec-e03bbdf99d9f": {
+    "luminance": 118.8,
+    "rgb": [
+      174,
+      99,
+      79
+    ],
+    "hex": "#AE634F",
+    "category": "mestizo"
+  },
+  "d7ba16bf-7f96-4985-87d0-ab0593fc41f3": {
+    "luminance": 121.7,
+    "rgb": [
+      159,
+      110,
+      84
+    ],
+    "hex": "#9F6E54",
+    "category": "mestizo"
+  },
+  "4e818da0-0b70-4db8-8a06-5b56b7a9eedd": {
+    "luminance": 119.7,
+    "rgb": [
+      149,
+      111,
+      89
+    ],
+    "hex": "#956F59",
+    "category": "mestizo"
+  },
+  "52da8bc4-be6c-403c-bbf5-bab03ef5a0c4": {
+    "luminance": 171.1,
+    "rgb": [
+      208,
+      161,
+      132
+    ],
+    "hex": "#D0A184",
+    "category": "white"
+  },
+  "0adbb73b-2938-438d-96f3-9a9a0a8e5c82": {
+    "luminance": 113.0,
+    "rgb": [
+      149,
+      100,
+      85
+    ],
+    "hex": "#956455",
+    "category": "mestizo"
+  },
+  "26f0c928-595b-40e7-8f28-b8c5f63c47fb": {
+    "luminance": 173.1,
+    "rgb": [
+      232,
+      156,
+      111
+    ],
+    "hex": "#E89C6F",
+    "category": "white"
+  },
+  "e855d7b3-1222-4198-a08d-aaac72e1e4aa": {
+    "luminance": 147.3,
+    "rgb": [
+      183,
+      137,
+      116
+    ],
+    "hex": "#B78974",
+    "category": "mestizo"
+  },
+  "cab38760-8b2d-40c8-9a0e-fb814891cfa8": {
+    "luminance": 115.1,
+    "rgb": [
+      132,
+      109,
+      104
+    ],
+    "hex": "#846D68",
+    "category": "mestizo"
+  },
+  "edf1b237-7bfb-46a6-a852-4af8af8d43ce": {
+    "luminance": 129.7,
+    "rgb": [
+      167,
+      116,
+      97
+    ],
+    "hex": "#A77461",
+    "category": "mestizo"
+  },
+  "a30e4e25-09b3-48db-b036-8b3434e77e43": {
+    "luminance": 169.9,
+    "rgb": [
+      222,
+      151,
+      127
+    ],
+    "hex": "#DE977F",
+    "category": "white"
+  },
+  "bdb39d29-f2d0-46d0-90da-89bf2f2c5070": {
+    "luminance": 166.0,
+    "rgb": [
+      200,
+      153,
+      141
+    ],
+    "hex": "#C8998D",
+    "category": "white"
+  },
+  "a37309bc-6267-4b3d-b025-590f6d22bc93": {
+    "luminance": 127.9,
+    "rgb": [
+      174,
+      111,
+      90
+    ],
+    "hex": "#AE6F5A",
+    "category": "mestizo"
+  },
+  "2398c5d4-9948-4052-9f63-ceaa45896325": {
+    "luminance": 129.0,
+    "rgb": [
+      171,
+      113,
+      98
+    ],
+    "hex": "#AB7162",
+    "category": "mestizo"
+  },
+  "b90942d4-01b7-4f32-a5a2-c7f868f80823": {
+    "luminance": 140.0,
+    "rgb": [
+      178,
+      126,
+      108
+    ],
+    "hex": "#B27E6C",
+    "category": "mestizo"
+  },
+  "ad12051d-f19d-47d1-9a3f-4905be4a568c": {
+    "luminance": 150.4,
+    "rgb": [
+      191,
+      137,
+      115
+    ],
+    "hex": "#BF8973",
+    "category": "white"
+  },
+  "ce7b8f7c-ab26-43fe-9bc6-7432662dd775": {
+    "luminance": 116.8,
+    "rgb": [
+      145,
+      107,
+      94
+    ],
+    "hex": "#916B5E",
+    "category": "mestizo"
+  },
+  "73f032a1-7749-4e6e-b7f5-d3802ea91c5c": {
+    "luminance": 153.0,
+    "rgb": [
+      195,
+      140,
+      116
+    ],
+    "hex": "#C38C74",
+    "category": "white"
+  },
+  "f50f434c-3008-4783-87ed-ff11fe1bbaf3": {
+    "luminance": 130.6,
+    "rgb": [
+      172,
+      114,
+      104
+    ],
+    "hex": "#AC7268",
+    "category": "mestizo"
+  },
+  "47c49227-8bab-4088-918b-8ee7213a0245": {
+    "luminance": 155.3,
+    "rgb": [
+      205,
+      141,
+      101
+    ],
+    "hex": "#CD8D65",
+    "category": "white"
+  },
+  "bd4c49e3-8d89-49d5-9b16-9ca9eaaea763": {
+    "luminance": 167.3,
+    "rgb": [
+      209,
+      154,
+      123
+    ],
+    "hex": "#D19A7B",
+    "category": "white"
+  },
+  "ac37c71d-10d0-41fa-8d4d-b4b5f636d61b": {
+    "luminance": 174.2,
+    "rgb": [
+      232,
+      156,
+      118
+    ],
+    "hex": "#E89C76",
+    "category": "white"
+  },
+  "486dd649-4ee7-4054-b056-d7711d67686c": {
+    "luminance": 127.5,
+    "rgb": [
+      167,
+      112,
+      100
+    ],
+    "hex": "#A77064",
+    "category": "mestizo"
+  },
+  "3a502902-8fca-410a-8d8d-c7087e1c6af9": {
+    "luminance": 167.6,
+    "rgb": [
+      225,
+      147,
+      124
+    ],
+    "hex": "#E1937C",
+    "category": "white"
+  },
+  "9a7b878c-126c-459c-8561-ad0c8ee560fe": {
+    "luminance": 109.7,
+    "rgb": [
+      140,
+      100,
+      82
+    ],
+    "hex": "#8C6452",
+    "category": "moreno"
+  },
+  "150291b6-d238-4573-8509-87abeb4469f1": {
+    "luminance": 122.9,
+    "rgb": [
+      167,
+      106,
+      89
+    ],
+    "hex": "#A76A59",
+    "category": "mestizo"
+  },
+  "e0566572-1175-4cfb-9525-5bf6e9e234c0": {
+    "luminance": 158.0,
+    "rgb": [
+      196,
+      145,
+      127
+    ],
+    "hex": "#C4917F",
+    "category": "white"
+  },
+  "72b2bb00-7bb8-4e56-a8c7-a1298436963a": {
+    "luminance": 176.8,
+    "rgb": [
+      213,
+      164,
+      146
+    ],
+    "hex": "#D5A492",
+    "category": "white"
+  },
+  "cb6de267-7ed8-4928-ac2c-e15d9c4ffec4": {
+    "luminance": 166.3,
+    "rgb": [
+      204,
+      156,
+      120
+    ],
+    "hex": "#CC9C78",
+    "category": "white"
+  },
+  "871eed38-2d50-4698-8a99-0f4d96354e99": {
+    "luminance": 142.1,
+    "rgb": [
+      187,
+      128,
+      95
+    ],
+    "hex": "#BB805F",
+    "category": "mestizo"
+  },
+  "16e4dde4-8759-4dae-a77b-afbfe2ddb16e": {
+    "luminance": 161.8,
+    "rgb": [
+      212,
+      144,
+      121
+    ],
+    "hex": "#D49079",
+    "category": "white"
+  },
+  "b816beb2-ba95-4de8-ba33-f92a9c48009c": {
+    "luminance": 158.5,
+    "rgb": [
+      211,
+      139,
+      120
+    ],
+    "hex": "#D38B78",
+    "category": "white"
+  },
+  "8e328d50-c2d9-47dc-934a-6470f50d92fa": {
+    "luminance": 167.8,
+    "rgb": [
+      210,
+      153,
+      127
+    ],
+    "hex": "#D2997F",
+    "category": "white"
+  },
+  "590e7707-d6be-4937-a34b-2fbba590d13f": {
+    "luminance": 149.9,
+    "rgb": [
+      189,
+      138,
+      103
+    ],
+    "hex": "#BD8A67",
+    "category": "mestizo"
+  },
+  "fce95bce-11f8-4d3a-9723-d426619a6321": {
+    "luminance": 155.8,
+    "rgb": [
+      198,
+      143,
+      110
+    ],
+    "hex": "#C68F6E",
+    "category": "white"
+  },
+  "4ded3ffc-5d81-408a-8692-89de4d584625": {
+    "luminance": 93.9,
+    "rgb": [
+      118,
+      86,
+      69
+    ],
+    "hex": "#765645",
+    "category": "moreno"
+  },
+  "26fd6a76-b94c-48aa-af5b-37579b1d4e50": {
+    "luminance": 134.2,
+    "rgb": [
+      178,
+      117,
+      109
+    ],
+    "hex": "#B2756D",
+    "category": "mestizo"
+  },
+  "434e7d9b-73d4-4726-a74b-8b45d5c5181d": {
+    "luminance": 99.2,
+    "rgb": [
+      137,
+      87,
+      70
+    ],
+    "hex": "#895746",
+    "category": "moreno"
+  },
+  "faacb28e-1086-4f12-9e81-b35cb2a9685b": {
+    "luminance": 156.8,
+    "rgb": [
+      197,
+      142,
+      122
+    ],
+    "hex": "#C58E7A",
+    "category": "white"
+  },
+  "f094925e-559f-4431-893a-f574ed0b6008": {
+    "luminance": 183.0,
+    "rgb": [
+      205,
+      176,
+      160
+    ],
+    "hex": "#CDB0A0",
+    "category": "white"
+  },
+  "56b39886-b828-4881-9710-e0de3361b395": {
+    "luminance": 166.9,
+    "rgb": [
+      222,
+      148,
+      117
+    ],
+    "hex": "#DE9475",
+    "category": "white"
+  },
+  "c1bec939-e7ac-4978-850f-cbea23212351": {
+    "luminance": 163.8,
+    "rgb": [
+      218,
+      145,
+      119
+    ],
+    "hex": "#DA9177",
+    "category": "white"
+  },
+  "c46ea69f-ddec-4f03-83ba-0caa168e05b9": {
+    "luminance": 167.7,
+    "rgb": [
+      222,
+      149,
+      123
+    ],
+    "hex": "#DE957B",
+    "category": "white"
+  },
+  "2093f57d-d461-4b3e-b338-394137128af8": {
+    "luminance": 129.2,
+    "rgb": [
+      169,
+      115,
+      97
+    ],
+    "hex": "#A97361",
+    "category": "mestizo"
+  },
+  "de210cf1-cdb9-4906-831a-9bba434cbeb7": {
+    "luminance": 163.6,
+    "rgb": [
+      219,
+      143,
+      119
+    ],
+    "hex": "#DB8F77",
+    "category": "white"
+  },
+  "22feabf3-04f1-4bba-b66a-243e58070057": {
+    "luminance": 129.0,
+    "rgb": [
+      179,
+      112,
+      84
+    ],
+    "hex": "#B37054",
+    "category": "mestizo"
+  },
+  "35072dd5-7db5-4aa9-852f-201496d388a9": {
+    "luminance": 187.4,
+    "rgb": [
+      228,
+      173,
+      152
+    ],
+    "hex": "#E4AD98",
+    "category": "white"
+  },
+  "806fa696-cd94-4232-9d0e-cf5545d657c0": {
+    "luminance": 165.1,
+    "rgb": [
+      221,
+      144,
+      125
+    ],
+    "hex": "#DD907D",
+    "category": "white"
+  },
+  "e44d06c5-4a53-40c5-9ec7-9ba28c41760f": {
+    "luminance": 99.3,
+    "rgb": [
+      151,
+      81,
+      60
+    ],
+    "hex": "#97513C",
+    "category": "moreno"
+  },
+  "f62ba16f-e544-4785-b8fc-013dde4e7248": {
+    "luminance": 144.0,
+    "rgb": [
+      173,
+      137,
+      104
+    ],
+    "hex": "#AD8968",
+    "category": "mestizo"
+  },
+  "7c4a4f4a-8722-48c0-8c63-8e266a01c077": {
+    "luminance": 162.4,
+    "rgb": [
+      215,
+      145,
+      113
+    ],
+    "hex": "#D79171",
+    "category": "white"
+  },
+  "a854be59-4ee4-4b98-958c-866a2687e96a": {
+    "luminance": 155.9,
+    "rgb": [
+      202,
+      139,
+      117
+    ],
+    "hex": "#CA8B75",
+    "category": "white"
+  },
+  "2f2cada6-8950-4826-8da9-fedeac76140c": {
+    "luminance": 122.9,
+    "rgb": [
+      164,
+      108,
+      86
+    ],
+    "hex": "#A46C56",
+    "category": "mestizo"
+  },
+  "94426c54-7072-46ed-92ba-b4dca0127e49": {
+    "luminance": 134.6,
+    "rgb": [
+      182,
+      118,
+      94
+    ],
+    "hex": "#B6765E",
+    "category": "mestizo"
+  },
+  "c83b052d-208a-4c02-9ee7-ab77ad70e74f": {
+    "luminance": 114.0,
+    "rgb": [
+      145,
+      103,
+      87
+    ],
+    "hex": "#916757",
+    "category": "mestizo"
+  },
+  "bfda4367-3153-4790-968f-81927f238053": {
+    "luminance": 153.8,
+    "rgb": [
+      199,
+      136,
+      126
+    ],
+    "hex": "#C7887E",
+    "category": "white"
+  },
+  "64aa1b03-fe06-43e2-8496-100ccdaf9261": {
+    "luminance": 139.5,
+    "rgb": [
+      188,
+      123,
+      96
+    ],
+    "hex": "#BC7B60",
+    "category": "mestizo"
+  },
+  "30001605-4d9a-4656-87e8-e829b3cca068": {
+    "luminance": 171.1,
+    "rgb": [
+      209,
+      159,
+      139
+    ],
+    "hex": "#D19F8B",
+    "category": "white"
+  },
+  "e93ce8af-a66f-40d6-a62b-a3510dc4a922": {
+    "luminance": 82.2,
+    "rgb": [
+      104,
+      75,
+      58
+    ],
+    "hex": "#684B3A",
+    "category": "moreno"
+  },
+  "efdaedf2-90dd-402e-be8b-f280330e1dd4": {
+    "luminance": 135.7,
+    "rgb": [
+      180,
+      121,
+      90
+    ],
+    "hex": "#B4795A",
+    "category": "mestizo"
+  },
+  "52c9188d-45b4-40c4-b4ac-607b274174d1": {
+    "luminance": 159.1,
+    "rgb": [
+      210,
+      142,
+      113
+    ],
+    "hex": "#D28E71",
+    "category": "white"
+  },
+  "9c5f8d56-4bf9-47fe-bc98-57a621e618b0": {
+    "luminance": 158.0,
+    "rgb": [
+      194,
+      149,
+      113
+    ],
+    "hex": "#C29571",
+    "category": "white"
+  },
+  "dbba2371-daa6-4233-b142-82df8a68e036": {
+    "luminance": 150.0,
+    "rgb": [
+      217,
+      125,
+      101
+    ],
+    "hex": "#D97D65",
+    "category": "mestizo"
+  },
+  "f22ef3e1-5704-4193-b477-33256b730926": {
+    "luminance": 165.8,
+    "rgb": [
+      200,
+      154,
+      136
+    ],
+    "hex": "#C89A88",
+    "category": "white"
+  },
+  "0fc008fa-005f-48b9-b8d5-05fc06e47e9e": {
+    "luminance": 141.8,
+    "rgb": [
+      180,
+      129,
+      110
+    ],
+    "hex": "#B4816E",
+    "category": "mestizo"
+  },
+  "500da33f-75ae-4de9-9638-ae48b8e9e5df": {
+    "luminance": 128.7,
+    "rgb": [
+      173,
+      116,
+      74
+    ],
+    "hex": "#AD744A",
+    "category": "mestizo"
+  },
+  "ef6ac1bb-fc59-4763-9177-a32ca696ab60": {
+    "luminance": 191.6,
+    "rgb": [
+      254,
+      173,
+      129
+    ],
+    "hex": "#FEAD81",
+    "category": "white"
+  },
+  "3b27869e-df18-46b8-9d35-d4affbe88aba": {
+    "luminance": 158.0,
+    "rgb": [
+      196,
+      148,
+      111
+    ],
+    "hex": "#C4946F",
+    "category": "white"
+  },
+  "f06e5aae-adc3-422e-9177-5b2265172a09": {
+    "luminance": 116.2,
+    "rgb": [
+      165,
+      99,
+      78
+    ],
+    "hex": "#A5634E",
+    "category": "mestizo"
+  },
+  "1511af27-4415-40c6-a68a-29b7ac48260c": {
+    "luminance": 128.3,
+    "rgb": [
+      178,
+      114,
+      72
+    ],
+    "hex": "#B27248",
+    "category": "mestizo"
+  },
+  "c00fcebc-ad8e-421d-aa75-2655f96d05a1": {
+    "luminance": 180.7,
+    "rgb": [
+      235,
+      161,
+      135
+    ],
+    "hex": "#EBA187",
+    "category": "white"
+  },
+  "25408f60-2e3d-4c09-98df-cd967ac60567": {
+    "luminance": 121.8,
+    "rgb": [
+      171,
+      107,
+      69
+    ],
+    "hex": "#AB6B45",
+    "category": "mestizo"
+  },
+  "a3c6a225-acc2-4dd8-bf6e-5c574f620d95": {
+    "luminance": 164.7,
+    "rgb": [
+      217,
+      146,
+      125
+    ],
+    "hex": "#D9927D",
+    "category": "white"
+  },
+  "c3febda4-e2f3-478b-b384-2990eeb53e84": {
+    "luminance": 75.9,
+    "rgb": [
+      89,
+      71,
+      66
+    ],
+    "hex": "#594742",
+    "category": "moreno"
+  },
+  "239454e3-47e3-418a-ae19-772ee8e3bd68": {
+    "luminance": 179.8,
+    "rgb": [
+      218,
+      167,
+      145
+    ],
+    "hex": "#DAA791",
+    "category": "white"
+  },
+  "a9d2b94a-9130-401f-acb3-fca700799a49": {
+    "luminance": 166.2,
+    "rgb": [
+      241,
+      142,
+      103
+    ],
+    "hex": "#F18E67",
+    "category": "white"
+  },
+  "9a400c55-fe1e-4e62-b1d5-a89290076b04": {
+    "luminance": 169.2,
+    "rgb": [
+      219,
+      152,
+      129
+    ],
+    "hex": "#DB9881",
+    "category": "white"
+  },
+  "9671c115-9559-43cc-b4bc-faa2bc1cb06f": {
+    "luminance": 135.6,
+    "rgb": [
+      178,
+      121,
+      98
+    ],
+    "hex": "#B27962",
+    "category": "mestizo"
+  },
+  "c615d007-d2bb-4675-82e8-65f55becbc5a": {
+    "luminance": 126.9,
+    "rgb": [
+      180,
+      108,
+      85
+    ],
+    "hex": "#B46C55",
+    "category": "mestizo"
+  },
+  "bd4265e2-3cd0-4ae8-8f80-ab507b5d93e0": {
+    "luminance": 115.2,
+    "rgb": [
+      173,
+      96,
+      70
+    ],
+    "hex": "#AD6046",
+    "category": "mestizo"
+  },
+  "f013e2a0-25c2-4e27-9622-408398c24021": {
+    "luminance": 153.1,
+    "rgb": [
+      203,
+      137,
+      108
+    ],
+    "hex": "#CB896C",
+    "category": "white"
+  },
+  "2a356db9-b047-4ed8-bef6-75c6732697f9": {
+    "luminance": 158.1,
+    "rgb": [
+      199,
+      145,
+      127
+    ],
+    "hex": "#C7917F",
+    "category": "white"
+  },
+  "5aac3434-fd3b-4a7d-90f9-7c20554596ef": {
+    "luminance": 146.2,
+    "rgb": [
+      189,
+      131,
+      112
+    ],
+    "hex": "#BD8370",
+    "category": "mestizo"
+  },
+  "68a83047-df07-4467-a586-9a1f4e9fa185": {
+    "luminance": 139.8,
+    "rgb": [
+      188,
+      124,
+      98
+    ],
+    "hex": "#BC7C62",
+    "category": "mestizo"
+  },
+  "1c3d0ba2-7607-45fd-8174-09e31c3310da": {
+    "luminance": 153.7,
+    "rgb": [
+      197,
+      139,
+      116
+    ],
+    "hex": "#C58B74",
+    "category": "white"
+  },
+  "83afe418-c88f-415f-be12-8ca74aa5e6ed": {
+    "luminance": 104.3,
+    "rgb": [
+      160,
+      87,
+      52
+    ],
+    "hex": "#A05734",
+    "category": "moreno"
+  },
+  "3bd56315-0ab9-4571-ae7e-7b07d1a427fa": {
+    "luminance": 117.8,
+    "rgb": [
+      159,
+      105,
+      82
+    ],
+    "hex": "#9F6952",
+    "category": "mestizo"
+  },
+  "80db5354-78c4-4b5d-8b8d-6f67837bcba7": {
+    "luminance": 170.1,
+    "rgb": [
+      255,
+      139,
+      110
+    ],
+    "hex": "#FF8B6E",
+    "category": "white"
+  },
+  "f991be3e-ab98-48f3-9863-21199b957af0": {
+    "luminance": 147.1,
+    "rgb": [
+      171,
+      143,
+      106
+    ],
+    "hex": "#AB8F6A",
+    "category": "mestizo"
+  },
+  "5081967e-e5b2-452a-b2f5-9aac645d88be": {
+    "luminance": 124.9,
+    "rgb": [
+      156,
+      114,
+      96
+    ],
+    "hex": "#9C7260",
+    "category": "mestizo"
+  },
+  "d7e5c2b8-affc-4ab9-96e7-0943ae5b7880": {
+    "luminance": 148.9,
+    "rgb": [
+      175,
+      143,
+      105
+    ],
+    "hex": "#AF8F69",
+    "category": "mestizo"
+  },
+  "bbc760c4-4b65-4084-a8c6-42f8f100f26a": {
+    "luminance": 184.8,
+    "rgb": [
+      229,
+      169,
+      145
+    ],
+    "hex": "#E5A991",
+    "category": "white"
+  },
+  "b60434d4-88a7-4d66-8a9d-61d674d5c520": {
+    "luminance": 169.1,
+    "rgb": [
+      212,
+      155,
+      128
+    ],
+    "hex": "#D49B80",
+    "category": "white"
+  },
+  "af85ed57-c9ae-43b7-bac9-052ee89a0f6f": {
+    "luminance": 158.7,
+    "rgb": [
+      186,
+      152,
+      116
+    ],
+    "hex": "#BA9874",
+    "category": "white"
+  },
+  "930ef94d-1612-45c4-b593-a052baf9f284": {
+    "luminance": 112.2,
+    "rgb": [
+      188,
+      84,
+      62
+    ],
+    "hex": "#BC543E",
+    "category": "mestizo"
+  },
+  "07a6f3f4-e85b-4d15-b7d8-9345d8cf5736": {
+    "luminance": 169.0,
+    "rgb": [
+      214,
+      154,
+      132
+    ],
+    "hex": "#D69A84",
+    "category": "white"
+  },
+  "f8e68889-31db-44c9-80c8-462b9888674a": {
+    "luminance": 147.3,
+    "rgb": [
+      174,
+      139,
+      118
+    ],
+    "hex": "#AE8B76",
+    "category": "mestizo"
+  },
+  "86c3caf3-fe96-49ff-9147-254d61bf0682": {
+    "luminance": 141.0,
+    "rgb": [
+      193,
+      123,
+      101
+    ],
+    "hex": "#C17B65",
+    "category": "mestizo"
+  },
+  "ac5d9e12-c44b-4cc7-bbe0-786d65da4fac": {
+    "luminance": 131.0,
+    "rgb": [
+      183,
+      112,
+      87
+    ],
+    "hex": "#B77057",
+    "category": "mestizo"
+  },
+  "2d6d4950-f230-4c60-93e3-f3f798a22ce1": {
+    "luminance": 128.0,
+    "rgb": [
+      176,
+      113,
+      85
+    ],
+    "hex": "#B07155",
+    "category": "mestizo"
+  },
+  "b82de658-cd2f-4bb4-913c-e17b9d4a5a5a": {
+    "luminance": 122.0,
+    "rgb": [
+      163,
+      112,
+      62
+    ],
+    "hex": "#A3703E",
+    "category": "mestizo"
+  },
+  "b8353e7b-ae9d-4ba1-8598-9d166f92a767": {
+    "luminance": 161.4,
+    "rgb": [
+      205,
+      144,
+      136
+    ],
+    "hex": "#CD9088",
+    "category": "white"
+  },
+  "bdf7eae6-0e66-4a16-bcb8-3ac3050744d8": {
+    "luminance": 190.1,
+    "rgb": [
+      235,
+      175,
+      150
+    ],
+    "hex": "#EBAF96",
+    "category": "white"
+  },
+  "774a329d-fc34-472e-962f-634a72ea7a7d": {
+    "luminance": 125.3,
+    "rgb": [
+      170,
+      109,
+      87
+    ],
+    "hex": "#AA6D57",
+    "category": "mestizo"
+  },
+  "0ef9e673-2670-41c5-b53b-510a384ed739": {
+    "luminance": 157.8,
+    "rgb": [
+      198,
+      142,
+      132
+    ],
+    "hex": "#C68E84",
+    "category": "white"
+  },
+  "287d2fb9-2979-4a10-ad7c-9c1b9a6cd4f3": {
+    "luminance": 136.0,
+    "rgb": [
+      188,
+      118,
+      93
+    ],
+    "hex": "#BC765D",
+    "category": "mestizo"
+  },
+  "d73d3663-0950-488d-b162-b8af82451927": {
+    "luminance": 167.1,
+    "rgb": [
+      195,
+      158,
+      144
+    ],
+    "hex": "#C39E90",
+    "category": "white"
+  },
+  "e5d346cc-a1c7-400f-97d5-151bc3eb893c": {
+    "luminance": 143.9,
+    "rgb": [
+      189,
+      129,
+      100
+    ],
+    "hex": "#BD8164",
+    "category": "mestizo"
+  },
+  "7f80ff67-b90b-40bb-9eaf-abb7494e1fc9": {
+    "luminance": 99.8,
+    "rgb": [
+      138,
+      87,
+      68
+    ],
+    "hex": "#8A5744",
+    "category": "moreno"
+  },
+  "ae78bfaa-99e4-4715-8d46-07e971674be5": {
+    "luminance": 142.7,
+    "rgb": [
+      196,
+      124,
+      97
+    ],
+    "hex": "#C47C61",
+    "category": "mestizo"
+  },
+  "99fa4fc6-77f0-45c1-98e4-25a21a9714d0": {
+    "luminance": 172.9,
+    "rgb": [
+      234,
+      153,
+      116
+    ],
+    "hex": "#EA9974",
+    "category": "white"
+  },
+  "be232fcc-9d4d-4bb9-876d-0b9c74f91fe6": {
+    "luminance": 147.3,
+    "rgb": [
+      183,
+      134,
+      121
+    ],
+    "hex": "#B78679",
+    "category": "mestizo"
+  },
+  "95fcc6b5-fd46-42d9-9f3a-a8a6c343f476": {
+    "luminance": 111.9,
+    "rgb": [
+      150,
+      98,
+      83
+    ],
+    "hex": "#966253",
+    "category": "mestizo"
+  },
+  "13c02775-87db-4bd2-a068-e4974b5d239c": {
+    "luminance": 186.3,
+    "rgb": [
+      229,
+      175,
+      137
+    ],
+    "hex": "#E5AF89",
+    "category": "white"
+  },
+  "76de07b7-208f-4fe4-8967-689253be6682": {
+    "luminance": 168.9,
+    "rgb": [
+      231,
+      152,
+      98
+    ],
+    "hex": "#E79862",
+    "category": "white"
+  },
+  "1dc84a57-8ccf-4076-8906-0d2f0f1942a3": {
+    "luminance": 71.9,
+    "rgb": [
+      108,
+      59,
+      43
+    ],
+    "hex": "#6C3B2B",
+    "category": "moreno"
+  },
+  "c1fe3dbf-b7ba-4598-9f5f-19e0a9bc42d3": {
+    "luminance": 145.7,
+    "rgb": [
+      200,
+      127,
+      105
+    ],
+    "hex": "#C87F69",
+    "category": "mestizo"
+  },
+  "e244f532-9975-487e-b986-ac501579d68c": {
+    "luminance": 139.1,
+    "rgb": [
+      175,
+      127,
+      112
+    ],
+    "hex": "#AF7F70",
+    "category": "mestizo"
+  },
+  "e525da5b-7332-416e-b365-fc683f04409c": {
+    "luminance": 133.9,
+    "rgb": [
+      162,
+      125,
+      104
+    ],
+    "hex": "#A27D68",
+    "category": "mestizo"
+  },
+  "cade202a-4012-48eb-8b81-0bcea955e225": {
+    "luminance": 110.2,
+    "rgb": [
+      149,
+      97,
+      77
+    ],
+    "hex": "#95614D",
+    "category": "mestizo"
+  },
+  "7b56378c-8200-430f-8537-06ed5ae57246": {
+    "luminance": 126.0,
+    "rgb": [
+      191,
+      103,
+      76
+    ],
+    "hex": "#BF674C",
+    "category": "mestizo"
+  },
+  "1247b127-2d65-41cc-bab1-e44b704079d8": {
+    "luminance": 149.5,
+    "rgb": [
+      196,
+      133,
+      115
+    ],
+    "hex": "#C48573",
+    "category": "mestizo"
+  },
+  "1cb397ef-91a6-4096-a3a9-68108c018632": {
+    "luminance": 135.0,
+    "rgb": [
+      176,
+      120,
+      99
+    ],
+    "hex": "#B07863",
+    "category": "mestizo"
+  },
+  "f3e45829-4a32-41c4-b13f-2c9c7b814242": {
+    "luminance": 151.1,
+    "rgb": [
+      213,
+      130,
+      104
+    ],
+    "hex": "#D58268",
+    "category": "white"
+  },
+  "f125692b-708a-4272-84ad-ce86417ce403": {
+    "luminance": 195.3,
+    "rgb": [
+      253,
+      178,
+      140
+    ],
+    "hex": "#FDB28C",
+    "category": "white"
+  },
+  "aa36c95e-7b8f-4f70-a1a4-2d1cbf9f5c43": {
+    "luminance": 137.1,
+    "rgb": [
+      185,
+      120,
+      99
+    ],
+    "hex": "#B97863",
+    "category": "mestizo"
+  },
+  "eca31c2f-3bfa-41fd-9668-c60dc1f89d9c": {
+    "luminance": 129.4,
+    "rgb": [
+      166,
+      121,
+      80
+    ],
+    "hex": "#A67950",
+    "category": "mestizo"
+  },
+  "0a4b00c7-c5ec-47bb-a7db-c1afbb9b3be2": {
+    "luminance": 152.9,
+    "rgb": [
+      201,
+      136,
+      116
+    ],
+    "hex": "#C98874",
+    "category": "white"
+  },
+  "23a34a55-7348-449b-be5c-915a6d77f52f": {
+    "luminance": 131.2,
+    "rgb": [
+      172,
+      119,
+      89
+    ],
+    "hex": "#AC7759",
+    "category": "mestizo"
+  },
+  "6dc4227c-39dc-4fad-be8e-93f5cf3c97ea": {
+    "luminance": 126.0,
+    "rgb": [
+      148,
+      117,
+      116
+    ],
+    "hex": "#947574",
+    "category": "mestizo"
+  },
+  "04de93f8-31ba-4888-a396-4d6f0776c64b": {
+    "luminance": 158.0,
+    "rgb": [
+      194,
+      149,
+      113
+    ],
+    "hex": "#C29571",
+    "category": "white"
+  },
+  "4148b270-d5c4-45fe-87b7-39ba83b01066": {
+    "luminance": 186.3,
+    "rgb": [
+      229,
+      175,
+      137
+    ],
+    "hex": "#E5AF89",
+    "category": "white"
+  },
+  "622351ed-6cc7-47cd-8a98-e4a36f8512b0": {
+    "luminance": 158.0,
+    "rgb": [
+      196,
+      148,
+      111
+    ],
+    "hex": "#C4946F",
+    "category": "white"
+  },
+  "bc779fc2-ea05-4071-89f3-50d6a2058251": {
+    "luminance": 146.0,
+    "rgb": [
+      179,
+      139,
+      98
+    ],
+    "hex": "#B38B62",
+    "category": "mestizo"
+  },
+  "d6563d6a-add8-4405-800f-26da7a84e1e7": {
+    "luminance": 132.7,
+    "rgb": [
+      174,
+      118,
+      98
+    ],
+    "hex": "#AE7662",
+    "category": "mestizo"
+  },
+  "759473e4-e0b4-49f2-9288-aca2265cfa28": {
+    "luminance": 163.3,
+    "rgb": [
+      214,
+      146,
+      121
+    ],
+    "hex": "#D69279",
+    "category": "white"
+  },
+  "d8bd1b23-b38b-466f-8d13-95056c9ad3e7": {
+    "luminance": 157.8,
+    "rgb": [
+      203,
+      142,
+      118
+    ],
+    "hex": "#CB8E76",
+    "category": "white"
+  },
+  "f8af6c30-a4a3-4182-a59a-edb26f1d25e9": {
+    "luminance": 171.8,
+    "rgb": [
+      213,
+      156,
+      142
+    ],
+    "hex": "#D59C8E",
+    "category": "white"
+  },
+  "45bdd5b3-9309-486e-acd6-f83e4e6ffac2": {
+    "luminance": 128.4,
+    "rgb": [
+      168,
+      115,
+      91
+    ],
+    "hex": "#A8735B",
+    "category": "mestizo"
+  },
+  "a12f2f24-4f21-4384-aa34-2e2e565612ea": {
+    "luminance": 138.3,
+    "rgb": [
+      183,
+      124,
+      98
+    ],
+    "hex": "#B77C62",
+    "category": "mestizo"
+  },
+  "193975df-63ee-4af2-8060-b6c27e7a3934": {
+    "luminance": 137.0,
+    "rgb": [
+      205,
+      115,
+      76
+    ],
+    "hex": "#CD734C",
+    "category": "mestizo"
+  },
+  "e2da873f-f0ee-4c13-aa07-0f4981ea61ad": {
+    "luminance": 133.6,
+    "rgb": [
+      191,
+      113,
+      91
+    ],
+    "hex": "#BF715B",
+    "category": "mestizo"
+  },
+  "0c869819-0f29-4d26-a829-2879b33c1fd7": {
+    "luminance": 125.8,
+    "rgb": [
+      157,
+      117,
+      90
+    ],
+    "hex": "#9D755A",
+    "category": "mestizo"
+  },
+  "b8357efe-7541-4f96-894c-36a71d84dc21": {
+    "luminance": 165.6,
+    "rgb": [
+      200,
+      158,
+      114
+    ],
+    "hex": "#C89E72",
+    "category": "white"
+  },
+  "1db72856-a408-45d0-ba07-17746bf73d40": {
+    "luminance": 114.7,
+    "rgb": [
+      153,
+      101,
+      82
+    ],
+    "hex": "#996552",
+    "category": "mestizo"
+  },
+  "42265525-bb6c-4d44-8eef-dc2606927521": {
+    "luminance": 172.5,
+    "rgb": [
+      231,
+      152,
+      128
+    ],
+    "hex": "#E79880",
+    "category": "white"
+  },
+  "0ce1bf7e-7aff-41b4-b69e-3a13e350ab2f": {
+    "luminance": 186.9,
+    "rgb": [
+      213,
+      182,
+      142
+    ],
+    "hex": "#D5B68E",
+    "category": "white"
+  },
+  "98bb44b1-f057-4cfb-bb08-5c2e6d6e4bf5": {
+    "luminance": 173.7,
+    "rgb": [
+      208,
+      165,
+      131
+    ],
+    "hex": "#D0A583",
+    "category": "white"
+  },
+  "b0216abb-546f-4f34-8671-f44c635164a6": {
+    "luminance": 160.0,
+    "rgb": [
+      195,
+      152,
+      110
+    ],
+    "hex": "#C3986E",
+    "category": "white"
+  },
+  "6ef4b8c0-31de-47fd-b2d3-fb6199c9ccf9": {
+    "luminance": 180.4,
+    "rgb": [
+      229,
+      166,
+      131
+    ],
+    "hex": "#E5A683",
+    "category": "white"
+  },
+  "c574dab1-afb7-4910-b9f7-57ad02b7d814": {
+    "luminance": 162.3,
+    "rgb": [
+      197,
+      155,
+      112
+    ],
+    "hex": "#C59B70",
+    "category": "white"
+  },
+  "7d95ba1a-c47b-49c4-8172-0a3bd4342898": {
+    "luminance": 152.0,
+    "rgb": [
+      183,
+      145,
+      105
+    ],
+    "hex": "#B79169",
+    "category": "white"
+  },
+  "2e77bf01-3d74-49e3-8c06-623db8f2ea19": {
+    "luminance": 69.1,
+    "rgb": [
+      103,
+      58,
+      37
+    ],
+    "hex": "#673A25",
+    "category": "moreno"
+  },
+  "9de6d8f5-eb0c-4292-9910-26dff2d2acce": {
+    "luminance": 158.2,
+    "rgb": [
+      206,
+      137,
+      134
+    ],
+    "hex": "#CE8986",
+    "category": "white"
+  },
+  "05c031c4-e12c-4937-b06f-9784cede1d7d": {
+    "luminance": 143.3,
+    "rgb": [
+      172,
+      137,
+      104
+    ],
+    "hex": "#AC8968",
+    "category": "mestizo"
+  },
+  "b025afa0-a852-42cf-b8e4-34a1c095132a": {
+    "luminance": 124.1,
+    "rgb": [
+      178,
+      105,
+      82
+    ],
+    "hex": "#B26952",
+    "category": "mestizo"
+  },
+  "cd3856a8-eee8-4a81-8f33-9833ee6e9297": {
+    "luminance": 169.3,
+    "rgb": [
+      203,
+      162,
+      122
+    ],
+    "hex": "#CBA27A",
+    "category": "white"
+  },
+  "cf8252cc-24d8-4c5c-ab42-d521d47da5d9": {
+    "luminance": 143.0,
+    "rgb": [
+      173,
+      136,
+      103
+    ],
+    "hex": "#AD8867",
+    "category": "mestizo"
+  },
+  "0e311ceb-3025-47f0-95d1-3d36b463e869": {
+    "luminance": 173.7,
+    "rgb": [
+      219,
+      161,
+      118
+    ],
+    "hex": "#DBA176",
+    "category": "white"
+  },
+  "58aa71e7-063b-4832-92a5-baa40c7a16ef": {
+    "luminance": 119.9,
+    "rgb": [
+      134,
+      116,
+      99
+    ],
+    "hex": "#867463",
+    "category": "mestizo"
+  },
+  "c2251f39-3086-4a72-af04-d24cedbc184f": {
+    "luminance": 127.1,
+    "rgb": [
+      152,
+      120,
+      95
+    ],
+    "hex": "#98785F",
+    "category": "mestizo"
+  },
+  "e03f2e78-df2a-466a-a6a6-fc32a2f513a3": {
+    "luminance": 166.3,
+    "rgb": [
+      204,
+      156,
+      120
+    ],
+    "hex": "#CC9C78",
+    "category": "white"
+  },
+  "9a6e1f56-9d82-4258-9ec7-8a162636a636": {
+    "luminance": 167.8,
+    "rgb": [
+      210,
+      153,
+      127
+    ],
+    "hex": "#D2997F",
+    "category": "white"
+  },
+  "fd949cb7-10b2-4eba-a727-5928be0e0173": {
+    "luminance": 152.5,
+    "rgb": [
+      220,
+      130,
+      95
+    ],
+    "hex": "#DC825F",
+    "category": "white"
+  },
+  "44686f3b-8f96-4e78-be98-1444a126d521": {
+    "luminance": 172.3,
+    "rgb": [
+      224,
+      156,
+      123
+    ],
+    "hex": "#E09C7B",
+    "category": "white"
+  },
+  "627f2b63-059b-441d-acdc-d88cbbf4ea07": {
+    "luminance": 151.8,
+    "rgb": [
+      209,
+      131,
+      106
+    ],
+    "hex": "#D1836A",
+    "category": "white"
+  },
+  "6fe18868-7f6e-4171-91a7-a2df66036a2d": {
+    "luminance": 139.8,
+    "rgb": [
+      187,
+      123,
+      100
+    ],
+    "hex": "#BB7B64",
+    "category": "mestizo"
+  },
+  "7d16f7c7-6a6d-42cb-abc2-c324570bfd2f": {
+    "luminance": 160.3,
+    "rgb": [
+      196,
+      152,
+      111
+    ],
+    "hex": "#C4986F",
+    "category": "white"
+  },
+  "fd8cb745-a0c2-4b33-9aa7-f8680ee57e5b": {
+    "luminance": 153.0,
+    "rgb": [
+      207,
+      137,
+      99
+    ],
+    "hex": "#CF8963",
+    "category": "white"
+  },
+  "9f0fd2bc-ccff-4f10-b711-3e48b4fdab8e": {
+    "luminance": 155.7,
+    "rgb": [
+      192,
+      146,
+      107
+    ],
+    "hex": "#C0926B",
+    "category": "white"
+  },
+  "dc1e9330-9dd8-49c1-b882-6d1927efc848": {
+    "luminance": 171.0,
+    "rgb": [
+      219,
+      155,
+      128
+    ],
+    "hex": "#DB9B80",
+    "category": "white"
+  },
+  "abcf5bd5-6396-4b22-83d0-338c004eb19d": {
+    "luminance": 117.8,
+    "rgb": [
+      168,
+      101,
+      73
+    ],
+    "hex": "#A86549",
+    "category": "mestizo"
+  },
+  "2a24126c-9edd-4fc7-bd09-5b9564c7af6f": {
+    "luminance": 146.0,
+    "rgb": [
+      185,
+      134,
+      100
+    ],
+    "hex": "#B98664",
+    "category": "mestizo"
+  },
+  "189bc802-344d-45a0-9695-291bb088964b": {
+    "luminance": 191.9,
+    "rgb": [
+      255,
+      173,
+      128
+    ],
+    "hex": "#FFAD80",
+    "category": "white"
+  },
+  "cc56c609-3b54-4e40-b269-bc976d50d73c": {
+    "luminance": 148.6,
+    "rgb": [
+      212,
+      125,
+      99
+    ],
+    "hex": "#D47D63",
+    "category": "mestizo"
+  },
+  "6037be98-876b-47d8-8479-16abe1b88640": {
+    "luminance": 191.7,
+    "rgb": [
+      246,
+      175,
+      133
+    ],
+    "hex": "#F6AF85",
+    "category": "white"
+  },
+  "c37d8c14-31ea-4284-b95a-e905a7055574": {
+    "luminance": 120.0,
+    "rgb": [
+      157,
+      105,
+      105
+    ],
+    "hex": "#9D6969",
+    "category": "mestizo"
+  },
+  "2259f289-ca94-464d-854b-8048dce78ad6": {
+    "luminance": 137.2,
+    "rgb": [
+      202,
+      116,
+      75
+    ],
+    "hex": "#CA744B",
+    "category": "mestizo"
+  },
+  "a057172b-b7ef-45d7-b630-a503d4711a9a": {
+    "luminance": 160.6,
+    "rgb": [
+      213,
+      144,
+      112
+    ],
+    "hex": "#D59070",
+    "category": "white"
+  },
+  "42a719fc-2bb7-4760-9cbe-f7e7f5ea97cf": {
+    "luminance": 167.7,
+    "rgb": [
+      222,
+      149,
+      123
+    ],
+    "hex": "#DE957B",
+    "category": "white"
+  },
+  "86e5f88b-fd58-496d-8908-9c42fad31e0c": {
+    "luminance": 124.3,
+    "rgb": [
+      150,
+      114,
+      113
+    ],
+    "hex": "#967271",
+    "category": "mestizo"
+  },
+  "1f416ba0-fc1e-4db7-9c62-782b813799a0": {
+    "luminance": 120.8,
+    "rgb": [
+      172,
+      103,
+      81
+    ],
+    "hex": "#AC6751",
+    "category": "mestizo"
+  },
+  "518db239-7f0b-4743-9d08-462acdb1c4a9": {
+    "luminance": 172.1,
+    "rgb": [
+      202,
+      161,
+      151
+    ],
+    "hex": "#CAA197",
+    "category": "white"
+  },
+  "4a858015-cbea-43e3-8d8c-59aa4c71f754": {
+    "luminance": 133.7,
+    "rgb": [
+      170,
+      122,
+      101
+    ],
+    "hex": "#AA7A65",
+    "category": "mestizo"
+  },
+  "51f80e91-3abe-4fdb-997f-b4e6493c4207": {
+    "luminance": 149.3,
+    "rgb": [
+      192,
+      134,
+      121
+    ],
+    "hex": "#C08679",
+    "category": "mestizo"
+  },
+  "b3067729-bbfb-4255-92cb-9c440a950e6d": {
+    "luminance": 123.8,
+    "rgb": [
+      171,
+      107,
+      89
+    ],
+    "hex": "#AB6B59",
+    "category": "mestizo"
+  },
+  "5346aab0-7849-4daf-8320-f82c3e0bf15b": {
+    "luminance": 61.7,
+    "rgb": [
+      92,
+      52,
+      34
+    ],
+    "hex": "#5C3422",
+    "category": "moreno"
+  },
+  "d9e0cc90-0eaa-4f9a-adf4-4275786b369a": {
+    "luminance": 168.3,
+    "rgb": [
+      220,
+      151,
+      124
+    ],
+    "hex": "#DC977C",
+    "category": "white"
+  },
+  "bd790d7a-63c1-4289-92d3-ab4510fce57d": {
+    "luminance": 117.2,
+    "rgb": [
+      171,
+      99,
+      71
+    ],
+    "hex": "#AB6347",
+    "category": "mestizo"
+  },
+  "0bc811bc-684e-4dde-8322-cf27975269e4": {
+    "luminance": 128.3,
+    "rgb": [
+      168,
+      117,
+      83
+    ],
+    "hex": "#A87553",
+    "category": "mestizo"
+  },
+  "caf26fc6-ea13-46cf-b3aa-b771d6037801": {
+    "luminance": 128.3,
+    "rgb": [
+      168,
+      117,
+      83
+    ],
+    "hex": "#A87553",
+    "category": "mestizo"
+  },
+  "c9ef4e3f-4492-42c3-97e2-494782a45a3f": {
+    "luminance": 138.9,
+    "rgb": [
+      195,
+      119,
+      90
+    ],
+    "hex": "#C3775A",
+    "category": "mestizo"
+  },
+  "94f01edd-3adc-4f01-b7c2-2d9aefed1c4b": {
+    "luminance": 160.1,
+    "rgb": [
+      188,
+      151,
+      137
+    ],
+    "hex": "#BC9789",
+    "category": "white"
+  },
+  "f853e485-a9ef-42b8-992f-2e49f26855eb": {
+    "luminance": 136.9,
+    "rgb": [
+      187,
+      119,
+      98
+    ],
+    "hex": "#BB7762",
+    "category": "mestizo"
+  },
+  "e326c315-b083-44eb-90c2-98ff00a1121f": {
+    "luminance": 116.1,
+    "rgb": [
+      174,
+      95,
+      75
+    ],
+    "hex": "#AE5F4B",
+    "category": "mestizo"
+  },
+  "ed954a47-ed90-4931-818f-08a3c8971780": {
+    "luminance": 137.6,
+    "rgb": [
+      196,
+      117,
+      92
+    ],
+    "hex": "#C4755C",
+    "category": "mestizo"
+  },
+  "826bda14-96c4-445e-a27a-1e5b65f85e5d": {
+    "luminance": 158.6,
+    "rgb": [
+      215,
+      139,
+      113
+    ],
+    "hex": "#D78B71",
+    "category": "white"
+  },
+  "5939c33d-07eb-4826-8131-2b99e2a0c6a7": {
+    "luminance": 107.7,
+    "rgb": [
+      138,
+      96,
+      85
+    ],
+    "hex": "#8A6055",
+    "category": "moreno"
+  },
+  "64ed517a-93b0-4aa5-ae8b-df66f12b1df3": {
+    "luminance": 131.3,
+    "rgb": [
+      166,
+      121,
+      92
+    ],
+    "hex": "#A6795C",
+    "category": "mestizo"
+  },
+  "3873c421-bcdb-4ec8-900a-49de61795e0f": {
+    "luminance": 155.0,
+    "rgb": [
+      199,
+      141,
+      111
+    ],
+    "hex": "#C78D6F",
+    "category": "white"
+  },
+  "2405c275-b18f-4979-8cee-865cf11f36a8": {
+    "luminance": 177.5,
+    "rgb": [
+      225,
+      161,
+      135
+    ],
+    "hex": "#E1A187",
+    "category": "white"
+  },
+  "2514bd55-fbf0-46a4-9de9-51d3ae01aefd": {
+    "luminance": 185.2,
+    "rgb": [
+      225,
+      170,
+      152
+    ],
+    "hex": "#E1AA98",
+    "category": "white"
+  },
+  "24f92ba5-960a-47c0-ba5f-51abb0972870": {
+    "luminance": 126.9,
+    "rgb": [
+      187,
+      105,
+      81
+    ],
+    "hex": "#BB6951",
+    "category": "mestizo"
+  },
+  "7c03001f-68d3-4a78-b102-2beabc2fae9d": {
+    "luminance": 147.9,
+    "rgb": [
+      188,
+      131,
+      131
+    ],
+    "hex": "#BC8383",
+    "category": "mestizo"
+  },
+  "0aa4045a-ae5c-4707-b8a7-111a34830b12": {
+    "luminance": 161.9,
+    "rgb": [
+      215,
+      143,
+      114
+    ],
+    "hex": "#D78F72",
+    "category": "white"
+  },
+  "ff8bfc28-4e08-4650-bedb-e8ed3765b459": {
+    "luminance": 113.2,
+    "rgb": [
+      171,
+      94,
+      66
+    ],
+    "hex": "#AB5E42",
+    "category": "mestizo"
+  },
+  "5fa152a9-a61e-42e0-8df2-e14bca0e53e9": {
+    "luminance": 201.1,
+    "rgb": [
+      241,
+      189,
+      162
+    ],
+    "hex": "#F1BDA2",
+    "category": "white"
+  },
+  "fbdd6056-ecad-45a4-8746-964842ad5235": {
+    "luminance": 137.3,
+    "rgb": [
+      195,
+      118,
+      89
+    ],
+    "hex": "#C37659",
+    "category": "mestizo"
+  },
+  "cd7f606f-e8ba-4b6f-9dc5-a3e35b54a772": {
+    "luminance": 139.1,
+    "rgb": [
+      203,
+      117,
+      83
+    ],
+    "hex": "#CB7553",
+    "category": "mestizo"
+  },
+  "3885d8d7-4039-4cd4-8253-1e8bc4f0b294": {
+    "luminance": 155.8,
+    "rgb": [
+      198,
+      143,
+      110
+    ],
+    "hex": "#C68F6E",
+    "category": "white"
+  },
+  "a93fed2a-2aa7-4063-affb-c633bbd310be": {
+    "luminance": 134.9,
+    "rgb": [
+      192,
+      115,
+      85
+    ],
+    "hex": "#C07355",
+    "category": "mestizo"
+  },
+  "39a67a87-3ea2-4e3c-b56b-2a8ab4c8b4be": {
+    "luminance": 131.6,
+    "rgb": [
+      176,
+      116,
+      93
+    ],
+    "hex": "#B0745D",
+    "category": "mestizo"
+  },
+  "1638b0a4-817d-41c0-857a-43a081e5919f": {
+    "luminance": 95.9,
+    "rgb": [
+      146,
+      78,
+      57
+    ],
+    "hex": "#924E39",
+    "category": "moreno"
+  },
+  "9d2164fe-5251-4263-8a4f-28489dd4ad88": {
+    "luminance": 115.1,
+    "rgb": [
+      155,
+      102,
+      82
+    ],
+    "hex": "#9B6652",
+    "category": "mestizo"
+  },
+  "60cfad93-f6f9-43d3-a44d-c50d0a3c1192": {
+    "luminance": 150.6,
+    "rgb": [
+      201,
+      134,
+      103
+    ],
+    "hex": "#C98667",
+    "category": "white"
+  },
+  "5b31cc75-99ae-48f4-a978-ac36f7dc5e66": {
+    "luminance": 132.5,
+    "rgb": [
+      175,
+      118,
+      98
+    ],
+    "hex": "#AF7662",
+    "category": "mestizo"
+  },
+  "e99be732-2a8c-40bc-ae9d-590c70f8a685": {
+    "luminance": 192.2,
+    "rgb": [
+      229,
+      181,
+      154
+    ],
+    "hex": "#E5B59A",
+    "category": "white"
+  },
+  "7143fc2c-2c9f-4d41-9830-4d582837a1d0": {
+    "luminance": 170.0,
+    "rgb": [
+      218,
+      153,
+      130
+    ],
+    "hex": "#DA9982",
+    "category": "white"
+  },
+  "7a8d0927-ff3e-44b6-b998-f659827248e6": {
+    "luminance": 142.7,
+    "rgb": [
+      184,
+      128,
+      100
+    ],
+    "hex": "#B88064",
+    "category": "mestizo"
+  },
+  "9ae90f8f-aa77-4014-bf29-76dcc4d6a822": {
+    "luminance": 178.8,
+    "rgb": [
+      231,
+      158,
+      145
+    ],
+    "hex": "#E79E91",
+    "category": "white"
+  },
+  "1ae31a0e-6fd2-4efe-851b-91c26b007d97": {
+    "luminance": 90.2,
+    "rgb": [
+      130,
+      77,
+      59
+    ],
+    "hex": "#824D3B",
+    "category": "moreno"
+  },
+  "dffe0fc9-3895-4dea-95d0-1e1c11690672": {
+    "luminance": 98.8,
+    "rgb": [
+      149,
+      81,
+      60
+    ],
+    "hex": "#95513C",
+    "category": "moreno"
+  },
+  "3de902e6-2670-461a-8ae7-02d843f06081": {
+    "luminance": 132.7,
+    "rgb": [
+      175,
+      118,
+      95
+    ],
+    "hex": "#AF765F",
+    "category": "mestizo"
+  },
+  "d051a29d-52d5-4c39-b2c3-1356a9ecbaf5": {
+    "luminance": 168.1,
+    "rgb": [
+      222,
+      149,
+      125
+    ],
+    "hex": "#DE957D",
+    "category": "white"
+  },
+  "7df9a228-cdf9-4a52-8a65-7e2194467838": {
+    "luminance": 158.9,
+    "rgb": [
+      201,
+      142,
+      133
+    ],
+    "hex": "#C98E85",
+    "category": "white"
+  },
+  "7ab07e2d-f2e2-4f08-b284-6d2e2b923e48": {
+    "luminance": 146.0,
+    "rgb": [
+      184,
+      132,
+      114
+    ],
+    "hex": "#B88472",
+    "category": "mestizo"
+  },
+  "696221f0-ff6c-4f51-ada0-75e36a2f636c": {
+    "luminance": 96.9,
+    "rgb": [
+      133,
+      85,
+      66
+    ],
+    "hex": "#855542",
+    "category": "moreno"
+  },
+  "a2ddb362-07f7-4132-b6c8-4e925a951cb1": {
+    "luminance": 121.0,
+    "rgb": [
+      167,
+      106,
+      80
+    ],
+    "hex": "#A76A50",
+    "category": "mestizo"
+  },
+  "9c3ff5fb-2b46-471a-9d30-018d75512963": {
+    "luminance": 135.8,
+    "rgb": [
+      184,
+      119,
+      93
+    ],
+    "hex": "#B8775D",
+    "category": "mestizo"
+  },
+  "1e988ac5-447a-4aef-8f62-b14ff2991a6e": {
+    "luminance": 126.3,
+    "rgb": [
+      170,
+      112,
+      92
+    ],
+    "hex": "#AA705C",
+    "category": "mestizo"
+  },
+  "6051fef9-48cb-4920-a7f8-65d3d8f298c1": {
+    "luminance": 122.6,
+    "rgb": [
+      167,
+      106,
+      87
+    ],
+    "hex": "#A76A57",
+    "category": "mestizo"
+  },
+  "546424dd-7c12-4854-8ee9-360cccda4d82": {
+    "luminance": 147.7,
+    "rgb": [
+      179,
+      138,
+      116
+    ],
+    "hex": "#B38A74",
+    "category": "mestizo"
+  },
+  "581a7678-3068-4199-82f3-3871beeab34a": {
+    "luminance": 135.7,
+    "rgb": [
+      182,
+      119,
+      105
+    ],
+    "hex": "#B67769",
+    "category": "mestizo"
+  },
+  "b6301ed1-f68e-4532-8d3c-2f741294fd5a": {
+    "luminance": 123.9,
+    "rgb": [
+      163,
+      109,
+      96
+    ],
+    "hex": "#A36D60",
+    "category": "mestizo"
+  },
+  "8e724498-9069-4fe1-bfeb-1b5d0ff99f4e": {
+    "luminance": 122.8,
+    "rgb": [
+      167,
+      108,
+      83
+    ],
+    "hex": "#A76C53",
+    "category": "mestizo"
+  },
+  "48e44c94-d623-424e-b15e-202c2ca4a467": {
+    "luminance": 172.2,
+    "rgb": [
+      202,
+      161,
+      146
+    ],
+    "hex": "#CAA192",
+    "category": "white"
+  },
+  "52af3164-dd8e-4348-932c-b7c963ced6de": {
+    "luminance": 134.7,
+    "rgb": [
+      178,
+      118,
+      109
+    ],
+    "hex": "#B2766D",
+    "category": "mestizo"
+  },
+  "fc5e69da-1b26-404e-bcc9-875aeef1df28": {
+    "luminance": 139.7,
+    "rgb": [
+      169,
+      129,
+      120
+    ],
+    "hex": "#A98178",
+    "category": "mestizo"
+  },
+  "ff567d3d-3466-4af3-a1d5-491758fc1a94": {
+    "luminance": 141.2,
+    "rgb": [
+      185,
+      124,
+      111
+    ],
+    "hex": "#B97C6F",
+    "category": "mestizo"
+  },
+  "9384a432-d1b9-43ef-bfed-d8bd126b5498": {
+    "luminance": 109.1,
+    "rgb": [
+      146,
+      98,
+      69
+    ],
+    "hex": "#926245",
+    "category": "moreno"
+  },
+  "65046671-a44c-49ef-b540-66450c989cb4": {
+    "luminance": 134.1,
+    "rgb": [
+      191,
+      116,
+      82
+    ],
+    "hex": "#BF7452",
+    "category": "mestizo"
+  },
+  "4901f22c-4215-4826-ac96-f30d6e6fd34d": {
+    "luminance": 153.9,
+    "rgb": [
+      193,
+      139,
+      128
+    ],
+    "hex": "#C18B80",
+    "category": "white"
+  },
+  "cc3d7a18-e032-486b-b722-7a63ceb9d9df": {
+    "luminance": 126.2,
+    "rgb": [
+      191,
+      103,
+      76
+    ],
+    "hex": "#BF674C",
+    "category": "mestizo"
+  },
+  "bdd17eb2-8c6e-4c98-82b0-57c6cf798ce6": {
+    "luminance": 153.0,
+    "rgb": [
+      181,
+      148,
+      109
+    ],
+    "hex": "#B5946D",
+    "category": "white"
+  },
+  "64a0f647-89cb-498b-a512-84cf5188ecb7": {
+    "luminance": 116.6,
+    "rgb": [
+      154,
+      105,
+      83
+    ],
+    "hex": "#9A6953",
+    "category": "mestizo"
+  },
+  "226e9673-d527-47d0-bdbd-65328f3a1b7a": {
+    "luminance": 158.0,
+    "rgb": [
+      180,
+      149,
+      143
+    ],
+    "hex": "#B4958F",
+    "category": "white"
+  },
+  "70880a7e-0cb9-49ea-95a8-7a563d2c3c9b": {
+    "luminance": 127.6,
+    "rgb": [
+      162,
+      115,
+      102
+    ],
+    "hex": "#A27366",
+    "category": "mestizo"
+  },
+  "3d24ede0-9e4f-46bd-bd96-9fb28f21e892": {
+    "luminance": 148.1,
+    "rgb": [
+      202,
+      129,
+      107
+    ],
+    "hex": "#CA816B",
+    "category": "mestizo"
+  },
+  "ab18125c-b592-441f-b882-15c03fce1683": {
+    "luminance": 113.9,
+    "rgb": [
+      163,
+      99,
+      71
+    ],
+    "hex": "#A36347",
+    "category": "mestizo"
+  },
+  "ba892b08-0cce-48c3-8447-4a08f28de3bd": {
+    "luminance": 121.8,
+    "rgb": [
+      159,
+      106,
+      93
+    ],
+    "hex": "#9F6A5D",
+    "category": "mestizo"
+  },
+  "7d93b512-e70a-4b8f-b192-5bcfb300b612": {
+    "luminance": 167.8,
+    "rgb": [
+      209,
+      153,
+      132
+    ],
+    "hex": "#D19984",
+    "category": "white"
+  },
+  "6bb687f8-005b-41c4-867a-cf5f6e50df2f": {
+    "luminance": 145.0,
+    "rgb": [
+      173,
+      138,
+      104
+    ],
+    "hex": "#AD8A68",
+    "category": "mestizo"
+  },
+  "778ec97f-02af-445c-a8ec-f61bb0fe7556": {
+    "luminance": 124.2,
+    "rgb": [
+      162,
+      113,
+      85
+    ],
+    "hex": "#A27155",
+    "category": "mestizo"
+  },
+  "35984a45-84d1-4e40-a379-b36be4a75e20": {
+    "luminance": 102.1,
+    "rgb": [
+      152,
+      85,
+      57
+    ],
+    "hex": "#985539",
+    "category": "moreno"
+  },
+  "822d805d-ef82-48bc-b899-4d01bb5acf5a": {
+    "luminance": 171.8,
+    "rgb": [
+      226,
+      157,
+      112
+    ],
+    "hex": "#E29D70",
+    "category": "white"
+  },
+  "085ec10c-2da9-456e-bab0-301dd793a9ca": {
+    "luminance": 148.8,
+    "rgb": [
+      179,
+      141,
+      105
+    ],
+    "hex": "#B38D69",
+    "category": "mestizo"
+  },
+  "06567308-f184-48f7-b923-2d2e87d43b11": {
+    "luminance": 181.2,
+    "rgb": [
+      204,
+      177,
+      140
+    ],
+    "hex": "#CCB18C",
+    "category": "white"
+  },
+  "e95173fa-cb7a-4ad3-b628-e786710693d3": {
+    "luminance": 116.0,
+    "rgb": [
+      158,
+      102,
+      82
+    ],
+    "hex": "#9E6652",
+    "category": "mestizo"
+  },
+  "916b66ae-60dc-40c6-b196-52bc318386a1": {
+    "luminance": 159.7,
+    "rgb": [
+      212,
+      140,
+      116
+    ],
+    "hex": "#D48C74",
+    "category": "white"
+  },
+  "d74c9cc7-e9d2-4725-859a-99e934ba9055": {
+    "luminance": 171.0,
+    "rgb": [
+      210,
+      159,
+      132
+    ],
+    "hex": "#D29F84",
+    "category": "white"
+  },
+  "2d294fe0-a89f-4d5b-ac04-006c46f73e73": {
+    "luminance": 120.1,
+    "rgb": [
+      174,
+      100,
+      83
+    ],
+    "hex": "#AE6453",
+    "category": "mestizo"
+  },
+  "2da36f0a-60e3-4879-8d50-bbd41c32593b": {
+    "luminance": 181.8,
+    "rgb": [
+      204,
+      174,
+      159
+    ],
+    "hex": "#CCAE9F",
+    "category": "white"
+  },
+  "7f8406eb-5bb2-4502-bfc8-63dc04d003a2": {
+    "luminance": 178.8,
+    "rgb": [
+      223,
+      163,
+      144
+    ],
+    "hex": "#DFA390",
+    "category": "white"
+  },
+  "5dc7f3d9-320d-421c-b8b3-5cabd92f4a26": {
+    "luminance": 189.3,
+    "rgb": [
+      235,
+      173,
+      154
+    ],
+    "hex": "#EBAD9A",
+    "category": "white"
+  },
+  "14be269e-971d-4dda-9b47-6bd3eb849daa": {
+    "luminance": 104.9,
+    "rgb": [
+      159,
+      85,
+      64
+    ],
+    "hex": "#9F5540",
+    "category": "moreno"
+  },
+  "61561a2b-d493-434e-9b3d-5231a6a82fe6": {
+    "luminance": 129.0,
+    "rgb": [
+      192,
+      108,
+      73
+    ],
+    "hex": "#C06C49",
+    "category": "mestizo"
+  },
+  "d43cae22-1b74-423b-8a5e-ae440d27f490": {
+    "luminance": 143.4,
+    "rgb": [
+      210,
+      120,
+      90
+    ],
+    "hex": "#D2785A",
+    "category": "mestizo"
+  },
+  "7dd67d1a-4f45-4b9f-9bdb-fec4aa074f2e": {
+    "luminance": 145.2,
+    "rgb": [
+      174,
+      135,
+      121
+    ],
+    "hex": "#AE8779",
+    "category": "mestizo"
+  },
+  "789fbccd-3897-40c4-827a-0d741673b04c": {
+    "luminance": 120.4,
+    "rgb": [
+      178,
+      99,
+      76
+    ],
+    "hex": "#B2634C",
+    "category": "mestizo"
+  },
+  "36bd5859-9514-40fd-b386-768e74fa8415": {
+    "luminance": 163.3,
+    "rgb": [
+      203,
+      148,
+      132
+    ],
+    "hex": "#CB9484",
+    "category": "white"
+  },
+  "c8fce186-7e1e-48c6-8ded-6f9868f2fda1": {
+    "luminance": 100.2,
+    "rgb": [
+      141,
+      85,
+      75
+    ],
+    "hex": "#8D554B",
+    "category": "moreno"
+  },
+  "842eebad-1f1c-48d3-9246-6948570feb9e": {
+    "luminance": 145.0,
+    "rgb": [
+      214,
+      118,
+      108
+    ],
+    "hex": "#D6766C",
+    "category": "mestizo"
+  },
+  "98fb7eec-9982-47b3-840e-2c8498bf1efe": {
+    "luminance": 134.7,
+    "rgb": [
+      184,
+      116,
+      103
+    ],
+    "hex": "#B87467",
+    "category": "mestizo"
+  },
+  "3364a08f-7e3c-4478-9ba0-05674e0d5190": {
+    "luminance": 143.8,
+    "rgb": [
+      189,
+      126,
+      115
+    ],
+    "hex": "#BD7E73",
+    "category": "mestizo"
+  },
+  "81189ce1-7d99-450a-b062-4ea7a612c3f8": {
+    "luminance": 169.9,
+    "rgb": [
+      231,
+      153,
+      101
+    ],
+    "hex": "#E79965",
+    "category": "white"
+  },
+  "a6cbd643-40b8-4073-bbd3-32b6329cf93a": {
+    "luminance": 170.9,
+    "rgb": [
+      234,
+      145,
+      141
+    ],
+    "hex": "#EA918D",
+    "category": "white"
+  },
+  "141fc7a9-abef-4d2f-bace-9b5dc3dfe7b6": {
+    "luminance": 128.8,
+    "rgb": [
+      174,
+      114,
+      93
+    ],
+    "hex": "#AE725D",
+    "category": "mestizo"
+  },
+  "f83a9784-554f-4418-ad9b-8257ff702905": {
+    "luminance": 127.7,
+    "rgb": [
+      169,
+      114,
+      92
+    ],
+    "hex": "#A9725C",
+    "category": "mestizo"
+  },
+  "d8b19a9c-4bbf-412e-bec2-2347830843c5": {
+    "luminance": 148.0,
+    "rgb": [
+      190,
+      133,
+      118
+    ],
+    "hex": "#BE8576",
+    "category": "mestizo"
+  },
+  "b9078951-db18-49f4-9c7f-37f85bd92ae2": {
+    "luminance": 155.9,
+    "rgb": [
+      207,
+      139,
+      112
+    ],
+    "hex": "#CF8B70",
+    "category": "white"
+  },
+  "005ca48a-d953-4283-b863-5bfff0ac7325": {
+    "luminance": 184.2,
+    "rgb": [
+      223,
+      173,
+      139
+    ],
+    "hex": "#DFAD8B",
+    "category": "white"
+  },
+  "4d04667c-8546-4992-84d5-6432aff4a5f0": {
+    "luminance": 139.8,
+    "rgb": [
+      198,
+      118,
+      99
+    ],
+    "hex": "#C67663",
+    "category": "mestizo"
+  },
+  "05eec8c0-b8c5-4138-8c23-befab91c0333": {
+    "luminance": 159.0,
+    "rgb": [
+      198,
+      143,
+      138
+    ],
+    "hex": "#C68F8A",
+    "category": "white"
+  },
+  "9ae13c77-beb2-4a6b-8f8c-6441f484c987": {
+    "luminance": 106.4,
+    "rgb": [
+      141,
+      95,
+      82
+    ],
+    "hex": "#8D5F52",
+    "category": "moreno"
+  },
+  "4f042f08-f5b5-4b16-ba95-e1a76b4d1653": {
+    "luminance": 117.7,
+    "rgb": [
+      152,
+      107,
+      83
+    ],
+    "hex": "#986B53",
+    "category": "mestizo"
+  },
+  "9d7fb326-9717-4b98-a758-61d6310c4eae": {
+    "luminance": 136.7,
+    "rgb": [
+      192,
+      120,
+      78
+    ],
+    "hex": "#C0784E",
+    "category": "mestizo"
+  },
+  "4c44be71-16cc-4080-b247-588e9701aab6": {
+    "luminance": 102.2,
+    "rgb": [
+      153,
+      86,
+      54
+    ],
+    "hex": "#995636",
+    "category": "moreno"
+  },
+  "a0ccde7f-3535-4254-946c-801f1cff511a": {
+    "luminance": 94.9,
+    "rgb": [
+      130,
+      83,
+      64
+    ],
+    "hex": "#825340",
+    "category": "moreno"
+  },
+  "1492a664-16ae-4437-9984-0124065bc4d3": {
+    "luminance": 160.9,
+    "rgb": [
+      210,
+      144,
+      121
+    ],
+    "hex": "#D29079",
+    "category": "white"
+  },
+  "cdd3bffb-f85d-426b-8bf7-62a88b04e836": {
+    "luminance": 137.3,
+    "rgb": [
+      190,
+      117,
+      102
+    ],
+    "hex": "#BE7566",
+    "category": "mestizo"
+  },
+  "47093c72-c07f-4925-a566-55417ae66afb": {
+    "luminance": 155.0,
+    "rgb": [
+      218,
+      134,
+      98
+    ],
+    "hex": "#DA8662",
+    "category": "white"
+  },
+  "19be621b-99f2-4f9c-93df-f9beb1037e4c": {
+    "luminance": 158.2,
+    "rgb": [
+      206,
+      137,
+      134
+    ],
+    "hex": "#CE8986",
+    "category": "white"
+  },
+  "a27c34a4-fdc0-4ebc-bb37-df4e7327613f": {
+    "luminance": 187.1,
+    "rgb": [
+      240,
+      168,
+      141
+    ],
+    "hex": "#F0A88D",
+    "category": "white"
+  },
+  "d3ae1a1c-7b25-4b9e-b614-80803d6214ce": {
+    "luminance": 128.2,
+    "rgb": [
+      180,
+      110,
+      84
+    ],
+    "hex": "#B46E54",
+    "category": "mestizo"
+  },
+  "1ca93c2a-9efc-4505-8dd7-94e3bb3bf7d5": {
+    "luminance": 136.0,
+    "rgb": [
+      181,
+      120,
+      99
+    ],
+    "hex": "#B57863",
+    "category": "mestizo"
+  },
+  "558e7162-8fa7-46be-aa53-537c80359b53": {
+    "luminance": 113.9,
+    "rgb": [
+      151,
+      102,
+      85
+    ],
+    "hex": "#976655",
+    "category": "mestizo"
+  },
+  "c1bfbc9f-37f3-4d8c-ab95-260cff2ad756": {
+    "luminance": 158.0,
+    "rgb": [
+      205,
+      143,
+      112
+    ],
+    "hex": "#CD8F70",
+    "category": "white"
+  },
+  "1df22fa3-a72a-4dd6-8fc7-80fe546de49a": {
+    "luminance": 165.1,
+    "rgb": [
+      220,
+      144,
+      129
+    ],
+    "hex": "#DC9081",
+    "category": "white"
+  },
+  "f6224c67-cd0d-456e-8045-3c98934ad6a3": {
+    "luminance": 128.8,
+    "rgb": [
+      173,
+      115,
+      86
+    ],
+    "hex": "#AD7356",
+    "category": "mestizo"
+  },
+  "d376476f-5880-44de-b813-8b83480b4c5b": {
+    "luminance": 136.8,
+    "rgb": [
+      188,
+      120,
+      87
+    ],
+    "hex": "#BC7857",
+    "category": "mestizo"
+  },
+  "e75c9fcf-f7e5-45a2-86dd-74af966bbc03": {
+    "luminance": 204.6,
+    "rgb": [
+      234,
+      194,
+      179
+    ],
+    "hex": "#EAC2B3",
+    "category": "white"
+  },
+  "7e136bbb-25ce-4366-ad2d-5109b8206046": {
+    "luminance": 174.3,
+    "rgb": [
+      243,
+      154,
+      102
+    ],
+    "hex": "#F39A66",
+    "category": "white"
+  },
+  "731d76e3-5611-4eb9-97fd-b9e7196241fc": {
+    "luminance": 172.1,
+    "rgb": [
+      202,
+      161,
+      151
+    ],
+    "hex": "#CAA197",
+    "category": "white"
+  },
+  "45280525-5184-4daa-a5a6-9b36b4b44413": {
+    "luminance": 135.5,
+    "rgb": [
+      177,
+      122,
+      91
+    ],
+    "hex": "#B17A5B",
+    "category": "mestizo"
+  },
+  "838ab3ff-07db-4637-8ed1-063b92b157fa": {
+    "luminance": 137.1,
+    "rgb": [
+      182,
+      125,
+      92
+    ],
+    "hex": "#B67D5C",
+    "category": "mestizo"
+  },
+  "40e4d17d-460f-4b44-8301-5c3bf6360c8a": {
+    "luminance": 113.2,
+    "rgb": [
+      150,
+      101,
+      82
+    ],
+    "hex": "#966552",
+    "category": "mestizo"
+  },
+  "d1a47e4a-4ae7-4170-a47e-5d970c372e3d": {
+    "luminance": 159.1,
+    "rgb": [
+      222,
+      136,
+      117
+    ],
+    "hex": "#DE8875",
+    "category": "white"
+  },
+  "3fa10b77-8162-4201-a988-1ec54b51aec8": {
+    "luminance": 171.8,
+    "rgb": [
+      225,
+      153,
+      125
+    ],
+    "hex": "#E1997D",
+    "category": "white"
+  },
+  "356f49e3-445c-415f-9dbe-26cea882d6dc": {
+    "luminance": 146.7,
+    "rgb": [
+      205,
+      125,
+      105
+    ],
+    "hex": "#CD7D69",
+    "category": "mestizo"
+  },
+  "67c21493-296d-407c-845f-0a203e0314d1": {
+    "luminance": 112.0,
+    "rgb": [
+      162,
+      94,
+      73
+    ],
+    "hex": "#A25E49",
+    "category": "mestizo"
+  },
+  "79b60f32-276c-4677-97be-97a7b83a906b": {
+    "luminance": 175.8,
+    "rgb": [
+      223,
+      157,
+      148
+    ],
+    "hex": "#DF9D94",
+    "category": "white"
+  },
+  "eafa9198-ffaf-4a1e-b779-9624c25354a0": {
+    "luminance": 172.1,
+    "rgb": [
+      221,
+      156,
+      132
+    ],
+    "hex": "#DD9C84",
+    "category": "white"
+  },
+  "dbeb82c4-a7ff-45bc-a179-b88cf25ded43": {
+    "luminance": 131.2,
+    "rgb": [
+      176,
+      117,
+      92
+    ],
+    "hex": "#B0755C",
+    "category": "mestizo"
+  },
+  "78e8d9be-174f-487d-a0c7-64c1cbbf6ab7": {
+    "luminance": 135.4,
+    "rgb": [
+      186,
+      119,
+      91
+    ],
+    "hex": "#BA775B",
+    "category": "mestizo"
+  },
+  "364355d6-8e6f-4998-bd61-da764fea3e37": {
+    "luminance": 170.7,
+    "rgb": [
+      222,
+      156,
+      110
+    ],
+    "hex": "#DE9C6E",
+    "category": "white"
+  },
+  "60d6deb3-0507-4f25-960e-885ed9882be0": {
+    "luminance": 128.0,
+    "rgb": [
+      182,
+      109,
+      85
+    ],
+    "hex": "#B66D55",
+    "category": "mestizo"
+  },
+  "7d738d80-2cea-45f3-9add-61956091a36c": {
+    "luminance": 106.4,
+    "rgb": [
+      148,
+      93,
+      70
+    ],
+    "hex": "#945D46",
+    "category": "moreno"
+  },
+  "e2062373-5e0b-48a5-9ed9-072b35937516": {
+    "luminance": 135.7,
+    "rgb": [
+      208,
+      110,
+      75
+    ],
+    "hex": "#D06E4B",
+    "category": "mestizo"
+  },
+  "36e61041-6ffa-4eea-8d07-7b789b0c9dcd": {
+    "luminance": 151.0,
+    "rgb": [
+      197,
+      135,
+      117
+    ],
+    "hex": "#C58775",
+    "category": "white"
+  },
+  "993538ee-b518-4e44-8735-207c75257f6b": {
+    "luminance": 119.3,
+    "rgb": [
+      170,
+      101,
+      82
+    ],
+    "hex": "#AA6552",
+    "category": "mestizo"
+  },
+  "46e60690-bb9d-46e8-b5e6-42b7218af139": {
+    "luminance": 144.7,
+    "rgb": [
+      171,
+      134,
+      130
+    ],
+    "hex": "#AB8682",
+    "category": "mestizo"
+  },
+  "90780f6c-ed1e-40ae-b6f8-18985c46133a": {
+    "luminance": 148.1,
+    "rgb": [
+      210,
+      125,
+      97
+    ],
+    "hex": "#D27D61",
+    "category": "mestizo"
+  },
+  "a53251be-6471-4a0f-8f1f-a24c6bff4028": {
+    "luminance": 114.0,
+    "rgb": [
+      150,
+      102,
+      81
+    ],
+    "hex": "#966651",
+    "category": "mestizo"
+  },
+  "590420a8-d929-4905-80c2-82a9f3ef26a0": {
+    "luminance": 160.1,
+    "rgb": [
+      206,
+      144,
+      128
+    ],
+    "hex": "#CE9080",
+    "category": "white"
+  },
+  "51415d3b-54e2-46c9-be95-ab411aaa78c4": {
+    "luminance": 85.3,
+    "rgb": [
+      134,
+      69,
+      44
+    ],
+    "hex": "#86452C",
+    "category": "moreno"
+  },
+  "5b20da14-2541-411b-b44e-23a2794d9d40": {
+    "luminance": 144.0,
+    "rgb": [
+      183,
+      129,
+      119
+    ],
+    "hex": "#B78177",
+    "category": "mestizo"
+  },
+  "37ac455e-c914-4491-8a59-93d775589158": {
+    "luminance": 144.3,
+    "rgb": [
+      192,
+      127,
+      108
+    ],
+    "hex": "#C07F6C",
+    "category": "mestizo"
+  },
+  "14347e93-85c6-4294-8b4f-4bc1ce027377": {
+    "luminance": 138.8,
+    "rgb": [
+      172,
+      129,
+      102
+    ],
+    "hex": "#AC8166",
+    "category": "mestizo"
+  },
+  "25c29ffc-924a-405a-a4f7-5bfeae1fbe55": {
+    "luminance": 129.9,
+    "rgb": [
+      192,
+      109,
+      79
+    ],
+    "hex": "#C06D4F",
+    "category": "mestizo"
+  },
+  "214c437e-1821-4cba-91de-ce6f8dff664d": {
+    "luminance": 159.1,
+    "rgb": [
+      239,
+      130,
+      101
+    ],
+    "hex": "#EF8265",
+    "category": "white"
+  },
+  "fd41a0a9-dde6-4fe4-a474-24c1980d99a7": {
+    "luminance": 138.8,
+    "rgb": [
+      195,
+      117,
+      96
+    ],
+    "hex": "#C37560",
+    "category": "mestizo"
+  },
+  "95bb1d81-2319-425a-86c3-f98c1b7a0f02": {
+    "luminance": 136.2,
+    "rgb": [
+      182,
+      119,
+      103
+    ],
+    "hex": "#B67767",
+    "category": "mestizo"
+  },
+  "d438438b-6839-4099-b80d-8ed3e1080a1a": {
+    "luminance": 176.5,
+    "rgb": [
+      228,
+      158,
+      137
+    ],
+    "hex": "#E49E89",
+    "category": "white"
+  },
+  "f29ffd8a-eb68-47f0-80e4-69e76661ec54": {
+    "luminance": 108.1,
+    "rgb": [
+      150,
+      94,
+      72
+    ],
+    "hex": "#965E48",
+    "category": "moreno"
+  },
+  "bd7d19d8-2fac-410e-aa7e-af8581b426a7": {
+    "luminance": 138.7,
+    "rgb": [
+      182,
+      126,
+      91
+    ],
+    "hex": "#B67E5B",
+    "category": "mestizo"
+  },
+  "3a274205-03a2-4c74-8414-6f920bce2e98": {
+    "luminance": 113.9,
+    "rgb": [
+      151,
+      101,
+      80
+    ],
+    "hex": "#976550",
+    "category": "mestizo"
+  },
+  "e79cb9c6-9991-4eb8-bbc0-c08773998e31": {
+    "luminance": 144.9,
+    "rgb": [
+      188,
+      132,
+      99
+    ],
+    "hex": "#BC8463",
+    "category": "mestizo"
+  },
+  "e9acadaf-90ed-4cb0-9cd2-acf02d94ad76": {
+    "luminance": 144.1,
+    "rgb": [
+      198,
+      126,
+      98
+    ],
+    "hex": "#C67E62",
+    "category": "mestizo"
+  },
+  "33f847b2-7626-4370-b28e-69668187a1e4": {
+    "luminance": 155.0,
+    "rgb": [
+      196,
+      140,
+      126
+    ],
+    "hex": "#C48C7E",
+    "category": "white"
+  },
+  "e7e000da-f8ff-4ac4-ab06-45c98da95bed": {
+    "luminance": 134.8,
+    "rgb": [
+      188,
+      117,
+      92
+    ],
+    "hex": "#BC755C",
+    "category": "mestizo"
+  },
+  "d9d92da7-621d-4ad4-9a1e-eac9f5f9e90f": {
+    "luminance": 127.9,
+    "rgb": [
+      174,
+      108,
+      96
+    ],
+    "hex": "#AE6C60",
+    "category": "mestizo"
+  },
+  "3fafe4b3-9317-4061-a7a7-afe4583c4801": {
+    "luminance": 152.1,
+    "rgb": [
+      194,
+      132,
+      131
+    ],
+    "hex": "#C28483",
+    "category": "white"
+  },
+  "003474c4-4f54-45c7-a171-229c94d39ab2": {
+    "luminance": 177.9,
+    "rgb": [
+      222,
+      162,
+      141
+    ],
+    "hex": "#DEA28D",
+    "category": "white"
+  },
+  "ce3e5f55-4684-4bb3-ad98-e67ae7223cb2": {
+    "luminance": 94.3,
+    "rgb": [
+      134,
+      80,
+      59
+    ],
+    "hex": "#86503B",
+    "category": "moreno"
+  },
+  "060fc76f-7fe5-4bd9-929f-76a1e7fc52c0": {
+    "luminance": 122.1,
+    "rgb": [
+      157,
+      110,
+      89
+    ],
+    "hex": "#9D6E59",
+    "category": "mestizo"
+  },
+  "5444967b-ed7e-4b03-aff1-415d25f30090": {
+    "luminance": 157.0,
+    "rgb": [
+      201,
+      144,
+      108
+    ],
+    "hex": "#C9906C",
+    "category": "white"
+  },
+  "b187e2d0-3a08-462a-bbf5-3682a8d0924b": {
+    "luminance": 147.9,
+    "rgb": [
+      202,
+      130,
+      107
+    ],
+    "hex": "#CA826B",
+    "category": "mestizo"
+  },
+  "2ecf2dbf-a3a5-4c2c-a295-aab49643cd43": {
+    "luminance": 111.0,
+    "rgb": [
+      147,
+      99,
+      76
+    ],
+    "hex": "#93634C",
+    "category": "mestizo"
+  },
+  "bc4f4df0-d40f-4317-bcd7-f211e9841b71": {
+    "luminance": 140.1,
+    "rgb": [
+      190,
+      124,
+      90
+    ],
+    "hex": "#BE7C5A",
+    "category": "mestizo"
+  },
+  "88cf1a9c-e416-4f58-97a8-d0acd6e5de32": {
+    "luminance": 176.0,
+    "rgb": [
+      224,
+      160,
+      134
+    ],
+    "hex": "#E0A086",
+    "category": "white"
+  },
+  "94d7591c-4a4d-409f-9aaf-132319add3d0": {
+    "luminance": 151.9,
+    "rgb": [
+      194,
+      137,
+      121
+    ],
+    "hex": "#C28979",
+    "category": "white"
+  },
+  "b80ff13e-652f-4875-8244-fb05860b2e1b": {
+    "luminance": 125.0,
+    "rgb": [
+      158,
+      113,
+      102
+    ],
+    "hex": "#9E7166",
+    "category": "mestizo"
+  },
+  "f25cc23d-7a0a-427b-afa7-7b0d5c773cfc": {
+    "luminance": 147.3,
+    "rgb": [
+      194,
+      133,
+      102
+    ],
+    "hex": "#C28566",
+    "category": "mestizo"
+  },
+  "a7b024f3-f034-4d56-a3fb-f373a0bd588e": {
+    "luminance": 121.9,
+    "rgb": [
+      155,
+      110,
+      93
+    ],
+    "hex": "#9B6E5D",
+    "category": "mestizo"
+  },
+  "82b3fd1b-121f-44df-9424-be25eb51db46": {
+    "luminance": 175.0,
+    "rgb": [
+      212,
+      162,
+      152
+    ],
+    "hex": "#D4A298",
+    "category": "white"
+  },
+  "7f12c264-649e-4756-916a-de43a2705bd7": {
+    "luminance": 162.3,
+    "rgb": [
+      218,
+      145,
+      106
+    ],
+    "hex": "#DA916A",
+    "category": "white"
+  },
+  "042ea082-2d42-4601-81c5-3d9775a51e08": {
+    "luminance": 102.9,
+    "rgb": [
+      134,
+      92,
+      76
+    ],
+    "hex": "#865C4C",
+    "category": "moreno"
+  },
+  "721eb405-ce17-46b1-8bbc-73a140db3d3d": {
+    "luminance": 114.2,
+    "rgb": [
+      168,
+      97,
+      65
+    ],
+    "hex": "#A86141",
+    "category": "mestizo"
+  },
+  "ab137134-b3a2-467e-8c6d-3825405d563d": {
+    "luminance": 150.2,
+    "rgb": [
+      190,
+      136,
+      121
+    ],
+    "hex": "#BE8879",
+    "category": "white"
+  },
+  "b8f01588-9604-466e-9f7b-5da9e5d2dbf8": {
+    "luminance": 150.1,
+    "rgb": [
+      193,
+      132,
+      125
+    ],
+    "hex": "#C1847D",
+    "category": "white"
+  },
+  "3ea44db8-54a9-4096-99ce-6bcc5a507b6d": {
+    "luminance": 143.0,
+    "rgb": [
+      181,
+      129,
+      113
+    ],
+    "hex": "#B58171",
+    "category": "mestizo"
+  },
+  "3e43dad2-6238-444f-8e67-7ee8bbae533e": {
+    "luminance": 144.9,
+    "rgb": [
+      183,
+      130,
+      118
+    ],
+    "hex": "#B78276",
+    "category": "mestizo"
+  },
+  "8bdeab1c-1b21-493b-bab2-cbcffb14164e": {
+    "luminance": 121.1,
+    "rgb": [
+      164,
+      105,
+      90
+    ],
+    "hex": "#A4695A",
+    "category": "mestizo"
+  },
+  "1391f472-db1a-404b-8d33-4c4323af6b46": {
+    "luminance": 98.2,
+    "rgb": [
+      141,
+      82,
+      64
+    ],
+    "hex": "#8D5240",
+    "category": "moreno"
+  },
+  "8c66b483-4190-4169-9bd9-8c0925c992b2": {
+    "luminance": 131.6,
+    "rgb": [
+      175,
+      116,
+      92
+    ],
+    "hex": "#AF745C",
+    "category": "mestizo"
+  },
+  "7ef42d35-6ca4-407a-8946-2d184cc9a055": {
+    "luminance": 119.1,
+    "rgb": [
+      171,
+      102,
+      80
+    ],
+    "hex": "#AB6650",
+    "category": "mestizo"
+  },
+  "ae08d860-b8f8-443a-98f3-902ff3124150": {
+    "luminance": 158.8,
+    "rgb": [
+      208,
+      142,
+      115
+    ],
+    "hex": "#D08E73",
+    "category": "white"
+  },
+  "08f74e96-d339-4698-8553-3780de98b06e": {
+    "luminance": 176.9,
+    "rgb": [
+      212,
+      169,
+      127
+    ],
+    "hex": "#D4A97F",
+    "category": "white"
+  },
+  "f5b59494-def0-4f3f-b99a-cf948c80042b": {
+    "luminance": 139.2,
+    "rgb": [
+      193,
+      121,
+      93
+    ],
+    "hex": "#C1795D",
+    "category": "mestizo"
+  },
+  "81031187-5296-45ad-8736-445550dd581f": {
+    "luminance": 157.8,
+    "rgb": [
+      187,
+      149,
+      120
+    ],
+    "hex": "#BB9578",
+    "category": "white"
+  },
+  "5fd4543d-f54a-44c6-81e4-d49a6197125c": {
+    "luminance": 116.0,
+    "rgb": [
+      159,
+      101,
+      82
+    ],
+    "hex": "#9F6552",
+    "category": "mestizo"
+  },
+  "56565c15-8b31-4a1c-a768-d80e25f8bb38": {
+    "luminance": 143.0,
+    "rgb": [
+      215,
+      119,
+      75
+    ],
+    "hex": "#D7774B",
+    "category": "mestizo"
+  },
+  "eab07d5f-6c68-47d3-b687-1d9eb34cc091": {
+    "luminance": 93.9,
+    "rgb": [
+      133,
+      80,
+      62
+    ],
+    "hex": "#85503E",
+    "category": "moreno"
+  },
+  "9727ba48-b8d5-4326-afb0-25faa51e524d": {
+    "luminance": 101.7,
+    "rgb": [
+      151,
+      84,
+      62
+    ],
+    "hex": "#97543E",
+    "category": "moreno"
+  },
+  "5d20a4cd-069b-4bef-817d-b6c4e2507ab8": {
+    "luminance": 185.7,
+    "rgb": [
+      236,
+      172,
+      121
+    ],
+    "hex": "#ECAC79",
+    "category": "white"
+  },
+  "d2f99ca8-ab8f-4a05-b346-deb7404a76ce": {
+    "luminance": 149.2,
+    "rgb": [
+      211,
+      126,
+      107
+    ],
+    "hex": "#D37E6B",
+    "category": "mestizo"
+  },
+  "b1287098-e6dc-4597-9334-4def20d5546e": {
+    "luminance": 125.2,
+    "rgb": [
+      175,
+      109,
+      78
+    ],
+    "hex": "#AF6D4E",
+    "category": "mestizo"
+  },
+  "9cf364c4-7142-4194-bbe9-eee227fe0184": {
+    "luminance": 87.8,
+    "rgb": [
+      121,
+      75,
+      61
+    ],
+    "hex": "#794B3D",
+    "category": "moreno"
+  },
+  "66fb5984-7399-4e19-bbb9-a91c4739d425": {
+    "luminance": 117.3,
+    "rgb": [
+      162,
+      102,
+      84
+    ],
+    "hex": "#A26654",
+    "category": "mestizo"
+  },
+  "355ddbfb-d3d5-4fcc-81ba-645e18739157": {
+    "luminance": 145.2,
+    "rgb": [
+      200,
+      128,
+      98
+    ],
+    "hex": "#C88062",
+    "category": "mestizo"
+  },
+  "9fd51b18-de02-4946-8a99-d6143fa93b59": {
+    "luminance": 116.9,
+    "rgb": [
+      182,
+      94,
+      68
+    ],
+    "hex": "#B65E44",
+    "category": "mestizo"
+  },
+  "9d287db1-6e58-4808-a1cd-ba63b299aa7e": {
+    "luminance": 114.9,
+    "rgb": [
+      155,
+      101,
+      81
+    ],
+    "hex": "#9B6551",
+    "category": "mestizo"
+  },
+  "48b3c3a6-703b-4f77-b0d5-b625b5f5639a": {
+    "luminance": 150.1,
+    "rgb": [
+      198,
+      134,
+      107
+    ],
+    "hex": "#C6866B",
+    "category": "white"
+  },
+  "e64efee7-289e-4c6a-afec-49a7f52930ad": {
+    "luminance": 103.7,
+    "rgb": [
+      147,
+      88,
+      67
+    ],
+    "hex": "#935843",
+    "category": "moreno"
+  },
+  "02830ac5-5186-498b-ba4c-855d06a9eb08": {
+    "luminance": 135.9,
+    "rgb": [
+      193,
+      116,
+      86
+    ],
+    "hex": "#C17456",
+    "category": "mestizo"
+  },
+  "d90b78a8-e8a2-497a-8eba-e9e9f0afc8ea": {
+    "luminance": 162.2,
+    "rgb": [
+      199,
+      151,
+      127
+    ],
+    "hex": "#C7977F",
+    "category": "white"
+  },
+  "23551083-abb9-4201-a5ff-b656feaf009a": {
+    "luminance": 155.0,
+    "rgb": [
+      202,
+      139,
+      113
+    ],
+    "hex": "#CA8B71",
+    "category": "white"
+  },
+  "ac338e3c-6c11-456c-a3db-a4239c27c18f": {
+    "luminance": 126.1,
+    "rgb": [
+      170,
+      111,
+      90
+    ],
+    "hex": "#AA6F5A",
+    "category": "mestizo"
+  },
+  "c9d92079-b842-4674-a8a7-2f7806819ddf": {
+    "luminance": 84.1,
+    "rgb": [
+      126,
+      70,
+      48
+    ],
+    "hex": "#7E4630",
+    "category": "moreno"
+  },
+  "b172fb89-4aba-4248-865e-f630ee968b78": {
+    "luminance": 167.2,
+    "rgb": [
+      223,
+      147,
+      124
+    ],
+    "hex": "#DF937C",
+    "category": "white"
+  },
+  "f5c620a8-8639-432f-99d6-919db20dd6fc": {
+    "luminance": 147.7,
+    "rgb": [
+      179,
+      138,
+      116
+    ],
+    "hex": "#B38A74",
+    "category": "mestizo"
+  },
+  "c311b785-ff62-4c5e-8b34-80e7c379dc20": {
+    "luminance": 139.7,
+    "rgb": [
+      169,
+      129,
+      120
+    ],
+    "hex": "#A98178",
+    "category": "mestizo"
+  }
+}

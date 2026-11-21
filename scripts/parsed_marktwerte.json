@@ -1,0 +1,287 @@
+[
+  {
+    "clubName": "",
+    "cells": [
+      "&nbsp;",
+      "&nbsp;",
+      "Valor total de todos los clubes:",
+      "&nbsp;",
+      "133,52 M€",
+      "132,82 M€&nbsp; &nbsp;",
+      "-0,5 %"
+    ],
+    "delta": "",
+    "rawLast": "-0,5 %",
+    "rawSecondLast": "132,82 M€&nbsp; &nbsp;"
+  },
+  {
+    "clubName": "Club Sporting Cristal",
+    "cells": [
+      "1",
+      "",
+      "Club Sporting Cristal",
+      "Liga 1 Clausura",
+      "13,28 M€",
+      "13,63 M€",
+      "2,6 %"
+    ],
+    "delta": "",
+    "rawLast": "2,6 %",
+    "rawSecondLast": "13,63 M€"
+  },
+  {
+    "clubName": "Universitario de Deportes",
+    "cells": [
+      "2",
+      "",
+      "Universitario de Deportes",
+      "Liga 1 Clausura",
+      "14,43 M€",
+      "13,33 M€",
+      "-7,6 %"
+    ],
+    "delta": "",
+    "rawLast": "-7,6 %",
+    "rawSecondLast": "13,33 M€"
+  },
+  {
+    "clubName": "Club Alianza Lima",
+    "cells": [
+      "3",
+      "",
+      "Club Alianza Lima",
+      "Liga 1 Clausura",
+      "13,63 M€",
+      "13,10 M€",
+      "-3,9 %"
+    ],
+    "delta": "",
+    "rawLast": "-3,9 %",
+    "rawSecondLast": "13,10 M€"
+  },
+  {
+    "clubName": "FBC Melgar",
+    "cells": [
+      "4",
+      "",
+      "FBC Melgar",
+      "Liga 1 Clausura",
+      "10,21 M€",
+      "10,49 M€",
+      "2,7 %"
+    ],
+    "delta": "",
+    "rawLast": "2,7 %",
+    "rawSecondLast": "10,49 M€"
+  },
+  {
+    "clubName": "Cusco FC",
+    "cells": [
+      "5",
+      "",
+      "Cusco FC",
+      "Liga 1 Clausura",
+      "8,57 M€",
+      "8,15 M€",
+      "-5,0 %"
+    ],
+    "delta": "",
+    "rawLast": "-5,0 %",
+    "rawSecondLast": "8,15 M€"
+  },
+  {
+    "clubName": "Club Cienciano",
+    "cells": [
+      "6",
+      "",
+      "Club Cienciano",
+      "Liga 1 Clausura",
+      "7,13 M€",
+      "6,98 M€",
+      "-2,1 %"
+    ],
+    "delta": "",
+    "rawLast": "-2,1 %",
+    "rawSecondLast": "6,98 M€"
+  },
+  {
+    "clubName": "Comerciantes Unidos",
+    "cells": [
+      "7",
+      "",
+      "Comerciantes Unidos",
+      "Liga 1 Clausura",
+      "6,70 M€",
+      "6,83 M€",
+      "1,9 %"
+    ],
+    "delta": "",
+    "rawLast": "1,9 %",
+    "rawSecondLast": "6,83 M€"
+  },
+  {
+    "clubName": "Deportivo Garcilaso",
+    "cells": [
+      "8",
+      "",
+      "Deportivo Garcilaso",
+      "Liga 1 Clausura",
+      "6,45 M€",
+      "6,78 M€",
+      "5,0 %"
+    ],
+    "delta": "",
+    "rawLast": "5,0 %",
+    "rawSecondLast": "6,78 M€"
+  },
+  {
+    "clubName": "Alianza Atlético Sullana",
+    "cells": [
+      "9",
+      "",
+      "Alianza Atlético Sullana",
+      "Liga 1 Clausura",
+      "6,28 M€",
+      "6,70 M€",
+      "6,8 %"
+    ],
+    "delta": "",
+    "rawLast": "6,8 %",
+    "rawSecondLast": "6,70 M€"
+  },
+  {
+    "clubName": "Sport Boys Association",
+    "cells": [
+      "10",
+      "",
+      "Sport Boys Association",
+      "Liga 1 Clausura",
+      "6,50 M€",
+      "6,38 M€",
+      "-1,9 %"
+    ],
+    "delta": "",
+    "rawLast": "-1,9 %",
+    "rawSecondLast": "6,38 M€"
+  },
+  {
+    "clubName": "Sport Huancayo",
+    "cells": [
+      "11",
+      "",
+      "Sport Huancayo",
+      "Liga 1 Clausura",
+      "5,93 M€",
+      "6,13 M€",
+      "3,4 %"
+    ],
+    "delta": "",
+    "rawLast": "3,4 %",
+    "rawSecondLast": "6,13 M€"
+  },
+  {
+    "clubName": "Club Juan Pablo II College",
+    "cells": [
+      "12",
+      "",
+      "Club Juan Pablo II College",
+      "Liga 1 Clausura",
+      "5,40 M€",
+      "5,63 M€",
+      "4,2 %"
+    ],
+    "delta": "",
+    "rawLast": "4,2 %",
+    "rawSecondLast": "5,63 M€"
+  },
+  {
+    "clubName": "Club Atlético Grau",
+    "cells": [
+      "13",
+      "",
+      "Club Atlético Grau",
+      "Liga 1 Clausura",
+      "5,23 M€",
+      "5,23 M€",
+      "-"
+    ],
+    "delta": "",
+    "rawLast": "-",
+    "rawSecondLast": "5,23 M€"
+  },
+  {
+    "clubName": "FC Cajamarca",
+    "cells": [
+      "14",
+      "",
+      "FC Cajamarca",
+      "Liga 1 Clausura",
+      "4,93 M€",
+      "5,15 M€",
+      "4,6 %"
+    ],
+    "delta": "",
+    "rawLast": "4,6 %",
+    "rawSecondLast": "5,15 M€"
+  },
+  {
+    "clubName": "Asociación Deportiva Tarma",
+    "cells": [
+      "15",
+      "",
+      "Asociación Deportiva Tarma",
+      "Liga 1 Clausura",
+      "5,26 M€",
+      "5,11 M€",
+      "-2,9 %"
+    ],
+    "delta": "",
+    "rawLast": "-2,9 %",
+    "rawSecondLast": "5,11 M€"
+  },
+  {
+    "clubName": "CD Los Chankas",
+    "cells": [
+      "16",
+      "",
+      "CD Los Chankas",
+      "Liga 1 Clausura",
+      "4,60 M€",
+      "4,50 M€",
+      "-2,2 %"
+    ],
+    "delta": "",
+    "rawLast": "-2,2 %",
+    "rawSecondLast": "4,50 M€"
+  },
+  {
+    "clubName": "Universidad Técnica de Cajamarca",
+    "cells": [
+      "17",
+      "",
+      "Universidad Técnica de Cajamarca",
+      "Liga 1 Clausura",
+      "4,65 M€",
+      "4,43 M€",
+      "-4,8 %"
+    ],
+    "delta": "",
+    "rawLast": "-4,8 %",
+    "rawSecondLast": "4,43 M€"
+  },
+  {
+    "clubName": "Deportivo Moquegua",
+    "cells": [
+      "18",
+      "",
+      "Deportivo Moquegua",
+      "Liga 1 Clausura",
+      "4,38 M€",
+      "4,33 M€",
+      "-1,1 %"
+    ],
+    "delta": "",
+    "rawLast": "-1,1 %",
+    "rawSecondLast": "4,33 M€"
+  }
+]

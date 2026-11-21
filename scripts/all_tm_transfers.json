@@ -1,0 +1,1843 @@
+{
+  "universitario": {
+    "name": "Universitario de Deportes",
+    "vereinId": 6593,
+    "altas": [],
+    "bajas": [
+      {
+        "player": "Rodrigo Ureña",
+        "pos": "Pivote",
+        "age": "32",
+        "nat": "Perú",
+        "club": "Millonarios FC",
+        "fee": "213 mil €"
+      },
+      {
+        "player": "Marco Saravia",
+        "pos": "Defensa central",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Defensor Sporting Club",
+        "fee": "Libre"
+      },
+      {
+        "player": "José Bolívar",
+        "pos": "Lateral izquierdo",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Cusco FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Piero Guzmán",
+        "pos": "Defensa central",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Comerciantes Unidos",
+        "fee": "Libre"
+      },
+      {
+        "player": "Alfonso Barco",
+        "pos": "Pivote",
+        "age": "23",
+        "nat": "Perú",
+        "club": "CS Emelec",
+        "fee": "Libre"
+      },
+      {
+        "player": "Sebastián Britos",
+        "pos": "Portero",
+        "age": "37",
+        "nat": "Perú",
+        "club": "CA Peñarol",
+        "fee": "Libre"
+      },
+      {
+        "player": "Diego Churín",
+        "pos": "Delantero centro",
+        "age": "36",
+        "nat": "Perú",
+        "club": "CA Sarmiento (Junín)",
+        "fee": "Libre"
+      },
+      {
+        "player": "Rafael Guzmán",
+        "pos": "Defensa central",
+        "age": "18",
+        "nat": "Perú",
+        "club": "Real Betis Balompié Juvenil A",
+        "fee": "?"
+      },
+      {
+        "player": "Álvaro Rojas",
+        "pos": "Mediocentro",
+        "age": "20",
+        "nat": "Perú",
+        "club": "Club Cienciano",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Gustavo Dulanto",
+        "pos": "Defensa central",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Sport Boys Association",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Gustavo Dulanto",
+        "pos": "Defensa central",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Asociación Deportiva Tarma",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Yuriel Celi",
+        "pos": "Mediocentro ofensivo",
+        "age": "24",
+        "nat": "Perú",
+        "club": "Sport Boys Association",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Josué Torres",
+        "pos": "Extremo izquierdo",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Estudiantil CNI",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Aamet Calderón",
+        "pos": "Portero",
+        "age": "27",
+        "nat": "Perú",
+        "club": "Club Atlético Grau",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Julinho Astudillo",
+        "pos": "Defensa central",
+        "age": "20",
+        "nat": "Perú",
+        "club": "Cusco FC",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Esteban Cruz",
+        "pos": "Pivote",
+        "age": "19",
+        "nat": "Perú",
+        "club": "CD Unión Comercio",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Nicolás Rengifo",
+        "pos": "Delantero centro",
+        "age": "18",
+        "nat": "Perú",
+        "club": "Asociación Deportiva Tarma",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Gabriel Costa",
+        "pos": "Extremo derecho",
+        "age": "35",
+        "nat": "Perú",
+        "club": "Sin equipo",
+        "fee": "-"
+      },
+      {
+        "player": "Jairo Vélez",
+        "pos": "Mediocentro ofensivo",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Universidad César Vallejo",
+        "fee": "Fin de cesión31/12/2025"
+      }
+    ]
+  },
+  "alianza-lima": {
+    "name": "Club Alianza Lima",
+    "vereinId": 184,
+    "altas": [],
+    "bajas": []
+  },
+  "sporting-cristal": {
+    "name": "Sporting Cristal",
+    "vereinId": 1450,
+    "altas": [],
+    "bajas": []
+  },
+  "fbc-melgar": {
+    "name": "FBC Melgar",
+    "vereinId": 2734,
+    "altas": [],
+    "bajas": []
+  },
+  "cusco-fc": {
+    "name": "Cusco FC",
+    "vereinId": 28999,
+    "altas": [
+      {
+        "player": "Gu-rum Choi",
+        "pos": "Defensa central",
+        "age": "27",
+        "nat": "Perú",
+        "club": "Asociación Deportiva Tarma",
+        "fee": "Libre"
+      },
+      {
+        "player": "Diego Soto",
+        "pos": "Mediocentro",
+        "age": "24",
+        "nat": "Perú",
+        "club": "Club Atlético Grau",
+        "fee": "Libre"
+      },
+      {
+        "player": "José Bolívar",
+        "pos": "Lateral izquierdo",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Universitario de Deportes",
+        "fee": "Libre"
+      },
+      {
+        "player": "José Manzaneda",
+        "pos": "Extremo izquierdo",
+        "age": "31",
+        "nat": "Perú",
+        "club": "CD Los Chankas",
+        "fee": "Libre"
+      },
+      {
+        "player": "Anthony Aoki",
+        "pos": "Pivote",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Alianza Universidad",
+        "fee": "Libre"
+      },
+      {
+        "player": "Gabriel Carabajal",
+        "pos": "Mediocentro ofensivo",
+        "age": "35",
+        "nat": "Perú",
+        "club": "Quilmes AC",
+        "fee": "Libre"
+      },
+      {
+        "player": "José Alí",
+        "pos": "Extremo izquierdo",
+        "age": "20",
+        "nat": "Perú",
+        "club": "Real Oruro",
+        "fee": "Libre"
+      },
+      {
+        "player": "Alessandro Cavagna",
+        "pos": "Portero",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Universidad San Martín de Porres",
+        "fee": "Libre"
+      },
+      {
+        "player": "Alex Custodio",
+        "pos": "Defensa central",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Deportivo La Guaira",
+        "fee": "?"
+      },
+      {
+        "player": "Joel Herrera",
+        "pos": "Extremo derecho",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Club Sporting Cristal II",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Julinho Astudillo",
+        "pos": "Defensa central",
+        "age": "20",
+        "nat": "Perú",
+        "club": "Universitario de Deportes",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Sergio Quillahuaman",
+        "pos": "Mediocentro ofensivo",
+        "age": "18",
+        "nat": "Perú",
+        "club": "Cusco FC II",
+        "fee": "-"
+      },
+      {
+        "player": "Luis Ramos",
+        "pos": "Delantero centro",
+        "age": "26",
+        "nat": "Perú",
+        "club": "CD América de Cali",
+        "fee": "Fin de cesión31/12/2025"
+      }
+    ],
+    "bajas": [
+      {
+        "player": "Luis Ramos",
+        "pos": "Delantero centro",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Club Alianza Lima",
+        "fee": "846 mil €"
+      },
+      {
+        "player": "Alessandro Milesi",
+        "pos": "Lateral izquierdo",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Miami FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Pierre da Silva",
+        "pos": "Extremo derecho",
+        "age": "27",
+        "nat": "Perú",
+        "club": "Brooklyn FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Pablo Cárdenas",
+        "pos": "Lateral derecho",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Comerciantes Unidos",
+        "fee": "Libre"
+      },
+      {
+        "player": "Santiago Gálvez",
+        "pos": "Extremo derecho",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Universidad Técnica de Cajamarca",
+        "fee": "Libre"
+      },
+      {
+        "player": "Eslyn Correa",
+        "pos": "Mediocentro",
+        "age": "20",
+        "nat": "Perú",
+        "club": "Club Atlético Grau",
+        "fee": "Libre"
+      },
+      {
+        "player": "Sebastián Zarabia",
+        "pos": "Mediocentro",
+        "age": "20",
+        "nat": "Perú",
+        "club": "CD Los Chankas",
+        "fee": "Libre"
+      },
+      {
+        "player": "Anthony Aoki",
+        "pos": "Pivote",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Sin equipo",
+        "fee": "-"
+      },
+      {
+        "player": "Marco Saravia",
+        "pos": "Defensa central",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Universitario de Deportes",
+        "fee": "Fin de cesión18/07/2025"
+      },
+      {
+        "player": "Alex Custodio",
+        "pos": "Defensa central",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Deportivo La Guaira",
+        "fee": "Fin de cesión31/12/2025"
+      },
+      {
+        "player": "Julián Aquino",
+        "pos": "Mediocentro ofensivo",
+        "age": "21",
+        "nat": "Perú",
+        "club": "CA Newell&#039;s Old Boys II",
+        "fee": "Fin de cesión31/12/2025"
+      }
+    ]
+  },
+  "cienciano": {
+    "name": "Club Cienciano",
+    "vereinId": 2729,
+    "altas": [],
+    "bajas": []
+  },
+  "comerciantes-unidos": {
+    "name": "Comerciantes Unidos",
+    "vereinId": 47107,
+    "altas": [],
+    "bajas": []
+  },
+  "sport-boys": {
+    "name": "Sport Boys Association",
+    "vereinId": 2730,
+    "altas": [],
+    "bajas": []
+  },
+  "deportivo-garcilaso": {
+    "name": "Deportivo Garcilaso",
+    "vereinId": 76945,
+    "altas": [
+      {
+        "player": "Agustín Gómez",
+        "pos": "Defensa central",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Deportivo Cuenca",
+        "fee": "Libre"
+      },
+      {
+        "player": "Agustín Graneros",
+        "pos": "Delantero centro",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Alianza Atlético Sullana",
+        "fee": "Libre"
+      },
+      {
+        "player": "Christopher Olivares",
+        "pos": "Delantero centro",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Club Atlético Grau",
+        "fee": "Libre"
+      },
+      {
+        "player": "Horacio Benincasa",
+        "pos": "Defensa central",
+        "age": "31",
+        "nat": "Perú",
+        "club": "Alianza Atlético Sullana",
+        "fee": "Libre"
+      },
+      {
+        "player": "Beto da Silva",
+        "pos": "Extremo izquierdo",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Club Cienciano",
+        "fee": "Libre"
+      },
+      {
+        "player": "Francisco Arancibia",
+        "pos": "Extremo derecho",
+        "age": "28",
+        "nat": "Perú",
+        "club": "CD Universidad Católica",
+        "fee": "Libre"
+      },
+      {
+        "player": "Adrián Ascues",
+        "pos": "Mediocentro ofensivo",
+        "age": "23",
+        "nat": "Perú",
+        "club": "Club Cienciano",
+        "fee": "Libre"
+      },
+      {
+        "player": "Agustín González",
+        "pos": "Mediocentro",
+        "age": "28",
+        "nat": "Perú",
+        "club": "Liverpool FC Montevideo",
+        "fee": "Libre"
+      },
+      {
+        "player": "Claudio Torrejón",
+        "pos": "Pivote",
+        "age": "32",
+        "nat": "Perú",
+        "club": "Club Cienciano",
+        "fee": "Libre"
+      },
+      {
+        "player": "Jefferson Portales",
+        "pos": "Defensa central",
+        "age": "27",
+        "nat": "Perú",
+        "club": "Universidad César Vallejo",
+        "fee": "Libre"
+      },
+      {
+        "player": "José Sinisterra",
+        "pos": "Delantero centro",
+        "age": "27",
+        "nat": "Perú",
+        "club": "Oakland Roots SC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Sharif Ramírez",
+        "pos": "Mediocentro ofensivo",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Club Cienciano",
+        "fee": "Libre"
+      },
+      {
+        "player": "Paulo Rodríguez",
+        "pos": "Delantero centro",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Asociación Deportiva Tarma",
+        "fee": "Libre"
+      },
+      {
+        "player": "José Gallardo",
+        "pos": "Lateral derecho",
+        "age": "24",
+        "nat": "Perú",
+        "club": "Deportivo Llacuabamba",
+        "fee": "?"
+      },
+      {
+        "player": "Carlos Ramos",
+        "pos": "Mediocentro",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Carabobo FC",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Bryan Yupanqui",
+        "pos": "Delantero centro",
+        "age": "18",
+        "nat": "Perú",
+        "club": "Deportivo Garcilaso II",
+        "fee": "-"
+      }
+    ],
+    "bajas": [
+      {
+        "player": "Pablo Erustes",
+        "pos": "Delantero centro",
+        "age": "31",
+        "nat": "Perú",
+        "club": "FBC Melgar",
+        "fee": "Libre"
+      },
+      {
+        "player": "Enmanuel Páucar",
+        "pos": "Pivote",
+        "age": "29",
+        "nat": "Perú",
+        "club": "FC Cajamarca",
+        "fee": "Libre"
+      },
+      {
+        "player": "Cristian García",
+        "pos": "Pivote",
+        "age": "28",
+        "nat": "Perú",
+        "club": "CA Colón",
+        "fee": "Libre"
+      },
+      {
+        "player": "José Gallardo",
+        "pos": "Lateral derecho",
+        "age": "24",
+        "nat": "Perú",
+        "club": "FC Cajamarca",
+        "fee": "Libre"
+      },
+      {
+        "player": "Carlos Beltrán",
+        "pos": "Defensa central",
+        "age": "35",
+        "nat": "Perú",
+        "club": "Universidad César Vallejo",
+        "fee": "Libre"
+      },
+      {
+        "player": "Jorge Bazán",
+        "pos": "Extremo derecho",
+        "age": "34",
+        "nat": "Perú",
+        "club": "Comerciantes FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Juan Diego Lojas",
+        "pos": "Defensa central",
+        "age": "36",
+        "nat": "Perú",
+        "club": "Deportivo Moquegua",
+        "fee": "Libre"
+      },
+      {
+        "player": "Miguel Ramírez",
+        "pos": "Portero",
+        "age": "34",
+        "nat": "Perú",
+        "club": "Unión Minas de Pamputa",
+        "fee": "Libre"
+      },
+      {
+        "player": "Jean Franco Valer",
+        "pos": "Extremo derecho",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Defensor Arguedas ",
+        "fee": "Libre"
+      },
+      {
+        "player": "Frank Avendaño",
+        "pos": "Defensa central",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Defensor Arguedas ",
+        "fee": "Libre"
+      },
+      {
+        "player": "Ignacio Gariglio",
+        "pos": "Defensa central",
+        "age": "27",
+        "nat": "Perú",
+        "club": "Club Bolívar",
+        "fee": "?"
+      },
+      {
+        "player": "Adrián Ugarriza",
+        "pos": "Delantero centro",
+        "age": "28",
+        "nat": "Perú",
+        "club": "Ironi Kiryat Shmona",
+        "fee": "?"
+      },
+      {
+        "player": "Ezequiel Naya",
+        "pos": "Delantero centro",
+        "age": "24",
+        "nat": "Perú",
+        "club": "Club Estudiantes de La Plata",
+        "fee": "Fin de cesión31/12/2025"
+      },
+      {
+        "player": "Yuriel Celi",
+        "pos": "Mediocentro ofensivo",
+        "age": "23",
+        "nat": "Perú",
+        "club": "Universitario de Deportes",
+        "fee": "Fin de cesión31/12/2025"
+      },
+      {
+        "player": "Nicolás Gómez",
+        "pos": "Mediocentro",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Club Ferro Carril Oeste",
+        "fee": "Fin de cesión31/12/2025"
+      }
+    ]
+  },
+  "alianza-atletico": {
+    "name": "Alianza Atlético Sullana",
+    "vereinId": 17479,
+    "altas": [],
+    "bajas": [
+      {
+        "player": "Agustín Graneros",
+        "pos": "Delantero centro",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Deportivo Garcilaso",
+        "fee": "Libre"
+      },
+      {
+        "player": "Yordi Vílchez",
+        "pos": "Defensa central",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Comerciantes Unidos",
+        "fee": "Libre"
+      },
+      {
+        "player": "Jeremy Canela",
+        "pos": "Extremo derecho",
+        "age": "27",
+        "nat": "Perú",
+        "club": "Alianza Universidad",
+        "fee": "Libre"
+      },
+      {
+        "player": "Horacio Benincasa",
+        "pos": "Defensa central",
+        "age": "31",
+        "nat": "Perú",
+        "club": "Deportivo Garcilaso",
+        "fee": "Libre"
+      },
+      {
+        "player": "Federico Illanes",
+        "pos": "Pivote",
+        "age": "31",
+        "nat": "Perú",
+        "club": "Sport Boys Association",
+        "fee": "Libre"
+      },
+      {
+        "player": "Renato Espinosa",
+        "pos": "Delantero centro",
+        "age": "27",
+        "nat": "Perú",
+        "club": "AFC Unirea 04 Slobozia",
+        "fee": "Libre"
+      },
+      {
+        "player": "Christian Vásquez",
+        "pos": "Lateral derecho",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Comerciantes Unidos",
+        "fee": "Libre"
+      },
+      {
+        "player": "Rodrigo Castro",
+        "pos": "Mediocentro ofensivo",
+        "age": "32",
+        "nat": "Perú",
+        "club": "CA Agropecuario",
+        "fee": "Libre"
+      },
+      {
+        "player": "Diego Melián",
+        "pos": "Portero",
+        "age": "34",
+        "nat": "Perú",
+        "club": "Sport Boys Association",
+        "fee": "Libre"
+      },
+      {
+        "player": "Alexis Cossio",
+        "pos": "Lateral izquierdo",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Comerciantes Unidos",
+        "fee": "Libre"
+      },
+      {
+        "player": "Rolando Díaz",
+        "pos": "Delantero centro",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Sport Boys Association",
+        "fee": "Libre"
+      },
+      {
+        "player": "Sebastián Amasifuén",
+        "pos": "Portero",
+        "age": "21",
+        "nat": "Perú",
+        "club": "CD Unión Comercio",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Álvaro Guevara",
+        "pos": "Delantero centro",
+        "age": "20",
+        "nat": "Perú",
+        "club": "Sin equipo",
+        "fee": "-"
+      },
+      {
+        "player": "Luis Olmedo",
+        "pos": "Extremo izquierdo",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Club Deportivo Armenio",
+        "fee": "Fin de cesión31/12/2025"
+      },
+      {
+        "player": "Frank Ysique",
+        "pos": "Pivote",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Universidad César Vallejo",
+        "fee": "Fin de cesión31/12/2025"
+      },
+      {
+        "player": "Piero Guzmán",
+        "pos": "Defensa central",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Universitario de Deportes",
+        "fee": "Fin de cesión31/12/2025"
+      },
+      {
+        "player": "Abraham Aguinaga",
+        "pos": "Mediocentro ofensivo",
+        "age": "23",
+        "nat": "Perú",
+        "club": "FBC Melgar",
+        "fee": "Fin de cesión31/12/2025"
+      },
+      {
+        "player": "Mauro Pérez",
+        "pos": "Delantero centro",
+        "age": "22",
+        "nat": "Perú",
+        "club": "CA San Lorenzo de Almagro",
+        "fee": "Fin de cesión31/12/2025"
+      },
+      {
+        "player": "Luis Navea",
+        "pos": "Mediocentro ofensivo",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Club Alianza Lima",
+        "fee": "Fin de cesión30/06/2025"
+      },
+      {
+        "player": "Sebastián Amasifuén",
+        "pos": "Portero",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Club Alianza Lima",
+        "fee": "Fin de cesión31/12/2025"
+      }
+    ]
+  },
+  "sport-huancayo": {
+    "name": "Sport Huancayo",
+    "vereinId": 21655,
+    "altas": [
+      {
+        "player": "Diego Campos",
+        "pos": "Portero",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Universidad Técnica de Cajamarca",
+        "fee": "Libre"
+      },
+      {
+        "player": "Jeremy Canela",
+        "pos": "Extremo derecho",
+        "age": "27",
+        "nat": "Perú",
+        "club": "Alianza Universidad",
+        "fee": "Libre"
+      },
+      {
+        "player": "Jeremy Rostaing",
+        "pos": "Lateral derecho",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Club Atlético Grau",
+        "fee": "Libre"
+      },
+      {
+        "player": "Jean Franco Falconí",
+        "pos": "Lateral derecho",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Ayacucho FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Rick Campodónico",
+        "pos": "Extremo izquierdo",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Alianza Universidad",
+        "fee": "Libre"
+      },
+      {
+        "player": "Yorleys Mena",
+        "pos": "Delantero centro",
+        "age": "34",
+        "nat": "Perú",
+        "club": "Alianza Universidad",
+        "fee": "Libre"
+      },
+      {
+        "player": "Massimo Sandi",
+        "pos": "Portero",
+        "age": "23",
+        "nat": "Perú",
+        "club": "FC Cajamarca",
+        "fee": "Libre"
+      },
+      {
+        "player": "Franco Caballero",
+        "pos": "Delantero centro",
+        "age": "32",
+        "nat": "Perú",
+        "club": "Ayacucho FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Jimmy Valoyes",
+        "pos": "Defensa central",
+        "age": "39",
+        "nat": "Perú",
+        "club": "Club Cienciano",
+        "fee": "Libre"
+      },
+      {
+        "player": "Gustavo Rissi",
+        "pos": "Defensa central",
+        "age": "28",
+        "nat": "Perú",
+        "club": "azul claro Numazu",
+        "fee": "Libre"
+      },
+      {
+        "player": "Willy Díaz",
+        "pos": "Portero",
+        "age": "32",
+        "nat": "Perú",
+        "club": "CD Los Chankas",
+        "fee": "Fin de cesión31/12/2025"
+      }
+    ],
+    "bajas": [
+      {
+        "player": "Sergio Barboza",
+        "pos": "Extremo derecho",
+        "age": "24",
+        "nat": "Perú",
+        "club": "Ayacucho FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Johan Madrid",
+        "pos": "Lateral derecho",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Universidad César Vallejo",
+        "fee": "Libre"
+      },
+      {
+        "player": "Josuee Herrera",
+        "pos": "Extremo izquierdo",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Comerciantes Unidos",
+        "fee": "Libre"
+      },
+      {
+        "player": "Enzo Fernández",
+        "pos": "Extremo derecho",
+        "age": "29",
+        "nat": "Perú",
+        "club": "CS Cartaginés",
+        "fee": "Libre"
+      },
+      {
+        "player": "Miguel Carranza",
+        "pos": "Extremo derecho",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Comerciantes Unidos",
+        "fee": "Libre"
+      },
+      {
+        "player": "Marlon de Jesús",
+        "pos": "Delantero centro",
+        "age": "34",
+        "nat": "Perú",
+        "club": "Universidad Técnica de Cajamarca",
+        "fee": "Libre"
+      },
+      {
+        "player": "Willy Díaz",
+        "pos": "Portero",
+        "age": "32",
+        "nat": "Perú",
+        "club": "Alianza Universidad",
+        "fee": "Libre"
+      },
+      {
+        "player": "Alan Pérez",
+        "pos": "Defensa central",
+        "age": "34",
+        "nat": "Perú",
+        "club": "CA Defensores de Belgrano",
+        "fee": "Libre"
+      },
+      {
+        "player": "Cris Huyhua",
+        "pos": "Lateral izquierdo",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Ayacucho FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Janio Pósito",
+        "pos": "Delantero centro",
+        "age": "36",
+        "nat": "Perú",
+        "club": "CD Los Chankas",
+        "fee": "Libre"
+      },
+      {
+        "player": "Carlos Solís",
+        "pos": "Portero",
+        "age": "35",
+        "nat": "Perú",
+        "club": "Asociación Deportiva Tarma",
+        "fee": "Libre"
+      },
+      {
+        "player": "Diego Mesones",
+        "pos": "Lateral izquierdo",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Juventud Cautivo",
+        "fee": "Libre"
+      },
+      {
+        "player": "Willy Díaz",
+        "pos": "Portero",
+        "age": "32",
+        "nat": "Perú",
+        "club": "CD Los Chankas",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Carlos Jiménez",
+        "pos": "Extremo derecho",
+        "age": "28",
+        "nat": "Perú",
+        "club": "Sport Huancayo II",
+        "fee": "-"
+      },
+      {
+        "player": "Cristian Mendoza",
+        "pos": "Mediocentro ofensivo",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Sport Huancayo II",
+        "fee": "-"
+      },
+      {
+        "player": "José Meza",
+        "pos": "Pivote",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Sport Huancayo II",
+        "fee": "-"
+      },
+      {
+        "player": "Luis Torres",
+        "pos": "Defensa central",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Sport Huancayo II",
+        "fee": "-"
+      },
+      {
+        "player": "Yimy Gamero",
+        "pos": "Pivote",
+        "age": "23",
+        "nat": "Perú",
+        "club": "FBC Melgar",
+        "fee": "Fin de cesión30/06/2025"
+      }
+    ]
+  },
+  "juan-pablo-ii": {
+    "name": "Club Juan Pablo II College",
+    "vereinId": 99517,
+    "altas": [],
+    "bajas": []
+  },
+  "adt-tarma": {
+    "name": "Asociación Deportiva Tarma",
+    "vereinId": 35588,
+    "altas": [],
+    "bajas": [
+      {
+        "player": "Gu-rum Choi",
+        "pos": "Defensa central",
+        "age": "27",
+        "nat": "Perú",
+        "club": "Cusco FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Carlos Grados",
+        "pos": "Portero",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Deportivo Moquegua",
+        "fee": "Libre"
+      },
+      {
+        "player": "Mauro Da Luz",
+        "pos": "Extremo derecho",
+        "age": "31",
+        "nat": "Perú",
+        "club": "CA Aldosivi",
+        "fee": "Libre"
+      },
+      {
+        "player": "Paolo Fuentes",
+        "pos": "Defensa central",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Alianza Universidad",
+        "fee": "Libre"
+      },
+      {
+        "player": "Óscar Pinto",
+        "pos": "Extremo izquierdo",
+        "age": "23",
+        "nat": "Perú",
+        "club": "Comerciantes Unidos",
+        "fee": "Libre"
+      },
+      {
+        "player": "Gerson Barreto",
+        "pos": "Mediocentro",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Club Cienciano",
+        "fee": "Libre"
+      },
+      {
+        "player": "Fernando Bersano",
+        "pos": "Lateral izquierdo",
+        "age": "28",
+        "nat": "Perú",
+        "club": "AA Estudiantes (Río Cuarto)",
+        "fee": "Libre"
+      },
+      {
+        "player": "Carlos Ascues",
+        "pos": "Mediocentro",
+        "age": "33",
+        "nat": "Perú",
+        "club": "Alianza Universidad",
+        "fee": "Libre"
+      },
+      {
+        "player": "Ademar Robles",
+        "pos": "Mediocentro",
+        "age": "31",
+        "nat": "Perú",
+        "club": "Club Cienciano",
+        "fee": "Libre"
+      },
+      {
+        "player": "Ángel Pérez",
+        "pos": "Pivote",
+        "age": "36",
+        "nat": "Perú",
+        "club": "Bentín Tacna Heroica",
+        "fee": "Libre"
+      },
+      {
+        "player": "Éder Hermoza",
+        "pos": "Portero",
+        "age": "35",
+        "nat": "Perú",
+        "club": "Estudiantil CNI",
+        "fee": "Libre"
+      },
+      {
+        "player": "Paulo Rodríguez",
+        "pos": "Delantero centro",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Deportivo Garcilaso",
+        "fee": "Libre"
+      },
+      {
+        "player": "Edú Azañero",
+        "pos": "Portero",
+        "age": "25",
+        "nat": "Perú",
+        "club": "ADA Cajabamba",
+        "fee": "Libre"
+      },
+      {
+        "player": "D&#039;Alessandro Montenegro",
+        "pos": "Lateral derecho",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Club Alianza Lima",
+        "fee": "?"
+      },
+      {
+        "player": "Jhonny Vidales",
+        "pos": "Delantero centro",
+        "age": "33",
+        "nat": "Perú",
+        "club": "FBC Melgar",
+        "fee": "?"
+      },
+      {
+        "player": "Adrián Fernández",
+        "pos": "Delantero centro",
+        "age": "33",
+        "nat": "Perú",
+        "club": "Sin equipo",
+        "fee": "-"
+      },
+      {
+        "player": "Axel Moyano",
+        "pos": "Pivote",
+        "age": "24",
+        "nat": "Perú",
+        "club": "Sin equipo",
+        "fee": "-"
+      },
+      {
+        "player": "Nazareno Bazán",
+        "pos": "Delantero centro",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Club Almirante Brown",
+        "fee": "-"
+      },
+      {
+        "player": "Gonzalo Desio",
+        "pos": "Pivote",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Sin equipo",
+        "fee": "-"
+      },
+      {
+        "player": "Gustavo Dulanto",
+        "pos": "Defensa central",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Universitario de Deportes",
+        "fee": "Fin de cesión31/12/2025"
+      }
+    ]
+  },
+  "los-chankas": {
+    "name": "CD Los Chankas CYC",
+    "vereinId": 54478,
+    "altas": [
+      {
+        "player": "Jarlín Quintero",
+        "pos": "Delantero centro",
+        "age": "32",
+        "nat": "Perú",
+        "club": "Universidad Técnica de Cajamarca",
+        "fee": "Libre"
+      },
+      {
+        "player": "Brayan Guevara",
+        "pos": "Lateral izquierdo",
+        "age": "27",
+        "nat": "Perú",
+        "club": "Alianza Universidad",
+        "fee": "Libre"
+      },
+      {
+        "player": "Kelvin Sánchez",
+        "pos": "Pivote",
+        "age": "26",
+        "nat": "Perú",
+        "club": "CD Unión Comercio",
+        "fee": "Libre"
+      },
+      {
+        "player": "Gonzalo Rizzo",
+        "pos": "Defensa central",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Carlos A. Mannucci",
+        "fee": "Libre"
+      },
+      {
+        "player": "Kenyi Barrios",
+        "pos": "Extremo derecho",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Ayacucho FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Félix Espinoza",
+        "pos": "Extremo derecho",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Alianza Universidad",
+        "fee": "Libre"
+      },
+      {
+        "player": "Braian Rivero",
+        "pos": "Mediocentro",
+        "age": "29",
+        "nat": "Perú",
+        "club": "CSD Defensa y Justicia",
+        "fee": "Libre"
+      },
+      {
+        "player": "Marlon Torres",
+        "pos": "Delantero centro",
+        "age": "23",
+        "nat": "Perú",
+        "club": "Bentín Tacna Heroica",
+        "fee": "Libre"
+      },
+      {
+        "player": "Ronald Vega",
+        "pos": "Defensa central",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Deportivo Llacuabamba",
+        "fee": "Libre"
+      },
+      {
+        "player": "Michael Kaufman",
+        "pos": "Defensa central",
+        "age": "23",
+        "nat": "Perú",
+        "club": "Bentín Tacna Heroica",
+        "fee": "Libre"
+      },
+      {
+        "player": "Luis Pretel",
+        "pos": "Portero",
+        "age": "23",
+        "nat": "Perú",
+        "club": "Bentín Tacna Heroica",
+        "fee": "Libre"
+      },
+      {
+        "player": "Janio Pósito",
+        "pos": "Delantero centro",
+        "age": "36",
+        "nat": "Perú",
+        "club": "Sport Huancayo",
+        "fee": "Libre"
+      },
+      {
+        "player": "Abdiel Ayarza",
+        "pos": "Mediocentro",
+        "age": "33",
+        "nat": "Perú",
+        "club": "Club The Strongest",
+        "fee": "Libre"
+      },
+      {
+        "player": "Juan Diego Ospina",
+        "pos": "Extremo derecho",
+        "age": "24",
+        "nat": "Perú",
+        "club": "Club Boca Juniors de Cali",
+        "fee": "Libre"
+      },
+      {
+        "player": "Sebastián Zarabia",
+        "pos": "Mediocentro",
+        "age": "20",
+        "nat": "Perú",
+        "club": "Cusco FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "José Cárdenas",
+        "pos": "Defensa central",
+        "age": "19",
+        "nat": "Perú",
+        "club": "Desconocido",
+        "fee": "Libre"
+      },
+      {
+        "player": "Willy Díaz",
+        "pos": "Portero",
+        "age": "32",
+        "nat": "Perú",
+        "club": "Sport Huancayo",
+        "fee": "Cesión"
+      },
+      {
+        "player": "David Dioses",
+        "pos": "Pivote",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Sin equipo",
+        "fee": "-"
+      }
+    ],
+    "bajas": [
+      {
+        "player": "Jordan Guivin",
+        "pos": "Mediocentro",
+        "age": "27",
+        "nat": "Perú",
+        "club": "Asociación Deportiva Tarma",
+        "fee": "Libre"
+      },
+      {
+        "player": "José Manzaneda",
+        "pos": "Extremo izquierdo",
+        "age": "31",
+        "nat": "Perú",
+        "club": "Cusco FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Flavio Fernández",
+        "pos": "Extremo derecho",
+        "age": "24",
+        "nat": "Perú",
+        "club": "Club Juan Pablo II College",
+        "fee": "Libre"
+      },
+      {
+        "player": "Kevin Sánchez",
+        "pos": "Delantero centro",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Universidad San Martín de Porres",
+        "fee": "Libre"
+      },
+      {
+        "player": "David Dioses",
+        "pos": "Pivote",
+        "age": "29",
+        "nat": "Perú",
+        "club": "Universidad Técnica de Cajamarca",
+        "fee": "Libre"
+      },
+      {
+        "player": "Santiago Torres González",
+        "pos": "Extremo derecho",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Club Atlético Grau",
+        "fee": "Libre"
+      },
+      {
+        "player": "Leonardo Mifflin",
+        "pos": "Pivote",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Deportivo Binacional",
+        "fee": "Libre"
+      },
+      {
+        "player": "Josue Tunqui",
+        "pos": "Mediocentro ofensivo",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Deportivo Llacuabamba",
+        "fee": "Libre"
+      },
+      {
+        "player": "Braian Rivero",
+        "pos": "Mediocentro",
+        "age": "29",
+        "nat": "Perú",
+        "club": "CA Atlanta",
+        "fee": "Libre"
+      },
+      {
+        "player": "Ederson Mogollón",
+        "pos": "Defensa central",
+        "age": "33",
+        "nat": "Perú",
+        "club": "Alianza Universidad",
+        "fee": "Libre"
+      },
+      {
+        "player": "Ronald Vega",
+        "pos": "Defensa central",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Estudiantil CNI",
+        "fee": "Libre"
+      },
+      {
+        "player": "Pablo Bueno",
+        "pos": "Delantero centro",
+        "age": "35",
+        "nat": "Perú",
+        "club": "Estudiantil CNI",
+        "fee": "Libre"
+      },
+      {
+        "player": "Fred Zamalloa",
+        "pos": "Lateral derecho",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Club Unión Minas",
+        "fee": "Libre"
+      },
+      {
+        "player": "Antony Sánchez",
+        "pos": "Portero",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Defensor Arguedas ",
+        "fee": "Libre"
+      },
+      {
+        "player": "Franz Schmidt",
+        "pos": "Defensa central",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Sin equipo",
+        "fee": "-"
+      },
+      {
+        "player": "Ángelo Pizzorno",
+        "pos": "Defensa central",
+        "age": "33",
+        "nat": "Perú",
+        "club": "Sin equipo",
+        "fee": "-"
+      },
+      {
+        "player": "José Zurita",
+        "pos": "Mediocentro",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Sin equipo",
+        "fee": "-"
+      },
+      {
+        "player": "Isaac Camargo",
+        "pos": "Delantero centro",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Unión Magdalena",
+        "fee": "Fin de cesión31/12/2025"
+      },
+      {
+        "player": "Willy Díaz",
+        "pos": "Portero",
+        "age": "32",
+        "nat": "Perú",
+        "club": "Sport Huancayo",
+        "fee": "Fin de cesión31/12/2025"
+      }
+    ]
+  },
+  "atletico-grau": {
+    "name": "Club Atlético Grau",
+    "vereinId": 27861,
+    "altas": [
+      {
+        "player": "Freddy Oncoy",
+        "pos": "Mediocentro",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Universidad Técnica de Cajamarca",
+        "fee": "Libre"
+      },
+      {
+        "player": "Ignacio Tapia",
+        "pos": "Defensa central",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Universidad de Chile",
+        "fee": "Libre"
+      },
+      {
+        "player": "Santiago Torres González",
+        "pos": "Extremo derecho",
+        "age": "25",
+        "nat": "Perú",
+        "club": "CD Los Chankas",
+        "fee": "Libre"
+      },
+      {
+        "player": "Emiliano Franco",
+        "pos": "Mediocentro",
+        "age": "31",
+        "nat": "Perú",
+        "club": "Club Deportivo Morón",
+        "fee": "Libre"
+      },
+      {
+        "player": "Gabriel Alfaro",
+        "pos": "Lateral izquierdo",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Club Sporting Cristal",
+        "fee": "Libre"
+      },
+      {
+        "player": "Nicolás Delgadillo",
+        "pos": "Extremo izquierdo",
+        "age": "28",
+        "nat": "Perú",
+        "club": "Deportivo Saprissa",
+        "fee": "Libre"
+      },
+      {
+        "player": "José Ataupillco",
+        "pos": "Defensa central",
+        "age": "24",
+        "nat": "Perú",
+        "club": "Ayacucho FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Adrián de la Cruz",
+        "pos": "Mediocentro",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Ayacucho FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Yamir Ruidíaz",
+        "pos": "Delantero centro",
+        "age": "23",
+        "nat": "Perú",
+        "club": "Ayacucho FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Eslyn Correa",
+        "pos": "Mediocentro",
+        "age": "20",
+        "nat": "Perú",
+        "club": "Cusco FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Lucas Acevedo",
+        "pos": "Defensa central",
+        "age": "34",
+        "nat": "Perú",
+        "club": "Deportivo Táchira",
+        "fee": "Libre"
+      },
+      {
+        "player": "Diego Barreto",
+        "pos": "Mediocentro ofensivo",
+        "age": "32",
+        "nat": "Perú",
+        "club": "Sportivo Ameliano",
+        "fee": "Libre"
+      },
+      {
+        "player": "Cristian Neira",
+        "pos": "Mediocentro ofensivo",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Club Alianza Lima",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Isaac Camargo",
+        "pos": "Delantero centro",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Unión Magdalena",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Aamet Calderón",
+        "pos": "Portero",
+        "age": "27",
+        "nat": "Perú",
+        "club": "Universitario de Deportes",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Diego Rodríguez",
+        "pos": "Lateral derecho",
+        "age": "23",
+        "nat": "Perú",
+        "club": "FBC Melgar",
+        "fee": "Cesión"
+      },
+      {
+        "player": "Henri Espinoza",
+        "pos": "Extremo derecho",
+        "age": "18",
+        "nat": "Perú",
+        "club": "Club Atlético Grau II",
+        "fee": "-"
+      }
+    ],
+    "bajas": [
+      {
+        "player": "Diego Soto",
+        "pos": "Mediocentro",
+        "age": "24",
+        "nat": "Perú",
+        "club": "Cusco FC",
+        "fee": "Libre"
+      },
+      {
+        "player": "Rodrigo Vilca",
+        "pos": "Mediocentro ofensivo",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Comerciantes Unidos",
+        "fee": "Libre"
+      },
+      {
+        "player": "Tomás Sandoval",
+        "pos": "Delantero centro",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Correcaminos de la UAT",
+        "fee": "Libre"
+      },
+      {
+        "player": "Christopher Olivares",
+        "pos": "Delantero centro",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Deportivo Garcilaso",
+        "fee": "Libre"
+      },
+      {
+        "player": "Jherson Reyes",
+        "pos": "Lateral derecho",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Universidad San Martín de Porres",
+        "fee": "Libre"
+      },
+      {
+        "player": "Jeremy Rostaing",
+        "pos": "Lateral derecho",
+        "age": "30",
+        "nat": "Perú",
+        "club": "Sport Huancayo",
+        "fee": "Libre"
+      },
+      {
+        "player": "Leonel Solís",
+        "pos": "Pivote",
+        "age": "28",
+        "nat": "Perú",
+        "club": "Sport Boys Association",
+        "fee": "Libre"
+      },
+      {
+        "player": "Daniel Franco",
+        "pos": "Defensa central",
+        "age": "34",
+        "nat": "Perú",
+        "club": "CA Los Andes",
+        "fee": "Libre"
+      },
+      {
+        "player": "Fabio Rojas",
+        "pos": "Lateral derecho",
+        "age": "26",
+        "nat": "Perú",
+        "club": "Comerciantes Unidos",
+        "fee": "Libre"
+      },
+      {
+        "player": "Francesco Cavagna",
+        "pos": "Defensa central",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Universidad Técnica de Cajamarca",
+        "fee": "Libre"
+      },
+      {
+        "player": "Neri Bandiera",
+        "pos": "Delantero centro",
+        "age": "36",
+        "nat": "Perú",
+        "club": "Club Cienciano",
+        "fee": "Libre"
+      },
+      {
+        "player": "Adriel Trelles",
+        "pos": "Mediocentro",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Deportivo Llacuabamba",
+        "fee": "Libre"
+      },
+      {
+        "player": "Edu Lama",
+        "pos": "Extremo izquierdo",
+        "age": "20",
+        "nat": "Perú",
+        "club": "Club Atlético Torino",
+        "fee": "Libre"
+      },
+      {
+        "player": "Alvaro Reynoso",
+        "pos": "Portero",
+        "age": "22",
+        "nat": "Perú",
+        "club": "Club Dinamo de Solabaya",
+        "fee": "?"
+      },
+      {
+        "player": "Juan Garro",
+        "pos": "Extremo derecho",
+        "age": "33",
+        "nat": "Perú",
+        "club": "Sin equipo",
+        "fee": "-"
+      },
+      {
+        "player": "Benjamín García",
+        "pos": "Mediocentro",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Sin equipo",
+        "fee": "-"
+      },
+      {
+        "player": "José Bolívar",
+        "pos": "Lateral izquierdo",
+        "age": "25",
+        "nat": "Perú",
+        "club": "Universitario de Deportes",
+        "fee": "Fin de cesión31/12/2025"
+      },
+      {
+        "player": "Joel Herrera",
+        "pos": "Extremo derecho",
+        "age": "21",
+        "nat": "Perú",
+        "club": "Club Sporting Cristal II",
+        "fee": "Fin de cesión31/12/2025"
+      }
+    ]
+  },
+  "utc-cajamarca": {
+    "name": "UTC Cajamarca",
+    "vereinId": 21170,
+    "altas": [],
+    "bajas": []
+  },
+  "fc-cajamarca": {
+    "name": "FC Cajamarca",
+    "vereinId": 120792,
+    "altas": [],
+    "bajas": []
+  },
+  "deportivo-moquegua": {
+    "name": "Deportivo Moquegua",
+    "vereinId": 114625,
+    "altas": [],
+    "bajas": []
+  }
+}

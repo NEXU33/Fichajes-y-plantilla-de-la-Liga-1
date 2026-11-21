@@ -23,6 +23,23 @@ export function App() {
   // Dynamic Date formatting: "18 de noviembre de 2026", updates automatically every day
   const [currentDateFormatted, setCurrentDateFormatted] = useState<string>('');
 
+  // Anti-Spam / Rate-limiting cooldown for manual refresh (10 seconds)
+  const [refreshCooldown, setRefreshCooldown] = useState<number>(0);
+
+  useEffect(() => {
+    if (refreshCooldown <= 0) return;
+    const timer = setInterval(() => {
+      setRefreshCooldown((prev) => Math.max(0, prev - 1));
+    }, 1000);
+    return () => clearInterval(timer);
+  }, [refreshCooldown]);
+
+  const handleManualRefresh = () => {
+    if (loading || refreshCooldown > 0) return;
+    loadData();
+    setRefreshCooldown(10);
+  };
+
   // Selected player for modal
   const [selectedPlayerModal, setSelectedPlayerModal] = useState<{
     playerId: string;
@@ -164,15 +181,19 @@ export function App() {
 
             <div className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 text-xs text-slate-400">
               <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-              <span>Sync cada 12h</span>
+              <span>Datos en línea</span>
             </div>
 
             <button
-              onClick={loadData}
-              className="p-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300 transition cursor-pointer"
-              title="Actualizar datos"
+              onClick={handleManualRefresh}
+              disabled={loading || refreshCooldown > 0}
+              className="px-2.5 py-1.5 rounded-xl bg-slate-800 hover:bg-slate-700 disabled:opacity-40 disabled:hover:bg-slate-800 disabled:cursor-not-allowed text-slate-300 transition flex items-center gap-1.5 cursor-pointer text-xs font-semibold"
+              title={refreshCooldown > 0 ? `Espera ${refreshCooldown}s para volver a consultar` : "Actualizar datos"}
             >
-              <RefreshCw className={`w-4 h-4 ${loading ? 'animate-spin text-red-400' : ''}`} />
+              <RefreshCw className={`w-3.5 h-3.5 ${loading ? 'animate-spin text-red-400' : ''}`} />
+              {refreshCooldown > 0 && (
+                <span className="text-[10px] text-slate-400 font-mono">{refreshCooldown}s</span>
+              )}
             </button>
           </div>
         </div>

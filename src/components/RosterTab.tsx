@@ -25,6 +25,21 @@ export const RosterTab: React.FC<RosterTabProps> = ({
   const [filterStats, setFilterStats] = useState<SquadFilterStats | null>(null);
   const [loading, setLoading] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
+  const [refreshCooldown, setRefreshCooldown] = useState<number>(0);
+
+  useEffect(() => {
+    if (refreshCooldown <= 0) return;
+    const timer = setInterval(() => {
+      setRefreshCooldown((prev) => Math.max(0, prev - 1));
+    }, 1000);
+    return () => clearInterval(timer);
+  }, [refreshCooldown]);
+
+  const handleManualRefresh = () => {
+    if (loading || refreshCooldown > 0) return;
+    fetchSquad();
+    setRefreshCooldown(10);
+  };
 
   useEffect(() => {
     if (selectedTeam) {
@@ -99,28 +114,28 @@ export const RosterTab: React.FC<RosterTabProps> = ({
         </div>
       </div>
 
-      {/* Daily Sync & Strict Filter Status Bar */}
+      {/* Daily Status & Strict Filter Bar */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 px-5 py-3 rounded-2xl bg-gradient-to-r from-slate-900 via-slate-900 to-slate-950 border border-slate-800 shadow-md">
         <div className="flex items-center gap-2.5 text-xs text-slate-300">
           <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse flex-shrink-0" />
           <div className="flex flex-wrap items-center gap-1.5">
-            <span className="font-bold text-white">Sincronización Diaria Oficial:</span>
+            <span className="font-bold text-white">Nómina Oficial:</span>
             <span className="text-emerald-400 font-bold">{getFormattedToday()}</span>
             <span className="text-slate-500">•</span>
             <span className="text-slate-400 font-medium">
-              Filtro estricto de año y día vigente: depura bajas, traspasos y contratos vencidos
+              Filtro estricto: año vigente y contratos activos al día de hoy
             </span>
           </div>
         </div>
 
         <button
-          onClick={fetchSquad}
-          disabled={loading}
-          className="self-end sm:self-auto flex items-center gap-2 px-3.5 py-1.5 rounded-xl bg-blue-600/20 hover:bg-blue-600/30 text-blue-300 font-bold text-xs border border-blue-500/30 transition cursor-pointer disabled:opacity-50"
-          title="Actualizar nóminas al día de hoy"
+          onClick={handleManualRefresh}
+          disabled={loading || refreshCooldown > 0}
+          className="self-end sm:self-auto flex items-center gap-2 px-3.5 py-1.5 rounded-xl bg-blue-600/20 hover:bg-blue-600/30 text-blue-300 font-bold text-xs border border-blue-500/30 transition cursor-pointer disabled:opacity-40 disabled:hover:bg-blue-600/20 disabled:cursor-not-allowed"
+          title={refreshCooldown > 0 ? `Espera ${refreshCooldown}s para volver a consultar` : "Actualizar nómina"}
         >
           <RefreshCw className={`w-3.5 h-3.5 ${loading ? 'animate-spin' : ''}`} />
-          <span>Actualizar nóminas hoy</span>
+          <span>{refreshCooldown > 0 ? `Actualizado (${refreshCooldown}s)` : 'Refrescar nómina'}</span>
         </button>
       </div>
 
